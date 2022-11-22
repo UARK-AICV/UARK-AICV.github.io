@@ -12,9 +12,9 @@ permalink: /contact/
 
 AICV Lab is in JBHT of the University of Arkansas Fayetteville Campus ([Google Map](https://www.google.com/maps/place/University+of+Arkansas/@36.0686895,-94.1748471,15z/data=!4m5!3m4!1s0x0:0x10a2f93b787e2367!8m2!3d36.0686895!4d-94.1748471)):
 
->Room 447, Floor 4, J.B. Hunt Transport Services Inc. Center for Academic Excellence (JBHT)
->227 N. Harmon Ave.
->Fayetteville, AR 
+Room 447, Floor 4, J.B. Hunt Transport Services Inc. Center for Academic Excellence (JBHT)
+227 N. Harmon Ave.
+Fayetteville, AR 
 
 
 {% include jekyll_mapping.html %}
