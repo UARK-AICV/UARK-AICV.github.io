@@ -17,13 +17,6 @@ Room 447, Floor 4, J.B. Hunt Transport Services Inc. Center for Academic Excelle
 Fayetteville, AR 
 
 
-<!-- {% leaflet_map { "center" : [36.065970,  -94.173780],
-                 "zoom" : 14,
-                 "providerBasemap": "OpenTopoMap" } %}
-    {% leaflet_marker { "latitude" : 36.065970,
-                       "longitude" : -94.173780,
-                       "popupContent" : "JBHT 447"} %}
-{% endleaflet_map %} -->
 <div id="map"></div>
 
   <!-- Create the interactive map content with JavaScript (.js) -->
@@ -31,7 +24,7 @@ Fayetteville, AR
 
   /* Set up the initial map center and zoom level */
   var map = L.map('map', {
-    center: [41.77, -72.69], // EDIT coordinates to re-center map
+    center: [36.065970,  -94.173780], // EDIT coordinates to re-center map
     zoom: 12,  // EDIT from 1 (zoomed out) to 18 (zoomed in)
     scrollWheelZoom: false
   });
@@ -45,7 +38,7 @@ Fayetteville, AR
   }).addTo(map);
 
   /* Display a point marker with pop-up text */
-  L.marker([41.77, -72.69]).addTo(map) // EDIT marker coordinates
+  L.marker([36.065970,  -94.173780]).addTo(map) // EDIT marker coordinates
   .bindPopup("Insert pop-up text here"); // EDIT pop-up text message
 
 </script>
