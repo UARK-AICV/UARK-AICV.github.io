@@ -12,12 +12,7 @@ description:
 baseurl: ""
 url: ""
 
-plugins:
-  - jekyll-maps
-
-maps:
-  google:
-    api_key: AIzaSyDOBpjDyJxNEnUrt1KAKudXjlX2L3BBl4g
+google_maps_javascript_api_key: AIzaSyDOBpjDyJxNEnUrt1KAKudXjlX2L3BBl4g
 
 include:
   - .htaccess

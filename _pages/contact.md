@@ -16,12 +16,7 @@ Room 447, Floor 4, J.B. Hunt Transport Services Inc. Center for Academic Excelle
 227 N. Harmon Ave.
 Fayetteville, AR 
 
-{% google_map
-   zoom="10"
-   latitude="40.4378698"
-   longitude="-3.8196204"
-   marker_title="Madrid!"
-   marker_url="https://en.wikipedia.org/wiki/Madrid" %}
+{% include google-map.html latitude=36.065970 longitude=-94.173780 zoom=10 %}
 
 
 <!-- <img src="{{ site.url }}{{ site.baseurl }}/images/contactpic/map.png" style="width: 600px"> -->
