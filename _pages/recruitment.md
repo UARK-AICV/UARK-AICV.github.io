@@ -10,6 +10,7 @@ permalink: /recruitment/
 
 Thank you for your interest in joining the AICV Lab.
 
+
 ## Graduate students
 
 

@@ -1,3 +1,13 @@
+- title: "VLTinT: Visual-Linguistic Transformer-in-Transformer for Coherent Video Paragraph Captioning"
+  image: kashu_aaai23.png
+  description: 
+  authors: K. Yamazaki, K. Vo, S. Truong, B. Raj, N. Le
+  link:
+    url: 
+    display:  K. Yamazaki}, K. Vo, S. Truong, B. Raj, N. Le, AAAI (2023)
+  type: 1
+  news2:
+
 - title: "AISFormer: Amodal Instance Segmentation with Transformer"
   image: minh_bmvc22.png
   description: 
@@ -28,8 +38,6 @@
   type: 1
   news2:
 
-
-
 - title: "AOE-Net: Entities Interactions Modeling with Adaptive Attention Mechanism for Temporal Action Proposals Generation"
   image: khoa_ijcv22.png
   description: 
@@ -59,6 +67,18 @@
     display:  K. Vo, K. Yamazaki, S. Truong, M.-T. Tran, A. Sugimoto, and N. Le, IEEE Access, 2021
   type: 2
   news2:
+
+- title: "Deep Reinforcement Learning in Computer Vision: A Comprehensive Survey"
+  image: khoa_access21.png
+  description: 
+  authors: K. Vo, K. Yamazaki, S. Truong, M.-T. Tran, A. Sugimoto, and N. Le
+  link:
+    url: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9530693
+    display:  K. Vo, K. Yamazaki, S. Truong, M.-T. Tran, A. Sugimoto, and N. Le, IEEE Access, 2021
+  type: 2
+  news2:
+
+  
 
 - title: "Chicken Processing Plant With Automated Computer Vision"
   image:
