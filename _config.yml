@@ -13,21 +13,7 @@ baseurl: ""
 url: ""
 
 plugins:
-  - jekyll_json
-  - jekyll_mapping
-
-whitelist:
-  - jekyll_json
-  - jekyll_mapping
-
-mapping:
-  provider: openstreetmap
-  zoom: 8
-  dimensions:
-      width: 600
-      height: 400
-  latitude: 36.065970
-  longitude: -94.173780
+  - jekyll-leaflet
 
 include:
   - .htaccess

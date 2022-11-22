@@ -17,7 +17,14 @@ Room 447, Floor 4, J.B. Hunt Transport Services Inc. Center for Academic Excelle
 Fayetteville, AR 
 
 
-{% include jekyll_mapping.html %}
+{% leaflet_map { "center" : [36.065970,  -94.173780],
+                 "zoom" : 14,
+                 "providerBasemap": "OpenTopoMap" } %}
+    {% leaflet_marker { "latitude" : 36.065970,
+                       "longitude" : -94.173780,
+                       "popupContent" : "JBHT 447"} %}
+{% endleaflet_map %}
+
 
 
 ### Parking
