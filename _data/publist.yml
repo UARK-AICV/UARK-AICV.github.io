@@ -8,13 +8,35 @@
   type: 1
   news2:
 
+- title: "VLCap: Vision-Language with Contrastive Learning for Coherent Video Paragraph Captioning"
+  image: kashu_icip22.png
+  description: 
+  authors: K. Yamazaki, S. Truong, K. Vo, M. Kidd, C. Rainwater, K. Luu, N. Le
+  link:
+    url: https://ieeexplore.ieee.org/iel7/9897158/9897159/09897766.pdf
+    display:  K. Yamazaki, S. Truong, K. Vo, M. Kidd, C. Rainwater, K. Luu, N. Le, ICIP (2022)
+  type: 1
+  news2:
+
+- title: "AEI: Actors-Environment Interaction with Adaptive Attention for Temporal Action Proposals Generation"
+  image: khoa_bmvc21.png
+  description: 
+  authors: K. Vo, H. Joo, K. Yamazaki, S. Truong, K. Kitani,, M.-T. Tran, N. Le
+  link:
+    url: https://papertalk.org/papertalks/34372
+    display:  K. Vo, H. Joo, K. Yamazaki, S. Truong, K. Kitani,, M.-T. Tran, N. Le, BMVC (2021) **Oral Presentation**
+  type: 1
+  news2:
+
+
+
 - title: "AOE-Net: Entities Interactions Modeling with Adaptive Attention Mechanism for Temporal Action Proposals Generation"
   image: khoa_ijcv22.png
   description: 
   authors: K. Vo, S. Truong, K. Yamazaki, B. Raj, MT. Tran, N. Le
   link:
     url: https://link.springer.com/article/10.1007/s11263-022-01702-9
-    display:  K. Vo, S. Truong*, K. Yamazaki*, B. Raj, MT. Tran, N. Le, International Journal of Computer Vision (IJCV), 2022
+    display:  K. Vo, S. Truong, K. Yamazaki, B. Raj, MT. Tran, N. Le, International Journal of Computer Vision (IJCV), 2022
   type: 2
   news2:
 
@@ -25,6 +47,16 @@
   link:
     url: https://www.mdpi.com/2076-3425/12/7/863/
     display:  K. Yamazaki, K. Vo-Ho, D. Bulsara, N. Le, Brain Sciences, 2022
+  type: 2
+  news2:
+
+- title: "ABN: Agent-Aware Boundary Networks for Temporal Action Proposal Generation"
+  image: khoa_access21.png
+  description: 
+  authors: K. Vo, K. Yamazaki, S. Truong, M.-T. Tran, A. Sugimoto, and N. Le
+  link:
+    url: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9530693
+    display:  K. Vo, K. Yamazaki, S. Truong, M.-T. Tran, A. Sugimoto, and N. Le, IEEE Access, 2021
   type: 2
   news2:
 
