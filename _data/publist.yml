@@ -4,7 +4,7 @@
   authors: K. Yamazaki, K. Vo, S. Truong, B. Raj, N. Le
   link:
     url: 
-    display:  K. Yamazaki}, K. Vo, S. Truong, B. Raj, N. Le, AAAI (2023)
+    display:  K. Yamazaki, K. Vo, S. Truong, B. Raj, N. Le, AAAI, 2023
   type: 1
   news2:
 
@@ -14,7 +14,7 @@
   authors: M. Tran, K. Vo, K. Yamazaki, A. Fernandes, M. Kidd, N. Le
   link:
     url: https://arxiv.org/abs/2210.06323
-    display:  M. Tran, K. Vo, K. Yamazaki, A. Fernandes, M. Kidd, N. Le, BMVC (2022)
+    display:  M. Tran, K. Vo, K. Yamazaki, A. Fernandes, M. Kidd, N. Le, BMVC, 2022
   type: 1
   news2:
 
@@ -24,7 +24,7 @@
   authors: K. Yamazaki, S. Truong, K. Vo, M. Kidd, C. Rainwater, K. Luu, N. Le
   link:
     url: https://ieeexplore.ieee.org/iel7/9897158/9897159/09897766.pdf
-    display:  K. Yamazaki, S. Truong, K. Vo, M. Kidd, C. Rainwater, K. Luu, N. Le, ICIP (2022)
+    display:  K. Yamazaki, S. Truong, K. Vo, M. Kidd, C. Rainwater, K. Luu, N. Le, ICIP, 2022
   type: 1
   news2:
 
@@ -34,7 +34,17 @@
   authors: K. Vo, H. Joo, K. Yamazaki, S. Truong, K. Kitani,, M.-T. Tran, N. Le
   link:
     url: https://papertalk.org/papertalks/34372
-    display:  K. Vo, H. Joo, K. Yamazaki, S. Truong, K. Kitani,, M.-T. Tran, N. Le, BMVC (2021) **Oral Presentation**
+    display:  K. Vo, H. Joo, K. Yamazaki, S. Truong, K. Kitani,, M.-T. Tran, N. Le, BMVC, 2021 **Oral Presentation**
+  type: 1
+  news2:
+
+- title: "Invertible Residual Network with Regularization for Effective Volumetric Segmentation"
+  image: kashu_spie21.jpg
+  description: 
+  authors: K. Yamazaki, N. Le, V. Rathour
+  link:
+    url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11596/1159610/Invertible-residual-network-with-regularization-for-effective-volumetric-segmentation/10.1117/12.2581396.pdf
+    display:  K. Yamazaki, N. Le, V. Rathour, SPIE Medical Imaging, 2021
   type: 1
   news2:
 
@@ -69,16 +79,26 @@
   news2:
 
 - title: "Deep Reinforcement Learning in Computer Vision: A Comprehensive Survey"
-  image: khoa_access21.png
+  image: le_air21.png
   description: 
-  authors: K. Vo, K. Yamazaki, S. Truong, M.-T. Tran, A. Sugimoto, and N. Le
+  authors: N. Le, K. Yamazaki, V. Rathour, K. Luu, and M. Savvides
   link:
-    url: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9530693
-    display:  K. Vo, K. Yamazaki, S. Truong, M.-T. Tran, A. Sugimoto, and N. Le, IEEE Access, 2021
+    url: https://link.springer.com/article/10.1007/s10462-021-10061-9
+    display:  N. Le, K. Yamazaki, V. Rathour, K. Luu, and M. Savvides, Artificial Intelligence Review, 2021
   type: 2
   news2:
 
-  
+- title: "Narrow Band Active Contour Attention Model for Medical Segmentation"
+  image: le_diag21.png
+  description: 
+  authors: N. Le, T. Bui, K. Vo-Ho, K. Yamazaki, K. Luu 
+  link:
+    url: https://www.mdpi.com/2075-4418/11/8/1393/htm
+    display:  N. Le, T. Bui, K. Vo-Ho, K. Yamazaki, K. Luu, Diagnostics, 2021
+  type: 2
+  news2:
+
+
 
 - title: "Chicken Processing Plant With Automated Computer Vision"
   image:
