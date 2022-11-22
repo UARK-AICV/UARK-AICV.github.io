@@ -16,11 +16,8 @@ Room 447, Floor 4, J.B. Hunt Transport Services Inc. Center for Academic Excelle
 227 N. Harmon Ave.
 Fayetteville, AR 
 
-<!-- {% include google-map.html latitude=36.065970 longitude=-94.173780 zoom=10 %} -->
+
 {% include jekyll_mapping.html %}
-
-
-<!-- <img src="{{ site.url }}{{ site.baseurl }}/images/contactpic/map.png" style="width: 600px"> -->
 
 
 ### Parking
