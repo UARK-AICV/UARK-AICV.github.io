@@ -55,6 +55,27 @@ permalink: /publications/
 
 <p> &nbsp; </p>
 
+## Patents
+
+{% assign number_printed = 0 %}
+{% for publi in site.data.publist %}
+
+{% if publi.type == 3 %}
+
+<div class="row">
+
+<div class="col-sm-12 clearfix">
+ <div class="row">
+  <p><a class="pub1" href="{{ publi.link.url }}">{{ publi.title }}</a></p>
+  <a class="pub2"> {{ publi.link.display }} </a>
+ </div>
+</div>
+
+{% endif %}
+{% endfor %}
+
+<p> &nbsp; </p>
+
 ---
 
 <div>

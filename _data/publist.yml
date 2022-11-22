@@ -11,9 +11,29 @@
 - title: "AOE-Net: Entities Interactions Modeling with Adaptive Attention Mechanism for Temporal Action Proposals Generation"
   image: khoa_ijcv22.png
   description: 
-  authors: K. Vo, S. Truong*, K. Yamazaki*, B. Raj, MT. Tran, N. Le
+  authors: K. Vo, S. Truong, K. Yamazaki, B. Raj, MT. Tran, N. Le
   link:
     url: https://link.springer.com/article/10.1007/s11263-022-01702-9
     display:  K. Vo, S. Truong*, K. Yamazaki*, B. Raj, MT. Tran, N. Le, International Journal of Computer Vision (IJCV), 2022
   type: 2
+  news2:
+
+- title: "Chicken Processing Plant With Automated Computer Vision"
+  image:
+  description: 
+  authors: Ngan T.H. Le, Michael Kidd
+  link:
+    url:
+    display:  Ngan T.H. Le, Michael Kidd, P2757US00, UADA 2021-020 (UAF 2021-032)
+  type: 3
+  news2:
+
+- title: "Artificial Intelligence And Vision-Based Broiler Body Weight Measurement System And Process"
+  image:
+  description: 
+  authors: Ngan T.H. Le, Michael Kidd
+  link:
+    url:
+    display:  Ngan T.H. Le, Michael Kidd, P2736US00, UADA 2021-009 (UAF 2021-017)
+  type: 3
   news2:
