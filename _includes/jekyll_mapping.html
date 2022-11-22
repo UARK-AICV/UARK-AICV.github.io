@@ -4,9 +4,9 @@
             <script>
                 var jekyllMappingAPIKey = '{{ site.mapping.api_key }}';
             </script>
-            <script src="/javascripts/gmaps.js"></script>
+            <script src="{{ site.url }}{{ site.baseurl }}/javascripts/gmaps.js"></script>
         {% when "openstreetmap" %}
             <script src="http://www.openlayers.org/api/OpenLayers.js"></script>
-            <script src="/javascripts/openstreetmaps.js"></script>
+            <script src="{{ site.url }}{{ site.baseurl }}/javascripts/openstreetmaps.js"></script>
     {% endcase %}
 {% endif %}
