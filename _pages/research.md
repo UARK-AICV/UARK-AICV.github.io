@@ -15,7 +15,7 @@ permalink: /research/
 <div style="text-align: justify">
 This paper presents an advanced Convolutional Neural Network (ConvNet) based approach, named Multiple Scale Region-based Fully Convolutional Networks (MS-RFCN), for hand detection and classification. In order to robustly deal with the challenging factors, we proposed to span the receptive fields in the ConvNet in multiple deep feature maps. By this way, both global and local context information are able to be efficiently synchronized and simultaneously contribute to the human hand feature representation process. 
 
-The experiments are presented on the challenging hand databases, i.e. the Vision for Intelligent Vehicles and Applications (VIVA) Challenge and Oxford Hand Detection database. Our proposed method achieves the state-of-the-art results 
+The experiments are presented on the challenging hand databases, i.e. the Vision for Intelligent Vehicles and Applications (VIVA) Challenge and Oxford Hand Detection database. Our proposed method achieves the state-of-the-art results.
 </div>
 ---- 
 
@@ -23,6 +23,14 @@ The experiments are presented on the challenging hand databases, i.e. the Vision
 # Robotics
 
 ---
+![]({{ site.url }}{{ site.baseurl }}/images/respic/go1_isaac_gym.gif){: style="width: 300px; float: left;margin-right: 30px; border: 10px"}
+
+## Robust Gait Learning via Reinforcement Learning
+<div style="text-align: justify">
+A quadruped robot (Unitree Go1) learns to walk across challenging terrain, including uneven surfaces, slopes, stairs, and obstacles, while following linear- and angular- velocity commands.
+</div>
+---- 
+
 
 
 # Medical Imaging
