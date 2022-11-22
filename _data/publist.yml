@@ -1,9 +1,19 @@
 - title: "AISFormer: Amodal Instance Segmentation with Transformer"
   image: minh_bmvc22.png
   description: 
-  authors: Minh Tran, Khoa Vo, Kashu Yamazaki, Arthur Fernandes, Michael Kidd, Ngan Le
+  authors: M. Tran, K. Vo, K. Yamazaki, A. Fernandes, M. Kidd, N. Le
   link:
     url: https://arxiv.org/abs/2210.06323
-    display:  Minh Tran, Khoa Vo, Kashu Yamazaki, Arthur Fernandes, Michael Kidd, Ngan Le, BMVC (2022)
-  highlight: 1
+    display:  M. Tran, K. Vo, K. Yamazaki, A. Fernandes, M. Kidd, N. Le, BMVC (2022)
+  type: 1
+  news2:
+
+- title: "AOE-Net: Entities Interactions Modeling with Adaptive Attention Mechanism for Temporal Action Proposals Generation"
+  image: khoa_ijcv22.png
+  description: 
+  authors: K. Vo, S. Truong*, K. Yamazaki*, B. Raj, MT. Tran, N. Le
+  link:
+    url: https://link.springer.com/article/10.1007/s11263-022-01702-9
+    display:  K. Vo, S. Truong*, K. Yamazaki*, B. Raj, MT. Tran, N. Le, International Journal of Computer Vision (IJCV), 2022
+  type: 2
   news2:
