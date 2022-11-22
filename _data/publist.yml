@@ -18,6 +18,16 @@
   type: 2
   news2:
 
+- title: "Spiking neural networks and their applications: A Review"
+  image: kashu_bc22.png
+  description: 
+  authors: K. Yamazaki, K. Vo-Ho, D. Bulsara, N. Le
+  link:
+    url: https://www.mdpi.com/2076-3425/12/7/863/
+    display:  K. Yamazaki, K. Vo-Ho, D. Bulsara, N. Le, Brain Sciences, 2022
+  type: 2
+  news2:
+
 - title: "Chicken Processing Plant With Automated Computer Vision"
   image:
   description: 
