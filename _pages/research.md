@@ -18,6 +18,15 @@ Following the human perception process, where the scene is effectively understoo
 </div>
 
 ---
+![]({{ site.url }}{{ site.baseurl }}/images/respic/tapg.gif){: style="width: 300px; float: left;margin-right: 30px; border: 10px"}
+
+## Temporal Action Proposal Generation
+<div style="text-align: justify">
+Video paragraph captioning aims to generate a multi-sentence description of an untrimmed video with several temporal event locations in coherent storytelling. 
+Following the human perception process, where the scene is effectively understood by decomposing it into visual (e.g. human, animal) and non-visual components (e.g. action, relations) under the mutual influence of vision and language, we first propose a visual-linguistic (VL) feature. In the proposed VL feature, the scene is modeled by three modalities including (i) a global visual environment; (ii) local visual main agents; (iii) linguistic scene elements. We then introduce an autoregressive Transformer-in-Transformer (TinT) to simultaneously capture the semantic coherence of intra- and inter-event contents within a video. Finally, we present a new VL contrastive loss function to guarantee learnt embedding features are matched with the captions semantics. Comprehensive experiments and extensive ablation studies on ActivityNet Captions and YouCookII datasets show that the proposed Visual-Linguistic Transformer-in-Transform (VLTinT) outperforms prior state-of-the-art methods on accuracy and diversity. Source code is available upon acceptance.
+</div>
+
+---
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/hand_on_steering_wheel.png){: style="width: 300px; float: left;margin-right: 30px; border: 10px"}
 
 ## Hand On Steering Wheel Detection and Classification
@@ -26,7 +35,6 @@ This paper presents an advanced Convolutional Neural Network (ConvNet) based app
 
 The experiments are presented on the challenging hand databases, i.e. the Vision for Intelligent Vehicles and Applications (VIVA) Challenge and Oxford Hand Detection database. Our proposed method achieves the state-of-the-art results.
 </div>
----- 
 
 
 # Robotics
@@ -39,7 +47,6 @@ The experiments are presented on the challenging hand databases, i.e. the Vision
 While quadrupeds can open the operational domains of robots thanks to their dynamic locomotion capabilities, conventional controllers for legged locomotion constraint their applications to relatively simple environments that can be taken over by wheeled robots.
 Here we use reinforcement learning to train a quadruped to walk on various terrains. In the simulation, a quadruped robot (Unitree Go1) learns to walk across challenging terrain, including uneven surfaces, slopes, stairs, and obstacles, while following linear- and angular- velocity commands.
 </div>
----- 
 
 # Medical Imaging
 
