@@ -58,7 +58,7 @@
   type: 1
   news2:
 
-- title: "A Multi-task Contextual Atrous Residual Network for Brain Tumor Detection \& Segmentation"
+- title: "A Multi-task Contextual Atrous Residual Network for Brain Tumor Detection and Segmentation"
   image: le_icpr20a.png
   description: 
   authors: N. Le, K. Yamazaki, K. Quach, D. Truong, and M. Savvides
