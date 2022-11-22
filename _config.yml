@@ -12,7 +12,14 @@ description:
 baseurl: ""
 url: ""
 
-google_maps_javascript_api_key: AIzaSyDOBpjDyJxNEnUrt1KAKudXjlX2L3BBl4g
+mapping:
+    provider: openstreetmap
+    zoom: 8
+    dimensions:
+        width: 600
+        height: 400
+    latitude: 36.065970
+    longitude: -94.173780
 
 include:
   - .htaccess
