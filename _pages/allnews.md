@@ -1,7 +1,7 @@
 ---
-title: "Sanders Lab - News"
+title: "AICV Lab - News"
 layout: textlay
-excerpt: "Sanders Lab at UCSF."
+excerpt: "AICV Lab"
 sitemap: false
 permalink: /allnews.html
 ---

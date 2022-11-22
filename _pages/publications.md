@@ -1,7 +1,7 @@
 ---
-title: "Sanders Lab - Publications"
+title: "AICV Lab - Publications"
 layout: gridlay
-excerpt: "Sanders Lab -- Publications."
+excerpt: "AICV Lab -- Publications."
 sitemap: false
 permalink: /publications/
 ---
@@ -52,7 +52,7 @@ permalink: /publications/
 <div>
 ## Full List
 
-For a full list, please go to <a class="regtext" href="https://scholar.google.com/citations?user=O1EuSPYAAAAJ">Google Scholar</a> or <a class="regtext" href="https://www.ncbi.nlm.nih.gov/pubmed?term=Sanders%20SJ%5BAuthor%5D">Pubmed</a>.
+For a full list, please go to <a class="regtext" href="https://scholar.google.com/citations?user=8ck0k_UAAAAJ&hl=en&authuser=1">Google Scholar</a>.
 <br><br><br>
 
 </div>
