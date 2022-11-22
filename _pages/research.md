@@ -9,6 +9,15 @@ permalink: /research/
 # Computer Vision
 
 ---
+![]({{ site.url }}{{ site.baseurl }}/images/respic/hand_on_steering_wheel.png){: style="width: 300px; float: left;margin-right: 30px; border: 10px"}
+
+## Hand On Steering Wheel Detection and Classification
+<div style="text-align: justify">
+This paper presents an advanced Convolutional Neural Network (ConvNet) based approach, named Multiple Scale Region-based Fully Convolutional Networks (MS-RFCN), for hand detection and classification. In order to robustly deal with the challenging factors, we proposed to span the receptive fields in the ConvNet in multiple deep feature maps. By this way, both global and local context information are able to be efficiently synchronized and simultaneously contribute to the human hand feature representation process. 
+
+The experiments are presented on the challenging hand databases, i.e. the Vision for Intelligent Vehicles and Applications (VIVA) Challenge and Oxford Hand Detection database. Our proposed method achieves the state-of-the-art results 
+</div>
+---- 
 
 
 # Robotics
