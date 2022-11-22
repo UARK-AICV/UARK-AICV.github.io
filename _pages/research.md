@@ -36,11 +36,10 @@ The experiments are presented on the challenging hand databases, i.e. the Vision
 
 ## Robust Gait Learning via Reinforcement Learning
 <div style="text-align: justify">
-A quadruped robot (Unitree Go1) learns to walk across challenging terrain, including uneven surfaces, slopes, stairs, and obstacles, while following linear- and angular- velocity commands.
+While quadrupeds can open the operational domains of robots thanks to their dynamic locomotion capabilities, conventional controllers for legged locomotion constraint their applications to relatively simple environments that can be taken over by wheeled robots.
+Here we use reinforcement learning to train a quadruped to walk on various terrains. In the simulation, a quadruped robot (Unitree Go1) learns to walk across challenging terrain, including uneven surfaces, slopes, stairs, and obstacles, while following linear- and angular- velocity commands.
 </div>
 ---- 
-
-
 
 # Medical Imaging
 
