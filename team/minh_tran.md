@@ -8,7 +8,7 @@ twitter:
 github:
 scholar:
 linkedin: 
-photo: minh_tran.jpg
+photo: minh_tran.png
 ---
 
 ### Overview
