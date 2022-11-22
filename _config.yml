@@ -12,9 +12,6 @@ description:
 baseurl: ""
 url: ""
 
-plugins:
-  - jekyll-leaflet
-
 include:
   - .htaccess
   - _pages

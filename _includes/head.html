@@ -10,6 +10,17 @@
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
 	<link rel="stylesheet" href="/css/academicons/css/academicons.css">
 
+	<!-- Load Leaflet code library: see https://leafletjs.com/download.html -->
+	<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.2/dist/leaflet.css" integrity="sha256-sA+zWATbFveLLNqWO2gtiw3HL/lh1giY/Inf1BJ0z14=" crossorigin="" />
+	<script src="https://unpkg.com/leaflet@1.9.2/dist/leaflet.js" integrity="sha256-o9N1jGDZrf5tS+Ft4gbIK7mYMipq9lqpVJ91xHSyKhg=" crossorigin=""></script>
+  
+	<!-- Position the map and title with Cascading Style Sheet (CSS) -->
+	<style>
+	body { margin:0; padding:0; }
+	#map { position: absolute; top:0; bottom:0; right:0; left:0; }
+	#map-title { position: relative; margin-top: 10px; margin-left: 50px; float: left; background: white; border: 2px solid rgba(0,0,0,0.2); padding: 6px 8px; font-family: Helvetica; font-weight: bold; font-size: 24px; z-index: 800; }
+	</style>
+
 	{% if jekyll.environment == 'production' %}
 	{% include analytics.html %}
 	{% endif %}
