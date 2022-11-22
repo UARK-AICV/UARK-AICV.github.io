@@ -12,7 +12,7 @@ description:
 baseurl: ""
 url: ""
 
-gems:
+plugins:
   - jekyll-maps
 
 maps:
