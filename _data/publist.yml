@@ -1,9 +1,9 @@
 - title: "AISFormer: Amodal Instance Segmentation with Transformer"
-  image: 
+  image: minh_bmvc22.png
   description: 
   authors: Minh Tran, Khoa Vo, Kashu Yamazaki, Arthur Fernandes, Michael Kidd, Ngan Le
   link:
     url: https://arxiv.org/abs/2210.06323
-    display:  Tran et al. BMVC (2022)
+    display:  Minh Tran, Khoa Vo, Kashu Yamazaki, Arthur Fernandes, Michael Kidd, Ngan Le, BMVC (2022)
   highlight: 1
   news2:
