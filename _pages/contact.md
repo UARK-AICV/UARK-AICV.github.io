@@ -8,6 +8,9 @@ permalink: /contact/
 
 # Contact
 
+## Joining Our Lab
+If you are interested in joining please go to the [recruitment](recruitment) page.
+
 
 ## Lab Location
 
