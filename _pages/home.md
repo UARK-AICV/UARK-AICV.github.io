@@ -18,9 +18,9 @@ The AICV Lab aims to
 
 There are three main areas of research:
 
-1. **Gene discovery**:
-2. **Understanding the noncoding genome**: 
-3. **Medical Image Segmentation**: 
+1. **Computer Vision**: 
+2. **Robotics**: 
+3. **Medical Imaging**: 
 
 
 ### Technologies and methods
