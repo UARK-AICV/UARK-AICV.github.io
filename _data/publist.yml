@@ -38,6 +38,16 @@
   type: 1
   news2:
 
+- title: "Agent-Environment Network for Temporal Action Proposal Generation"
+  image: khoa_icassp21.png
+  description: 
+  authors: V. Vo-Ho, N. Le, K. Yamazaki, A. Sugimoto, and M. Tran
+  link:
+    url: https://ieeexplore.ieee.org/iel7/9413349/9413350/09415101.pdf
+    display:  V. Vo-Ho, N. Le, K. Yamazaki, A. Sugimoto, and M. Tran, IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2021
+  type: 1
+  news2:
+
 - title: "Invertible Residual Network with Regularization for Effective Volumetric Segmentation"
   image: kashu_spie21.jpg
   description: 
@@ -45,6 +55,26 @@
   link:
     url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11596/1159610/Invertible-residual-network-with-regularization-for-effective-volumetric-segmentation/10.1117/12.2581396.pdf
     display:  K. Yamazaki, N. Le, V. Rathour, SPIE Medical Imaging, 2021
+  type: 1
+  news2:
+
+- title: "A Multi-task Contextual Atrous Residual Network for Brain Tumor Detection \& Segmentation"
+  image: le_icpr20a.png
+  description: 
+  authors: N. Le, K. Yamazaki, K. Quach, D. Truong, and M. Savvides
+  link:
+    url: https://ieeexplore.ieee.org/iel7/9411940/9411911/09412414.pdf
+    display:  N. Le, K. Yamazaki, K. Quach, D. Truong, and M. Savvides, International Conference on Pattern Recognition (ICPR), 2020
+  type: 1
+  news2:
+
+- title: "Offset Curves Loss for Imbalanced Problem in Medical Segmentation"
+  image: le_icpr20b.png
+  description: 
+  authors: N. Le, T. Le, K. Yamazaki, B. Toan, K. Luu
+  link:
+    url: https://ieeexplore.ieee.org/iel7/9411940/9411911/09411921.pdf
+    display:  N. Le, T. Le, K. Yamazaki, B. Toan, K. Luu, International Conference on Pattern Recognition (ICPR), 2020
   type: 1
   news2:
 
