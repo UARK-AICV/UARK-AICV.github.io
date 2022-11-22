@@ -10,7 +10,7 @@ permalink: /
 # Welcome to AICV Lab
 
 
-![]({{ site.url }}{{ site.baseurl }}/images/lab_logo.png){: style="width: 170px; float: left;margin-right: 20px; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/lab_logo1.png){: style="width: 170px; float: left;margin-right: 20px; border: 10px"}
 
 
 The AICV Lab aims to 
