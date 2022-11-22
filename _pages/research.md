@@ -9,6 +9,15 @@ permalink: /research/
 # Computer Vision
 
 ---
+![]({{ site.url }}{{ site.baseurl }}/images/respic/vltint_vpc_demo1.gif){: style="width: 300px; float: left;margin-right: 30px; border: 10px"}
+
+## Vedeo Paragraph Captioning
+<div style="text-align: justify">
+
+</div>
+---- 
+
+---
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/hand_on_steering_wheel.png){: style="width: 300px; float: left;margin-right: 30px; border: 10px"}
 
 ## Hand On Steering Wheel Detection and Classification

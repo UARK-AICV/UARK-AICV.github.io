@@ -14,9 +14,14 @@ Follow:
   link:
     url: https://elifesciences.org/articles/61408
     display:  Young et al. eLife (2021)
-  highlight: 1
+  type: 1
   news2: 
 ```
+
+The corresponding type is:
+- `1`: Conference Papers
+- `2`: Journal Papers
+- `3`: Patents
 
 ### Add news
 1. modify `data/news.yml`
