@@ -34,6 +34,12 @@
   url: kashu_yamazaki
   group: 2
 
+- name: Taisei Hanyu
+  photo: no_pic.png
+  info: Sophomore
+  url: taisei_hanyu
+  group: 3
+
 - name: Kevin Joo
   photo: no_pic.png
   info: Master Student
