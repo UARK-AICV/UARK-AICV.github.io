@@ -8,6 +8,7 @@ twitter:
 github: vhvkhoa
 scholar: Iyvx8vcAAAAJ
 linkedin: khoa-vo-632a8b189
+web: https://vhvkhoa.github.io/
 photo: khoa_vo.jpg
 ---
 
