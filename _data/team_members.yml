@@ -34,6 +34,12 @@
   url: kashu_yamazaki
   group: 2
 
+- name: Kevin Joo
+  photo: no_pic.png
+  info: Master Student
+  url: kevin_joo
+  group: 4
+
 # - name:  
 #   photo: lindsayliang.jpg
 #   info: Bioinformatics Programmer II
