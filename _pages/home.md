@@ -33,14 +33,14 @@ We work with closely with numerous collaborators, including Dr. [Michael Kidd](h
 If you are interested in joining please go to the [recruitment](recruitment) page.
 
 ### Funding
-We are grateful for fundings from:
+We are grateful for funding from our supporters:
 <!-- 
 [National Institute of Health](https://www.nimh.nih.gov/) and the [The Simons Foundation Autism Research Initiative](https://www.sfari.org/), the [Autism Science Foundation](https://autismsciencefoundation.org/), and the [Brain & Behavior Research Foundation](https://www.bbrfoundation.org/). -->
 
 <figure class="third">
 <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nih.jpg" style="height: 90px"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nsf.jpg" style="height: 90px"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/cobb.png" style="height: 90px">
   
-<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/aviagen.jpg" style="height: 100px"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/adisseo.png" style="height: 100px"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/winnow.jpg" style="height: 100px">
+<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/aviagen.jpg" style="height: 100px"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/adisseo.png" style="height: 100px"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/winnow.jpg" style="height: 100px"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/uark_agri.jpg" style="height: 100px">
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/tyson.png" style="height: 80px"> <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ai_sustein.webp" style="height: 80px">
+<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/tyson.png" style="height: 80px"> <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ai_sustein.webp" style="height: 80px"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/uark_eng.jpg" style="height: 100px">
 </figure>
