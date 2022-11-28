@@ -33,7 +33,7 @@ We work with closely with numerous collaborators, including Dr. [Michael Kidd](h
 If you are interested in joining please go to the [recruitment](recruitment) page.
 
 ### Funding
-We are grateful for funding from:
+We are grateful for fundings from:
 <!-- 
 [National Institute of Health](https://www.nimh.nih.gov/) and the [The Simons Foundation Autism Research Initiative](https://www.sfari.org/), the [Autism Science Foundation](https://autismsciencefoundation.org/), and the [Brain & Behavior Research Foundation](https://www.bbrfoundation.org/). -->
 
