@@ -26,14 +26,11 @@ Here is the three main areas of interest of our lab:
 ### Technologies and methods
 Our group utilize advanced machine learning techniques with a great focus on deep neural networks. 
 
-<!-- ### Collaborators
-We work with closely with numerous collaborators, including Dr. [Michael Kidd](https://poultry-science.uark.edu/people/faculty/uid/mkidd/name/Michael+T.+Kidd/) from Department of Poultry Science,  -->
-
 ### Joining Our Lab
 If you are interested in joining please go to the [recruitment](recruitment) page.
 
 ### Funding
-We are grateful for funding from our supporters:
+We are grateful for funding from our sponsors:
 <!-- 
 [National Institute of Health](https://www.nimh.nih.gov/) and the [The Simons Foundation Autism Research Initiative](https://www.sfari.org/), the [Autism Science Foundation](https://autismsciencefoundation.org/), and the [Brain & Behavior Research Foundation](https://www.bbrfoundation.org/). -->
 
@@ -42,5 +39,5 @@ We are grateful for funding from our supporters:
   
 <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/aviagen.jpg" style="height: 100px"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/adisseo.png" style="height: 100px"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/winnow.jpg" style="height: 100px"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/uark_agri.jpg" style="height: 100px">
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/tyson.png" style="height: 80px"> <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ai_sustein.webp" style="height: 80px"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/uark_eng.jpg" style="height: 100px">
+<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/tyson.png" style="height: 80px"> <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ai_sustein.webp" style="height: 80px"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/uark_eng.jpg" style="height: 90px">
 </figure>
