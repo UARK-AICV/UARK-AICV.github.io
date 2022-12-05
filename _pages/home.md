@@ -38,5 +38,5 @@ We are grateful for funding from our sponsors:
   
 <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/aviagen.jpg" style="height: 100px"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/adisseo.png" style="height: 100px"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/winnow.jpg" style="height: 100px"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/uark_agri.jpg" style="height: 100px">
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/tyson.png" style="height: 80px"> <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ai_sustein.webp" style="height: 80px"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/uark_eng.jpg" style="height: 90px">
+<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/tyson.png" style="height: 80px"> <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ai_sustein.webp" style="height: 60px"> <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/uark_eng.jpg" style="height: 90px">
 </figure>
