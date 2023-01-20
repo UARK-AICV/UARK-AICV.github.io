@@ -28,6 +28,12 @@
   url: duc_le
   group: 2
 
+- name: Thinh Phan
+  photo: thinh_phan.jpg
+  info: Ph.D. Student
+  url: thinh_phan
+  group: 2
+
 - name: Kashu Yamazaki
   photo: kashu_yamazaki.jpg
   info: Master Student
