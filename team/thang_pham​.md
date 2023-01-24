@@ -1,12 +1,12 @@
 ---
 layout: member
-title: Taisei Hanyu
-position: Undergraduate Honor Student
-handle: taisei_hanyu
+title: Thang Pham
+position: Ph.D. Student
+handle: thang_pham
 email: 
 twitter:
 github:
-scholar: 
+scholar:
 linkedin: 
 photo: no_pic.png
 ---
@@ -15,3 +15,4 @@ photo: no_pic.png
 
 
 ### Education
+- BS, Degree, Univ (Year)

@@ -1,17 +1,18 @@
 ---
 layout: member
-title: Taisei Hanyu
-position: Undergraduate Honor Student
-handle: taisei_hanyu
+title: Tan Bui
+position: Ph.D. Student
+handle: tan_bui
 email: 
 twitter:
 github:
 scholar: 
 linkedin: 
-photo: no_pic.png
+photo: tan_bui.png
 ---
 
 ### Overview
 
 
 ### Education
+- BS, Degree, Univ (Year)

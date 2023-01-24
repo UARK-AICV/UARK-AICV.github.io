@@ -1,17 +1,18 @@
 ---
 layout: member
-title: Taisei Hanyu
+title: Noah Core
 position: Undergraduate Honor Student
-handle: taisei_hanyu
+handle: noah_core
 email: 
 twitter:
 github:
 scholar: 
 linkedin: 
-photo: no_pic.png
+photo: noah_core.png
 ---
 
 ### Overview
 
 
 ### Education
+- BS, Degree, Univ (Year)

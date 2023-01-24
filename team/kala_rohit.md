@@ -1,17 +1,18 @@
 ---
 layout: member
-title: Taisei Hanyu
+title: Kala Rohit
 position: Undergraduate Honor Student
-handle: taisei_hanyu
+handle: kala_rohit
 email: 
 twitter:
 github:
 scholar: 
 linkedin: 
-photo: no_pic.png
+photo: kala_rohit.png
 ---
 
 ### Overview
 
 
 ### Education
+- BS, Degree, Univ (Year)

@@ -1,0 +1,78 @@
+- name: Ngan Le
+  photo: ngan_le.jpg
+  info: Assistant Professor
+  url: ngan_le
+  group: 0
+  
+- name: Khoa Vo
+  photo: khoa_vo.jpg
+  info: Ph.D. Student
+  url: khoa_vo
+  group: 2
+
+- name: Minh Tran
+  photo: minh_tran.png
+  info: Ph.D. Student
+  url: minh_tran
+  group: 2
+
+- name: Sang Truong
+  photo: sang_truong.jpg
+  info: Ph.D. Student
+  url: sang_truong
+  group: 2
+
+- name: Duc Le
+  photo: duc_le.jpg
+  info: Ph.D. Student
+  url: duc_le
+  group: 2
+
+- name: Thinh Phan
+  photo: thinh_phan.jpg
+  info: Ph.D. Student
+  url: thinh_phan
+  group: 2
+
+- name: Thang Pham
+  photo: thang_pham.png
+  info: Ph.D. Student
+  url: thang_pham
+  group: 2
+
+- name: Kashu Yamazaki
+  photo: kashu_yamazaki.jpg
+  info: Master's Student
+  url: kashu_yamazaki
+  group: 2
+
+- name: Adrian Luis
+  photo: no_pic.png
+  info: Master's Student
+  url: adrian_luis
+  group: 2
+
+- name: Taisei Hanyu
+  photo: no_pic.png
+  info: Sophomore
+  url: taisei_hanyu
+  group: 3
+
+- name: Kevin Joo
+  photo: no_pic.png
+  info: Master Student
+  url: kevin_joo
+  group: 4
+
+# - name:  
+#   photo: lindsayliang.jpg
+#   info: Bioinformatics Programmer II
+#   url: lindsayliang
+#   group: 3
+
+# - name: Brooke Sheppard
+#   photo: brookesheppard.jpg
+#   info: Postdoctoral Scholar
+#   url: brookesheppard
+#   group: 8
+#   year: 2017-2021

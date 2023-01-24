@@ -1,17 +1,18 @@
 ---
 layout: member
-title: Taisei Hanyu
+title: Chiyou Vang
 position: Undergraduate Honor Student
-handle: taisei_hanyu
+handle: chiyou_vang
 email: 
 twitter:
 github:
 scholar: 
 linkedin: 
-photo: no_pic.png
+photo: chiyou_vang.png
 ---
 
 ### Overview
 
 
 ### Education
+- BS, Degree, Univ (Year)

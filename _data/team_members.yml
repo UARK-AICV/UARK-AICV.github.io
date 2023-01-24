@@ -1,66 +1,95 @@
-- name: Ngan Le
-  photo: ngan_le.jpg
+- group: 0
   info: Assistant Professor
+  name: Ngan Le
+  photo: ngan_le.jpg
   url: ngan_le
-  group: 0
-  
-- name: Khoa Vo
+- group: 2
+  info: Ph.D. Student
+  name: Khoa Vo
   photo: khoa_vo.jpg
-  info: Ph.D. Student
   url: khoa_vo
-  group: 2
-
-- name: Minh Tran
+- group: 2
+  info: Ph.D. Student
+  name: Minh Tran
   photo: minh_tran.png
-  info: Ph.D. Student
   url: minh_tran
-  group: 2
-
-- name: Sang Truong
+- group: 2
+  info: Ph.D. Student
+  name: Sang Truong
   photo: sang_truong.jpg
-  info: Ph.D. Student
   url: sang_truong
-  group: 2
-
-- name: Duc Le
+- group: 2
+  info: Ph.D. Student
+  name: Duc Le
   photo: duc_le.jpg
-  info: Ph.D. Student
   url: duc_le
-  group: 2
-
-- name: Thinh Phan
-  photo: thinh_phan.jpg
+- group: 2
   info: Ph.D. Student
+  name: Thinh Phan
+  photo: thinh_phan.jpg
   url: thinh_phan
-  group: 2
-
-- name: Kashu Yamazaki
+- group: 2
+  info: Ph.D. Student
+  name: Thang Pham
+  photo: thang_pham.png
+  url: thang_pham
+- group: 2
+  info: Master's Student
+  name: Kashu Yamazaki
   photo: kashu_yamazaki.jpg
-  info: Master Student
   url: kashu_yamazaki
-  group: 2
-
-- name: Taisei Hanyu
+- group: 2
+  info: Master's Student
+  name: Adrian Luis
   photo: no_pic.png
+  url: adrian_luis
+- group: 3
   info: Sophomore
-  url: taisei_hanyu
-  group: 3
-
-- name: Kevin Joo
+  name: Undergraduate Honor Student
   photo: no_pic.png
-  info: Master Student
+  url: taisei_hanyu
+- group: 4
+  info: Master's Student
+  name: Kevin Joo
+  photo: no_pic.png
   url: kevin_joo
-  group: 4
-
-# - name:  
-#   photo: lindsayliang.jpg
-#   info: Bioinformatics Programmer II
-#   url: lindsayliang
-#   group: 3
-
-# - name: Brooke Sheppard
-#   photo: brookesheppard.jpg
-#   info: Postdoctoral Scholar
-#   url: brookesheppard
-#   group: 8
-#   year: 2017-2021
+- group: 8
+  info: Meta
+  name: Gustavo Gracia
+  photo: gustavo_gracia.png
+  url: gustavo_gracia
+- group: 3
+  info: Undergraduate Honor Student
+  name: Chiyou Vang
+  photo: chiyou_vang.png
+  url: chiyou_vang
+- group: 3
+  info: Undergraduate Honor Student
+  name: Kala Rohit
+  photo: kala_rohit.png
+  url: kala_rohit
+- group: 3
+  info: Undergraduate Honor Student
+  name: Noah Core
+  photo: noah_core.png
+  url: noah_core
+- group: 2
+  info: Master's Student
+  name: Hung Le
+  photo: hung_le.png
+  url: hung_le
+- group: 2
+  info: Master's Student
+  name: Kim Tran
+  photo: kim_tran.png
+  url: kim_tran
+- group: 2
+  info: Ph.D. Student
+  name: Hieu Hoang
+  photo: hieu_hoang.png
+  url: hieu_hoang
+- group: 2
+  info: Ph.D. Student
+  name: Tan Bui
+  photo: tan_bui.png
+  url: tan_bui
