@@ -79,7 +79,7 @@ permalink: /team/
 
 ---
 
-## Under Graduate Students
+## Undergraduate Students
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
