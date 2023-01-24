@@ -1,14 +1,14 @@
 ---
 layout: member
-title: Adrian Luis​
+title: Adrian Luis
 position: Master's Student
-handle: adrian_luis​
+handle: adrian_luis
 email: 
 twitter:
 github:
-scholar:
+scholar: 
 linkedin: 
-photo: adrian_luis​.png
+photo: adrian_luis.png
 ---
 
 ### Overview

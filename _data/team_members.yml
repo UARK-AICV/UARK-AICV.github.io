@@ -29,20 +29,10 @@
   photo: thinh_phan.jpg
   url: thinh_phan
 - group: 2
-  info: Ph.D. Student
-  name: Thang Pham
-  photo: thang_pham.png
-  url: thang_pham
-- group: 2
   info: Master's Student
   name: Kashu Yamazaki
   photo: kashu_yamazaki.jpg
   url: kashu_yamazaki
-- group: 2
-  info: Master's Student
-  name: Adrian Luis
-  photo: no_pic.png
-  url: adrian_luis
 - group: 3
   info: Sophomore
   name: Undergraduate Honor Student
@@ -93,3 +83,13 @@
   name: Tan Bui
   photo: tan_bui.png
   url: tan_bui
+- group: 2
+  info: Master's Student
+  name: Adrian Luis
+  photo: adrian_luis.png
+  url: adrian_luis
+- group: 2
+  info: Ph.D. Student
+  name: Thang Pham
+  photo: thang_pham.png
+  url: thang_pham

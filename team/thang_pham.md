@@ -6,9 +6,9 @@ handle: thang_pham
 email: 
 twitter:
 github:
-scholar:
+scholar: 
 linkedin: 
-photo: no_pic.png
+photo: thang_pham.png
 ---
 
 ### Overview
