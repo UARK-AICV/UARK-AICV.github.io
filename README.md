@@ -39,6 +39,11 @@ Follow:
 1. add markdown file to `team/`
 1. add picture to `images/teampic/`
 
+or you can run:
+```bash
+python add_member.py
+```
+
 The corresponding group is:
 - `0`: PI
 - `1`: PostDocal
