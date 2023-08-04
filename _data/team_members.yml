@@ -38,11 +38,11 @@
   name: Taisei Hanyu
   photo: no_pic.png
   url: taisei_hanyu
-- group: 4
-  info: Master's Student
-  name: Kevin Joo
-  photo: no_pic.png
-  url: kevin_joo
+# - group: 4
+#   info: Master's Student
+#   name: Kevin Joo
+#   photo: no_pic.png
+#   url: kevin_joo
 - group: 8
   info: Meta
   name: Gustavo Gracia
@@ -58,8 +58,8 @@
   name: Kala Rohit
   photo: kala_rohit.png
   url: kala_rohit
-- group: 3
-  info: Undergraduate Honor Student
+- group: 8
+  info: 
   name: Noah Core
   photo: noah_core.png
   url: noah_core
