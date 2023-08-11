@@ -1,5 +1,7 @@
 # AICV Lab
 
+<img src="images/AICV_black.png" width="250">
+
 ## Usage
 ### Add publications
 1. modify `data/publist.yml`
