@@ -8,7 +8,7 @@ twitter:
 github: 
 scholar: 
 linkedin: 
-web:
+web: https://vvuonghn.github.io/
 photo: vuong_ho.jpg
 ---
 <!-- 
