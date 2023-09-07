@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Kashu Yamazaki
-position: Master's Student
+position: Research Associate
 handle: kashu_yamazaki
 email: kyamazak@uark.edu
 twitter:
@@ -13,7 +13,8 @@ web: https://kashu7100.github.io/
 ---
 
 ### Overview
-He received the B.S. degree (summa cum laude) in mechanical engineering from the University of Arkansas, Fayetteville, in 2020, where he is currently pursuing the master’s degree with the Department of Computer Science and Computer Engineering. His research interests are vision-language models and robotics. He has authored in publications appearing in international conferences and journals. He is a member of Tau Beta Pi.
+He received a M.S. degree in computer science from the University of Arkansas, Fayetteville, in 2023. Previously, he received a B.S. degree with *summa cum laude* in mechanical engineering from the University of Arkansas, Fayetteville, in 2020. His research interests are vision-language models and robotics. He has authored publications appearing in international conferences and journals. He is a member of Tau Beta Pi.
 
 ### Education
+- MS, Computer Science, the University of Arkansas (2023)
 - BS, Mechanical Engineering, the University of Arkansas (2020)
