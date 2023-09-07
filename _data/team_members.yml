@@ -3,26 +3,26 @@
   name: Ngan Le
   photo: ngan_le.jpg
   url: ngan_le
-- group: 2
+- group: 1
   info: Ph.D. Student
   name: Khoa Vo
   photo: khoa_vo.jpg
   url: khoa_vo
-- group: 2
+- group: 1
   info: Ph.D. Student
   name: Minh Tran
   photo: minh_tran.png
   url: minh_tran
 - group: 2
-  info: Ph.D. Student
+  info: Master's Student
   name: Sang Truong
   photo: sang_truong.jpg
   url: sang_truong
-- group: 2
-  info: Ph.D. Student
-  name: Duc Le
-  photo: duc_le.jpg
-  url: duc_le
+# - group: 1
+#   info: Ph.D. Student
+#   name: Duc Le
+#   photo: duc_le.jpg
+#   url: duc_le
 - group: 2
   info: Ph.D. Student
   name: Thinh Phan
@@ -48,7 +48,7 @@
   name: Gustavo Gracia
   photo: gustavo_gracia.png
   url: gustavo_gracia
-- group: 2
+- group: 1
   info: Ph.D. Student
   name: Chiyou Vang
   photo: chiyou_vang.png
@@ -73,7 +73,7 @@
   name: Kim Tran
   photo: kim_tran.png
   url: kim_tran
-- group: 2
+- group: 1
   info: Ph.D. Student
   name: Hieu Hoang
   photo: hieu_hoang.png
@@ -88,7 +88,7 @@
   name: Adrian Luis
   photo: adrian_luis.png
   url: adrian_luis
-- group: 2
+- group: 1
   info: Ph.D. Student
   name: Trong Thang Pham
   photo: thang_pham.png
