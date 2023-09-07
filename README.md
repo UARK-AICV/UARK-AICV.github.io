@@ -48,10 +48,11 @@ python add_member.py
 
 The corresponding group is:
 - `0`: PI
-- `1`: PostDocal
-- `2`: Graduate students
+- `1`: Ph.D.
+- `2`: Masters students
 - `3`: Undergraduate students
 - `4`: Visiting scholar
+- `7`: Researcher
 - `8`: Alumni
 
 Follow:
