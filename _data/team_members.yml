@@ -63,11 +63,11 @@
   name: Noah Core
   photo: noah_core.png
   url: noah_core
-- group: 2
-  info: Master's Student
-  name: Kim Tran
-  photo: kim_tran.png
-  url: kim_tran
+#- group: 2
+#  info: Master's Student
+#  name: Kim Tran
+#  photo: kim_tran.png
+#  url: kim_tran
 #- group: 1
 #  info: Ph.D. Student
 #  name: Hieu Hoang
