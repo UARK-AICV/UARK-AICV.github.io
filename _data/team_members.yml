@@ -13,8 +13,8 @@
   name: Minh Tran
   photo: minh_tran.png
   url: minh_tran
-- group: 2
-  info: Master's Student
+- group: 8
+  info: MSc (graduated 2023)
   name: Sang Truong
   photo: sang_truong.jpg
   url: sang_truong
@@ -53,13 +53,13 @@
   name: Chiyou Vang
   photo: chiyou_vang.png
   url: chiyou_vang
-- group: 3
+- group: 8
   info: Undergraduate Honor Student
   name: Kala Rohit
   photo: kala_rohit.png
   url: kala_rohit
 - group: 8
-  info: 
+  info: Undergraduate Student
   name: Noah Core
   photo: noah_core.png
   url: noah_core
@@ -68,18 +68,18 @@
   name: Kim Tran
   photo: kim_tran.png
   url: kim_tran
-- group: 1
-  info: Ph.D. Student
-  name: Hieu Hoang
-  photo: hieu_hoang.png
-  url: hieu_hoang
+#- group: 1
+#  info: Ph.D. Student
+#  name: Hieu Hoang
+#  photo: hieu_hoang.png
+#  url: hieu_hoang
 - group: 2
   info: Master's Student
   name: Tan Bui
   photo: tan_bui.png
   url: tan_bui
-- group: 2
-  info: Master's Student
+- group: 8
+  info: MSc (graduated 2023)
   name: Adrian Luis
   photo: adrian_luis.png
   url: adrian_luis
