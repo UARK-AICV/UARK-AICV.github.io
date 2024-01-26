@@ -18,11 +18,6 @@
   name: Sang Truong
   photo: sang_truong.jpg
   url: sang_truong
-# - group: 1
-#   info: Ph.D. Student
-#   name: Duc Le
-#   photo: duc_le.jpg
-#   url: duc_le
 - group: 1
   info: Ph.D. Student
   name: Thinh Phan
@@ -38,11 +33,6 @@
   name: Taisei Hanyu
   photo: no_pic.png
   url: taisei_hanyu
-# - group: 4
-#   info: Master's Student
-#   name: Kevin Joo
-#   photo: no_pic.png
-#   url: kevin_joo
 - group: 8
   info: Meta
   name: Gustavo Gracia
@@ -63,16 +53,6 @@
   name: Noah Core
   photo: noah_core.png
   url: noah_core
-#- group: 2
-#  info: Master's Student
-#  name: Kim Tran
-#  photo: kim_tran.png
-#  url: kim_tran
-#- group: 1
-#  info: Ph.D. Student
-#  name: Hieu Hoang
-#  photo: hieu_hoang.png
-#  url: hieu_hoang
 - group: 2
   info: Master's Student
   name: Tan Bui
