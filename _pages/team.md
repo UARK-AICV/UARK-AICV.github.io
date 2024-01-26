@@ -78,7 +78,7 @@ permalink: /team/
 
 ---
 
-## Graduate Students
+## PhD Students
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -109,6 +109,9 @@ permalink: /team/
 </div>
 {% endif %}
 
+---
+
+## MSc Students
 
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
