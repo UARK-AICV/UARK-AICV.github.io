@@ -5,7 +5,7 @@ position: Undergraduate Research Assistant
 handle: 
 email: ejc012@uark.edu
 twitter:
-github: https://github.com/ecoffman1
+github: ecoffman1
 scholar: 
 linkedin: 
 photo: coffman.jpg
