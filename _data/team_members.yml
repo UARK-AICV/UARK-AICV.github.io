@@ -31,7 +31,7 @@
 - group: 3
   info: Undergraduate Honor Student
   name: Taisei Hanyu
-  photo: no_pic.png
+  photo: taisei_hanyu.jpg
   url: taisei_hanyu
 - group: 8
   info: Meta
@@ -88,3 +88,8 @@
   name: Esteban Duran Marti
   photo: esteban_duran.jpeg
   url: esteban_duran
+- group: 3
+  info: Undergraduate Student
+  name: Ethan Coffman
+  photo: coffman.jpg
+  url: ethan_coffman
