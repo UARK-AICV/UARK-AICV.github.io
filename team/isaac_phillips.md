@@ -8,7 +8,7 @@ twitter:
 github: 
 scholar: 
 linkedin: 
-photo: isaac_phillips.png
+photo: isaac_phillips.jpg
 ---
 
 ### Overview
