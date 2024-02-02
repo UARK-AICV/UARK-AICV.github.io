@@ -1,3 +1,4 @@
+---
 position: Master's Student
 handle: esteban_duran
 email: eaduran@uark.edu
