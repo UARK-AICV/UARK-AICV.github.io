@@ -5,7 +5,7 @@ position: Undergraduate Honors Student
 handle: andrew_lockett
 email: alockett@uark.edu
 twitter:
-github:FocusedBadge47
+github: FocusedBadge47
 scholar: 
 linkedin: andrew-lockett-a4b382292
 photo: andrew_lockett.png
