@@ -31,7 +31,7 @@
 - group: 3
   info: Undergraduate Honor Student
   name: Taisei Hanyu
-  photo: no_pic.png
+  photo: taisei_hanyu.jpg
   url: taisei_hanyu
 - group: 8
   info: Meta
@@ -88,3 +88,18 @@
   name: Isaac Phillips
   photo: isaac_phillips.jpg
   url: isaac_phillips
+- group: 3
+  info: Undergraduate Honors Student
+  name: Andrew Lockett
+  photo: andrew_lockett.png
+  url: andrew_lockett
+- group: 2
+  info: Master's Student
+  name: Esteban Duran Marti
+  photo: esteban_duran.jpeg
+  url: esteban_duran
+- group: 3
+  info: Undergraduate Student
+  name: Ethan Coffman
+  photo: coffman.jpg
+  url: ethan_coffman
