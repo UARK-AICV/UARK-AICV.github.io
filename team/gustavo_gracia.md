@@ -7,7 +7,7 @@ email:
 twitter:
 github:
 scholar: 
-linkedin: https://www.linkedin.com/in/gustavogarcia99/
+linkedin: gustavogarcia99
 photo: gustavo_gracia.png
 ---
 
