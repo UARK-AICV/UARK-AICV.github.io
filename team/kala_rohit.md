@@ -7,7 +7,7 @@ email:
 twitter:
 github:
 scholar: 
-linkedin: 
+linkedin: rohit-kala-1b891a179
 photo: kala_rohit.png
 ---
 
@@ -15,4 +15,4 @@ photo: kala_rohit.png
 
 
 ### Education
-- BS, Degree, Univ (Year)
+- BS, Computer Science, University of Arkansas (2023)
