@@ -7,7 +7,7 @@ email:
 twitter:
 github:
 scholar: 
-linkedin: 
+linkedin: https://www.linkedin.com/in/gustavogarcia99/
 photo: gustavo_gracia.png
 ---
 
@@ -15,4 +15,5 @@ photo: gustavo_gracia.png
 
 
 ### Education
-- BS, Degree, Univ (Year)
+- BASc, Computer Science, University of Arkansas (2022)
+- BA, Economics, University of Arkansas (2022)
