@@ -28,6 +28,8 @@ Our group utilizes advanced machine learning techniques, with a strong focus on 
 ### Joining Our Lab
 If you are interested in joining please go to the [recruitment](recruitment) page.
 
+<p style="color:red;">We have 2 open positions for Ph.D. students (Research Assistant position) starting in Fall 2024!</p>
+
 ### Funding
 We are grateful for funding from our sponsors:
 <!-- 
