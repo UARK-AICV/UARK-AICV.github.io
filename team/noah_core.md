@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Noah Core
-position: Undergraduate Honor Student
+position: Alumni
 handle: noah_core
 email: 
 twitter:
@@ -15,4 +15,4 @@ photo: noah_core.png
 
 
 ### Education
-- BS, Degree, Univ (Year)
+- BS, Computer Science, University of Arkansas (2023)
