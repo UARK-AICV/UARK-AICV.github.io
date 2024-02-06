@@ -1,13 +1,13 @@
 ---
 layout: member
 title: Sang Truong
-position: Ph.D. Student
+position: Alumni
 handle: sang_truong
 email: 
 twitter:
 github:
-scholar:
-linkedin: 
+scholar: JG2yzhgAAAAJ
+linkedin: tqsang
 photo: sang_truong.jpg
 ---
 
@@ -15,4 +15,4 @@ photo: sang_truong.jpg
 
 
 ### Education
-- BS, Degree, Univ (Year)
+- MSc, Computer Science, University of Arkansas (2023)
