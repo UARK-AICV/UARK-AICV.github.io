@@ -39,7 +39,7 @@
   photo: tan_bui.png
   url: tan_bui
 - group: 2
-  info: Master's Student
+  info: Since 2023
   name: Marta Veganzones
   photo: marta_veganzones.png
   url: marta_veganzones
@@ -53,6 +53,11 @@
   name: Vuong Ho
   photo: vvuonghn.jpg
   url: vvuonghn
+  - group: 2
+  info: Since 2023
+  name: Esteban Duran Marti
+  photo: esteban_duran.jpeg
+  url: esteban_duran
 - group: 3
   info: Since Aug 2023
   name: Frederick Bumgarner
@@ -68,11 +73,6 @@
   name: Andrew Lockett
   photo: andrew_lockett.png
   url: andrew_lockett
-- group: 2
-  info: Master's Student
-  name: Esteban Duran Marti
-  photo: esteban_duran.jpeg
-  url: esteban_duran
 - group: 3
   info: Undergraduate Student
   name: Ethan Coffman
