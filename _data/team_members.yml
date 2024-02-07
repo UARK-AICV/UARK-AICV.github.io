@@ -18,6 +18,16 @@
   name: Thinh Phan
   photo: thinh_phan.jpg
   url: thinh_phan
+- group: 1
+  info: Since 2023
+  name: Trong Thang Pham
+  photo: thang_pham.png
+  url: thang_pham
+- group: 1
+  info: Ph.D. Student
+  name: Chiyou Vang
+  photo: chiyou_vang.png
+  url: chiyou_vang
 - group: 7
   info: Since 2023
   name: Kashu Yamazaki
@@ -28,11 +38,6 @@
   name: Taisei Hanyu
   photo: taisei_hanyu.jpg
   url: taisei_hanyu
-- group: 1
-  info: Ph.D. Student
-  name: Chiyou Vang
-  photo: chiyou_vang.png
-  url: chiyou_vang
 - group: 2
   info: Since 2023
   name: Tan Bui
@@ -43,18 +48,13 @@
   name: Marta Veganzones
   photo: marta_veganzones.png
   url: marta_veganzones
-- group: 1
-  info: Since 2023
-  name: Trong Thang Pham
-  photo: thang_pham.png
-  url: thang_pham
 - group: 2
   info: Since 2023
   name: Vuong Ho
   photo: vvuonghn.jpg
   url: vvuonghn
 - group: 2
-  info: Since 2023
+  info: Since 2024
   name: Esteban Duran Marti
   photo: esteban_duran.jpeg
   url: esteban_duran
