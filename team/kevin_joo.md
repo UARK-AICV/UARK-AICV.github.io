@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Kevin Joo
-position: Visiting Scholar
+position: Research Intern
 handle: kevin_joo
 email: 
 twitter:
@@ -15,4 +15,5 @@ photo: no_pic.png
 
 
 ### Education
+- MS, Computer Science, University of Maryland (2023)
 - BS, Computer Science, University of Maryland (2021)
