@@ -4,27 +4,22 @@
   photo: ngan_le.jpg
   url: ngan_le
 - group: 1
-  info: Ph.D. Student
+  info: Since 2020
   name: Khoa Vo
   photo: khoa_vo.jpg
   url: khoa_vo
 - group: 1
-  info: Ph.D. Student
+  info: Since 2021
   name: Minh Tran
   photo: minh_tran.png
   url: minh_tran
-- group: 8
-  info: MSc (graduated 2023)
-  name: Sang Truong
-  photo: sang_truong.jpg
-  url: sang_truong
 - group: 1
-  info: Ph.D. Student
+  info: Since 2023
   name: Thinh Phan
   photo: thinh_phan.jpg
   url: thinh_phan
 - group: 7
-  info: Research Associate
+  info: Since 2023
   name: Kashu Yamazaki
   photo: kashu_yamazaki.jpg
   url: kashu_yamazaki
@@ -33,53 +28,33 @@
   name: Taisei Hanyu
   photo: taisei_hanyu.jpg
   url: taisei_hanyu
-- group: 8
-  info: BASc (graduated 2022) - Meta
-  name: Gustavo Gracia
-  photo: gustavo_gracia.png
-  url: gustavo_gracia
 - group: 1
   info: Ph.D. Student
   name: Chiyou Vang
   photo: chiyou_vang.png
   url: chiyou_vang
-- group: 8
-  info: BSc (graduated 2023)
-  name: Kala Rohit
-  photo: kala_rohit.png
-  url: kala_rohit
-- group: 8
-  info: BSc (graduated 2023)
-  name: Noah Core
-  photo: noah_core.png
-  url: noah_core
 - group: 2
-  info: Master's Student
+  info: Since 2023
   name: Tan Bui
   photo: tan_bui.png
   url: tan_bui
-- group: 8
-  info: MSc (graduated 2023) - Dell
-  name: Adrian Luis
-  photo: adrian_luis.png
-  url: adrian_luis
 - group: 2
   info: Master's Student
   name: Marta Veganzones
   photo: marta_veganzones.png
   url: marta_veganzones
 - group: 1
-  info: Ph.D. Student
+  info: Since 2023
   name: Trong Thang Pham
   photo: thang_pham.png
   url: thang_pham
 - group: 2
-  info: Master's Student
+  info: Since 2023
   name: Vuong Ho
   photo: vuong_ho.jpg
   url: vuong_ho
 - group: 3
-  info: Undergraduate Student
+  info: Since Aug 2023
   name: Frederick Bumgarner
   photo: frederick_bumgarner.png
   url: frederick_bumgarner
@@ -109,7 +84,32 @@
   photo: reagan_clark.jpg
   url: reagan_clark
 - group: 4
-  info: May 2022
+  info: May 2022 - Aug 2022
   name: Kevin Joo
   photo: no_pic.png
   url: kevin_joo
+- group: 8
+  info: MSc (graduated 2023) - Dell
+  name: Adrian Luis
+  photo: adrian_luis.png
+  url: adrian_luis
+- group: 8
+  info: MSc (graduated 2023)
+  name: Sang Truong
+  photo: sang_truong.jpg
+  url: sang_truong
+- group: 8
+  info: BASc (graduated 2022) - Meta
+  name: Gustavo Gracia
+  photo: gustavo_gracia.png
+  url: gustavo_gracia
+- group: 8
+  info: BSc (graduated 2023)
+  name: Noah Core
+  photo: noah_core.png
+  url: noah_core
+- group: 8
+  info: BSc (graduated 2023)
+  name: Kala Rohit
+  photo: kala_rohit.png
+  url: kala_rohit
