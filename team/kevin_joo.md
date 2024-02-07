@@ -8,7 +8,7 @@ twitter:
 github:
 scholar: 
 linkedin: 
-photo: no_pic.png
+photo: kevin_joo.jpg
 ---
 
 ### Overview
