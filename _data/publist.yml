@@ -8,6 +8,16 @@
   type: 1
   news2:
 
+- title: "VLTinT: Visual-Linguistic Transformer-in-Transformer for Coherent Video Paragraph Captioning"
+  image: phametal_wacv2024.png
+  description: 
+  authors: Trong Thang Pham, Jacob Brecheisen, Anh Nguyen, Hien Nguyen, Ngan Le
+  link:
+    url: https://openaccess.thecvf.com/content/WACV2024/papers/Pham_I-AI_A_Controllable__Interpretable_AI_System_for_Decoding_Radiologists_WACV_2024_paper.pdf
+    display:  Trong Thang Pham, Jacob Brecheisen, Anh Nguyen, Hien Nguyen, Ngan Le, CVPR, 2024
+  type: 1
+  news2:
+
 - title: "AISFormer: Amodal Instance Segmentation with Transformer"
   image: minh_bmvc22.png
   description: 
