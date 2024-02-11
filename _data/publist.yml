@@ -8,6 +8,16 @@
   type: 1
   news2:
 
+- title: "I-AI: A Controllable & Interpretable AI System for Decoding Radiologists’ Intense Focus for Accurate CXR Diagnoses"
+  image: phametal_wacv2024.png
+  description: 
+  authors: T. Pham, J. Brecheisen, A. Nguyen, H. Nguyen, N. Le
+  link:
+    url: https://openaccess.thecvf.com/content/WACV2024/papers/Pham_I-AI_A_Controllable__Interpretable_AI_System_for_Decoding_Radiologists_WACV_2024_paper.pdf
+    display:  T. Pham, J. Brecheisen, A. Nguyen, H. Nguyen, N. Le, WACV, 2024
+  type: 1
+  news2:
+
 - title: "AISFormer: Amodal Instance Segmentation with Transformer"
   image: minh_bmvc22.png
   description: 
