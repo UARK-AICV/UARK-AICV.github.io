@@ -1,10 +1,50 @@
+- title: "TSRNet: Simple Framework for Real-time ECG Anomaly Detection with Multimodal Time and Spectrogram Restoration Network"
+  image: tan_isbi24_tsr.png
+  description: 
+  authors: N.-T Bui*, D.-H Hoang*, T. Phan, M.-T Tran, B. Patel, D. Adjeroh, N. Le
+  link:
+    url: https://arxiv.org/abs/2312.10187
+    display: N.-T Bui*, D.-H Hoang*, T. Phan, M.-T Tran, B. Patel, D. Adjeroh, N. Le, ISBI, 2024
+  type: 1
+  news2:
+
+- title: "SAM3D: Segment Anything Model in Volumetric Medical Images"
+  image: tan_isbi24_sam.png
+  description: 
+  authors: N.-T Bui*, D.-H Hoang*, M.-T Tran, G. Doretto, D. Adjeroh, B. Patel, A. Choudhary, N. Le
+  link:
+    url: https://arxiv.org/abs/2309.03493
+    display:  N.-T Bui*, D.-H Hoang*, M.-T Tran, G. Doretto, D. Adjeroh, B. Patel, A. Choudhary, N. Le, ISBI, 2024
+  type: 1
+  news2:
+
+- title: "MEGANet: Multi-Scale Edge-Guided Attention Network for Weak Boundary Polyp Segmentation"
+  image: tan_wacv24.png
+  description: 
+  authors: N.-T Bui, D.-H Hoang, Q.-T Nguyen, M.-T Tran, N. Le
+  link:
+    url: https://openaccess.thecvf.com/content/WACV2024/html/Bui_MEGANet_Multi-Scale_Edge-Guided_Attention_Network_for_Weak_Boundary_Polyp_Segmentation_WACV_2024_paper.html
+    display:  N.-T Bui, D.-H Hoang, Q.-T Nguyen, M.-T Tran, N. Le, WACV, 2024
+  type: 1
+  news2:
+
 - title: "VLTinT: Visual-Linguistic Transformer-in-Transformer for Coherent Video Paragraph Captioning"
   image: kashu_aaai23.png
   description: 
   authors: K. Yamazaki, K. Vo, S. Truong, B. Raj, N. Le
   link:
-    url: 
+    url: https://ojs.aaai.org/index.php/AAAI/article/view/25412
     display:  K. Yamazaki, K. Vo, S. Truong, B. Raj, N. Le, AAAI, 2023
+  type: 1
+  news2:
+
+- title: "I-AI: A Controllable and Interpretable AI System for Decoding Radiologists Intense Focus for Accurate CXR Diagnoses"
+  image: phametal_wacv2024.png
+  description: 
+  authors: T. Pham, J. Brecheisen, A. Nguyen, H. Nguyen, N. Le
+  link:
+    url: https://openaccess.thecvf.com/content/WACV2024/papers/Pham_I-AI_A_Controllable__Interpretable_AI_System_for_Decoding_Radiologists_WACV_2024_paper.pdf
+    display:  T. Pham, J. Brecheisen, A. Nguyen, H. Nguyen, N. Le, WACV, 2024
   type: 1
   news2:
 

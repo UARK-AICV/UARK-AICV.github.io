@@ -1,9 +1,9 @@
 ---
 layout: member
 title: Chiyou Vang
-position: Undergraduate Honor Student
+position: Ph.D. Student
 handle: chiyou_vang
-email: 
+email: cv009@uark.edu
 twitter:
 github:
 scholar: 
@@ -12,7 +12,7 @@ photo: chiyou_vang.png
 ---
 
 ### Overview
-
+Chiyou Vang is a Research Assistant in the AICV lab. He received his B.S. degree in Computer Science from the University of Arkansas in 2023.
 
 ### Education
-- BS, Degree, Univ (Year)
+- BS, Computer Science, University of Arkansas (2023)

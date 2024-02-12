@@ -8,7 +8,7 @@ twitter:
 github: mveganzo
 scholar: 
 linkedin: https://www.linkedin.com/in/martaveganzonesrodriguez/
-photo: marta_veganzones.jpg
+photo: marta_veganzones.png
 ---
 
 ### Overview
