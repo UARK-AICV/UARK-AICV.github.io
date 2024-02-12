@@ -19,3 +19,4 @@ His research concentrates on Deep Learning, Computer Vision, Image and Signal Pr
 
 ### Education
 - BSc, Computer & Information Science, University of Science, VNU-HCM & Auckland University of Technology (2022)
+- MSc, Computer Science, University of Arkansas (2023 - ongoing)
