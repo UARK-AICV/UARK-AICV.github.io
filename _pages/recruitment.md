@@ -12,7 +12,7 @@ Thank you for your interest in joining the AICV Lab.
 
 ## Graduate students
 
-I am looking to admit 2 new PhD students (Research Assistant position) starting in Fall 2024 for two positions as follows:
+We have openings for 2 new PhD students (Research Assistant position) starting in Fall 2024 for two positions as follows:
 
 ### Position 1: Qualifications for Multiple Cameras Multiple Objects Tracking
 - A strong academic background in computer science.

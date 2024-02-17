@@ -9,57 +9,163 @@ permalink: /research/
 # Computer Vision
 
 ---
-![]({{ site.url }}{{ site.baseurl }}/images/respic/vltint_vpc_demo1.gif){: style="width: 300px; float: left;margin-right: 30px; border: 10px"}
+## Agriculture x AI
 
-## Video Paragraph Captioning
-<div style="text-align: justify">
-Video paragraph captioning aims to generate a multi-sentence description of an untrimmed video with several temporal event locations in coherent storytelling. 
-Following the human perception process, where the scene is effectively understood by decomposing it into visual (e.g. human, animal) and non-visual components (e.g. action, relations) under the mutual influence of vision and language, we first propose a visual-linguistic (VL) feature. In the proposed VL feature, the scene is modeled by three modalities including (i) a global visual environment; (ii) local visual main agents; (iii) linguistic scene elements. We then introduce an autoregressive Transformer-in-Transformer (TinT) to simultaneously capture the semantic coherence of intra- and inter-event contents within a video. Finally, we present a new VL contrastive loss function to guarantee learnt embedding features are matched with the captions semantics. Comprehensive experiments and extensive ablation studies on ActivityNet Captions and YouCookII datasets show that the proposed Visual-Linguistic Transformer-in-Transform (VLTinT) outperforms prior state-of-the-art methods on accuracy and diversity. 
+<div class="col-sm-6 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/chick_sexing.png" class="img-responsive" width="90%" style="float: left"/>
 </div>
 
----
-![]({{ site.url }}{{ site.baseurl }}/images/respic/tapg.gif){: style="width: 300px; float: left;margin-right: 30px; border: 10px"}
+<div class="col-sm-6 clearfix">
 
-## Temporal Action Proposal Generation
-<div style="text-align: justify">
-Temporal action proposal generation (TAPG) is a challenging task, which requires localizing action intervals in an untrimmed video. Intuitively, we as humans, perceive an action through the interactions between actors, relevant objects, and the surrounding environment. Despite the significant progress of TAPG, a vast majority of existing methods ignore the aforementioned principle of the human perceiving process by applying a backbone network into a given video as a black-box. In this paper, we propose to model these interactions with a multi-modal representation network, namely, Actors-Objects-Environment Interaction Network (AOE-Net). Our AOE-Net consists of two modules, i.e., perception-based multi-modal representation (PMR) and boundary-matching module (BMM). Additionally, we introduce adaptive attention mechanism (AAM) in PMR to focus only on main actors (or relevant objects) and model the relationships among them. PMR module represents each video snippet by a visual-linguistic feature, in which main actors and surrounding environment are represented by visual information, whereas relevant objects are depicted by linguistic features through an image-text model. BMM module processes the sequence of visual-linguistic features as its input and generates action proposals. Comprehensive experiments and extensive ablation studies on ActivityNet-1.3 and THUMOS-14 datasets show that our proposed AOE-Net outperforms previous state-of-the-art methods with remarkable performance and generalization for both TAPG and temporal action detection.
+#### [Chick Sexing on Face Part]({{ site.url }}{{ site.baseurl }}/projects/chick/)
+
+
+#### AI Processing Plant
+- "Chicken Processing Plant With Automated Computer Vision"
+- "Artificial Intelligence And Vision-Based Broiler Body Weight Measurement System And Process"
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 </div>
 
----
-![]({{ site.url }}{{ site.baseurl }}/images/respic/hand_on_steering_wheel.png){: style="width: 300px; float: left;margin-right: 30px; border: 10px"}
 
-## Hand On Steering Wheel Detection and Classification
-<div style="text-align: justify">
-This paper presents an advanced Convolutional Neural Network (ConvNet) based approach, named Multiple Scale Region-based Fully Convolutional Networks (MS-RFCN), for hand detection and classification. In order to robustly deal with the challenging factors, we proposed to span the receptive fields in the ConvNet in multiple deep feature maps. By this way, both global and local context information are able to be efficiently synchronized and simultaneously contribute to the human hand feature representation process. 
+## Geospatial x AI 
 
-The experiments are presented on the challenging hand databases, i.e. the Vision for Intelligent Vehicles and Applications (VIVA) Challenge and Oxford Hand Detection database. Our proposed method achieves the state-of-the-art results.
+<div class="col-sm-6 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/aerialformer.png" class="img-responsive" width="90%" style="float: left"/>
 </div>
 
----
-![]({{ site.url }}{{ site.baseurl }}/images/respic/SolarPV.gif){: style="width: 300px; float: left;margin-right: 30px; border: 10px"}
+<div class="col-sm-6 clearfix">
 
-## Optimizing Solar Panel Efficiency: AI-Powered Obstruction Detection and Voltage Loss Estimation
-<div style="text-align: justify">
-This project aims to equip and artificial intelligence model with the proficiency to detect fluctuations in solar panel output resulting resulting from various obstructions.Employing a comparative approach, the study uses real-time data from two solar panels, designating one as a control while the other is subjected to obstructive conditions. Capturing footage through both a stationary ground-based camera and an aerial drone, the project aims to comprehensively assess the impact of obstructions such as avian feces, dirt, leaves, branches, and snow. Through meticulous analysis of this data, the AI model undergoes iterative training to recognize distinct patterns associated with these obstructions and accurately estimate the resultant voltage losses. This pioneering research promises to revolutionize renewable energy technology by enabling proactive measures to optimize solar panel efficiency and ensure robust energy production. 
+#### Aerial Image Segmentation
+- "AerialFormer: Multi-resolution Transformer for Aerial Image Segmentation"
+
+#### [Solar PV Profiling]({{ site.url }}{{ site.baseurl }}/projects/solar_pv)
+- "SolarFormer: Multi-scale Transformer for Solar PV Profiling"
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 </div>
 
+
+## Video Understanding
+
+<div class="col-sm-6 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/vltint_vpc_demo1.gif" class="img-responsive" width="90%" style="left"/>
+</div>
+
+<div class="col-sm-6 clearfix">
+
+#### Video Anomaly Detection
+- "CLIP-TSA: CLIP-Assisted Temporal Self-Attention for Weakly-Supervised Video Anomaly Detection" (ICIP 2023)
+
+#### [Video Paragraph Captioning]({{ site.url }}{{ site.baseurl }}/projects/vpc)
+- "VLTinT: Visual-Linguistic Transformer-in-Transformer for Coherent Video Paragraph Captioning" (AAAI 2023)
+- "Vlcap: Vision-language with contrastive learning for coherent video paragraph captioning" (ICIP 2022)
+
+#### [Temporal Action Proposal Generation]({{ site.url }}{{ site.baseurl }}/projects/tapg)
+- "Aoe-net: Entities interactions modeling with adaptive attention mechanism for temporal action proposals generation" (IJCV)
+- "AEI: Actors-Environment Interaction with Adaptive Attention for Temporal Action Proposals Generation" (BMVC 2021)
+
+</div>
+
+## Image Understanding
+
+<div class="col-sm-6 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/amodal_seg.png" class="img-responsive" width="90%" style="float: left"/>
+</div>
+
+<div class="col-sm-6 clearfix">
+
+#### [Amodal Image Segmentation]({{ site.url }}{{ site.baseurl }}/projects/amodal)
+- "AISFormer: Amodal Instance Segmentation with Transformer" (BMVC 2022)
+
+<br>
+<br>
+<br>
+<br>
+</div>
 
 # Robotics
 
 ---
-![]({{ site.url }}{{ site.baseurl }}/images/respic/go1_isaac_gym.gif){: style="width: 300px; float: left;margin-right: 30px; border: 10px"}
+## Perception
 
-## Robust Gait Learning via Reinforcement Learning
+<div class="col-sm-6 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/openfusion.png" class="img-responsive" width="90%" style="float: left"/>
+</div>
+
+<div class="col-sm-6 clearfix">
+
+#### Queryable Scene Reconstruction
+- "Open-Fusion: Real-time Open-Vocabulary 3D Mapping and Queryable Scene Representation" (ICRA 2024)
+
+#### Deformable Human 3D Reconstruction
+- "DNA: Deformable Neural Articulations Network for Template-Free Dynamic 3D Human Reconstruction From Monocular RGB-D Video" (CVPRW 2023)
+<br>
+<br>
+<br>
+</div>
+
+## Locomotion
+
+<div class="col-sm-6 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/go1_isaac_gym.gif" class="img-responsive" width="90%" style="float: left"/>
+</div>
+
+#### Robust Gait Learning
 <div style="text-align: justify">
 While quadrupeds can open the operational domains of robots thanks to their dynamic locomotion capabilities, conventional controllers for legged locomotion constraint their applications to relatively simple environments that can be taken over by wheeled robots.
 Here we use reinforcement learning to train a quadruped to walk on various terrains. In the simulation, a quadruped robot (Unitree Go1) learns to walk across challenging terrain, including uneven surfaces, slopes, stairs, and obstacles, while following linear- and angular- velocity commands.
 </div>
+<br>
 
 # Medical Imaging
 
 ---
+## Medical Image Segmentation 
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/mri_img2img.png){: style="width: 300px; float: left;margin-right: 30px; border: 10px"}
+<div class="col-sm-6 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/kashu_spie21.jpg" class="img-responsive" width="90%" style="float: left"/>
+</div>
+
+<div class="col-sm-6 clearfix">
+
+#### Volumetric Segmentation
+
+- "SAM3D: Segment Anything Model in Volumetric Medical Images"
+- "DAM-AL: Dilated Attention Mechanism with Attention Loss for 3D Infant Brain Image Segmentation"
+- "Point-unet: A context-aware point-based neural network for volumetric segmentation"
+- "Invertible residual network with regularization for effective volumetric segmentation" (SPIE 2021)
+
+#### Capsule Networks
+- "3DConvCaps: 3DUnet with Convolutional Capsule Encoder for Medical Image Segmentation"
+- "CapsNet for Medical Image Segmentation"
+- "SS-3DCapsNet: Self-supervised 3D Capsule Networks for Medical Segmentation on Less Labeled Data" (ISBI 2022)
+- "3d-ucaps: 3d capsules unet for volumetric image segmentation"
+
+</div>
+
+## Interpretable AI System
+
+<div class="col-sm-6 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/iai.png" class="img-responsive" width="90%" style="float: left"/>
+</div>
+
+<div class="col-sm-6 clearfix">
+
+#### CXR Diagnoses
+- "I-AI: A Controllable & Interpretable AI System for Decoding Radiologists' Intense Focus for Accurate CXR Diagnoses" (WACV 2024)
+
+</div>
+
+<!-- ![]({{ site.url }}{{ site.baseurl }}/images/respic/mri_img2img.png){: style="width: 300px; float: left;margin-right: 30px; border: 10px"}
 
 ## Unpaired Multi-Contrast MRI Image-to-Image Translation
 <div style="text-align: justify">
@@ -84,4 +190,4 @@ This work has been undertaken in collaboration with the Department of Radiology 
 ## Narrow Band Active Contour Attention Model
 <div style="text-align: justify">
 Deep learning-based approaches have achieved impressive performance in semantic segmentation but they are limited to pixel-wise settings with imbalanced-class data problems and weak boundary object segmentation.  In this work, we tackle those limitations by developing Narrow Band Active Contour (NB-AC) attention model which treats the object contour as a hyperplane and all data inside a narrow band as support information that influences the position and orientation of the hyperplane. Our proposed NB-AC attention model incorporates the contour length with the region energy involving a fixed-width band around the curve or surface. The proposed network loss contains two fitting terms: (i) high level features (i.e. region) fitting term from the first branch; (ii) lower level features (i.e. contour) fitting term from the second branch including the (ii_1) length of object contour and (ii_2) regional energy functional formed by the homogeneity criterion of both inner band and outer band neighboring the evolving curve or surface. The proposed NB-AC loss is able to incorporate into both 2D and 3D deep network architectures.  Our 3D network which is built upon the proposed NB-AC loss and 3DUnet framework archives the state-of-the-art results on multiple volumetric datasets.
-</div>
+</div> -->
