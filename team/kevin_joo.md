@@ -5,9 +5,9 @@ position: Research Intern
 handle: kevin_joo
 email: 
 twitter:
-github:
-scholar: 
-linkedin: 
+github: joos2010kj
+scholar: 5DxdB_wAAAAJ
+linkedin: kevin-joo
 photo: kevin_joo.jpg
 ---
 

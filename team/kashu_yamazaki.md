@@ -7,7 +7,7 @@ email: kyamazak@uark.edu
 twitter:
 github: Kashu7100
 scholar: TF2LRvMAAAAJ
-linkedin: 
+linkedin: kashu-y-51a62b128
 photo: kashu_yamazaki.jpg
 web: https://kashu7100.github.io/
 ---
