@@ -63,6 +63,16 @@
   name: Esteban Duran Marti
   photo: esteban_duran.jpeg
   url: esteban_duran
+- group: 2
+  info: Since 2023
+  name: Farid Hashemian
+  photo: farid_hashemian.png
+  url: farid_hashemian
+- group: 3
+  info: Since 2021
+  name: Anh Tran
+  photo: anh_tran.png
+  url: anh_tran
 - group: 3
   info: Since Aug 2023
   name: Frederick Bumgarner
