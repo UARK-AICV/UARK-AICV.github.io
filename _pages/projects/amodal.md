@@ -22,7 +22,7 @@ One of our approach to this problem is AISFormer, an AIS framework, with a Trans
 {% if member_names contains member.name %}
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h4><a href="{{ member.url }}" class="off">{{ member.name }}</a></h4>
+  <h4><a href="{{ site.url }}{{ site.baseurl }}/team/{{ member.url }}" class="off">{{ member.name }}</a></h4>
   <i>{{ member.info }}</i>
 </div>
 {% endif %}

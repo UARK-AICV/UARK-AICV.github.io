@@ -155,12 +155,12 @@ Here we use reinforcement learning to train a quadruped to walk on various terra
 ## Interpretable AI System
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/iai.png" class="img-responsive" width="90%" style="float: left"/>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/interpretable_ai.gif" class="img-responsive" width="90%" style="float: left"/>
 </div>
 
 <div class="col-sm-6 clearfix">
 
-#### CXR Diagnoses
+#### [CXR Diagnoses]({{ site.url }}{{ site.baseurl }}/projects/interpretable)
 - "I-AI: A Controllable & Interpretable AI System for Decoding Radiologists' Intense Focus for Accurate CXR Diagnoses" (WACV 2024)
 
 </div>
