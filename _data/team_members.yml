@@ -108,6 +108,11 @@
   url: kevin_joo
 
 - group: 8
+  info: BASc (graduated 2022) - Meta
+  name: Gustavo Gracia
+  photo: gustavo_gracia.png
+  url: gustavo_gracia
+- group: 8
   info: MSc (graduated 2023) - Dell
   name: Adrian Luis
   photo: adrian_luis.png
@@ -117,11 +122,6 @@
   name: Sang Truong
   photo: sang_truong.jpg
   url: sang_truong
-- group: 8
-  info: BASc (graduated 2022) - Meta
-  name: Gustavo Gracia
-  photo: gustavo_gracia.png
-  url: gustavo_gracia
 - group: 8
   info: BSc (graduated 2023)
   name: Noah Core
