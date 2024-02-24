@@ -3,6 +3,11 @@
   name: Ngan Le
   photo: ngan_le.jpg
   url: ngan_le
+- group: 7
+  info: Since 2023
+  name: Kashu Yamazaki
+  photo: kashu_yamazaki.jpg
+  url: kashu_yamazaki
 - group: 1
   info: Since 2020
   name: Khoa Vo
@@ -28,16 +33,17 @@
   name: Chiyou Vang
   photo: chiyou_vang.png
   url: chiyou_vang
-- group: 7
+
+- group: 2
   info: Since 2023
-  name: Kashu Yamazaki
-  photo: kashu_yamazaki.jpg
-  url: kashu_yamazaki
-- group: 3
-  info: Since 2022
-  name: Taisei Hanyu
-  photo: taisei_hanyu.jpg
-  url: taisei_hanyu
+  name: Marta Veganzones
+  photo: marta_veganzones.png
+  url: marta_veganzones
+- group: 2
+  info: Since 2023
+  name: Vuong Ho
+  photo: vvuonghn.jpg
+  url: vvuonghn
 - group: 2
   info: Since 2023
   name: Tan Bui
@@ -45,34 +51,30 @@
   url: tan_bui
 - group: 2
   info: Since 2023
-  name: Marta Veganzones
-  photo: marta_veganzones.png
-  url: marta_veganzones
-- group: 3
-  info: Since 2022
-  name: Winston Bounsavy
-  photo: winston_bounsavy.jpg
-  url: winston_bounsavy
-- group: 2
-  info: Since 2023
-  name: Vuong Ho
-  photo: vvuonghn.jpg
-  url: vvuonghn
+  name: Farid Hashemian
+  photo: farid_hashemian.png
+  url: farid_hashemian
 - group: 2
   info: Since 2024
   name: Esteban Duran Marti
   photo: esteban_duran.jpeg
   url: esteban_duran
-- group: 2
-  info: Since 2023
-  name: Farid Hashemian
-  photo: farid_hashemian.png
-  url: farid_hashemian
+
 - group: 3
   info: Since 2021
   name: Anh Tran
   photo: anh_tran.png
   url: anh_tran
+- group: 3
+  info: Since 2022
+  name: Taisei Hanyu
+  photo: taisei_hanyu.jpg
+  url: taisei_hanyu
+- group: 3
+  info: Since 2022
+  name: Winston Bounsavy
+  photo: winston_bounsavy.jpg
+  url: winston_bounsavy
 - group: 3
   info: Since Aug 2023
   name: Frederick Bumgarner
@@ -98,11 +100,18 @@
   name: Reagan Clark
   photo: reagan_clark.jpg
   url: reagan_clark
+
 - group: 4
   info: May 2022 - Aug 2022
   name: Kevin Joo
   photo: kevin_joo.jpg
   url: kevin_joo
+
+- group: 8
+  info: BASc (graduated 2022) - Meta
+  name: Gustavo Gracia
+  photo: gustavo_gracia.png
+  url: gustavo_gracia
 - group: 8
   info: MSc (graduated 2023) - Dell
   name: Adrian Luis
@@ -113,11 +122,6 @@
   name: Sang Truong
   photo: sang_truong.jpg
   url: sang_truong
-- group: 8
-  info: BASc (graduated 2022) - Meta
-  name: Gustavo Gracia
-  photo: gustavo_gracia.png
-  url: gustavo_gracia
 - group: 8
   info: BSc (graduated 2023)
   name: Noah Core
