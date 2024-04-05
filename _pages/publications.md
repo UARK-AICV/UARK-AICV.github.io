@@ -8,7 +8,7 @@ permalink: /publications/
 
 # Publications
 
-{% assign years = "2024,2023,2022,2021,2020,2019" | split: ',' %}
+{% assign years = "2024,2023,2022,2021,2020,2019,2018,2017,2016" | split: ',' %}
 {% assign containsConference = false %}
 {% assign containsJournal = false %}
 {% for year in years %}
@@ -85,3 +85,36 @@ permalink: /publications/
 
 {% endfor %}
 
+
+## Patents
+
+{% assign number_printed = 0 %}
+{% for publi in site.data.publist %}
+
+{% if publi.type == 3 %}
+
+<div class="row">
+
+<div class="col-sm-12 clearfix">
+ <div class="row">
+  <p><a class="pub1" href="{{ publi.link.url }}">{{ publi.title }}</a></p>
+  <a class="pub2"> {{ publi.link.display }} </a>
+ </div>
+</div>
+
+{% endif %}
+{% endfor %}
+
+<p> &nbsp; </p>
+
+<div>
+## Full List
+
+For a full list, please go to <a class="regtext" href="https://scholar.google.com/citations?user=8ck0k_UAAAAJ&hl=en&authuser=1">Google Scholar</a>.
+<br><br><br>
+
+</div>
+
+<p> &nbsp; </p>
+
+---
