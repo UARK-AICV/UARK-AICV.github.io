@@ -12,6 +12,8 @@ permalink: /publications/
 {% assign containsConference = false %}
 {% assign containsJournal = false %}
 {% for year in years %}
+{% assign containsConference = false %}
+{% assign containsJournal = false %}
 ## {{year | string}}
 
 {% for publi in site.data.publist %}
