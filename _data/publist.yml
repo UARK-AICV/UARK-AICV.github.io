@@ -234,7 +234,7 @@
   year: 2023
 
 - title: "Decoding Radiologists Intense Focus for Accurate CXR Diagnoses: A Controllable and Interpretable AI System"
-  image: thanh-dat_truong_elsevier23.png
+  image: thanh-dat_truong_wacv23.png
   description: 
   authors: T. T. Pham, J. Brecheisen, A. Nguyen, H. Nguyen, N. Le
   link:
@@ -666,17 +666,6 @@
   link:
     url: https://link.springer.com/chapter/10.1007/978-3-030-59713-9_70
     display:  C. N. Duong, K. G. Quach, K. Luu, T Le, M. Savvides, T. D. Bui, Springer, 2019
-  type: 1
-  news2:
-  year: 2019
-
-- title: "Mobiface: A lightweight deep learning face recognition on mobile devices"
-  image: c_n_doung_ieee19.png
-  description: 
-  authors:  C. N. Duong, K. G. Quach, I. Jalata, N. Le, K. Luu
-  link:
-    url: https://ieeexplore.ieee.org/abstract/document/9185981
-    display: C. N. Duong, K. G. Quach, I. Jalata, N. Le, K. Luu, IEEE, 2019
   type: 1
   news2:
   year: 2019
