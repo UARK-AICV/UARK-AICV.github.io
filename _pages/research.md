@@ -4,97 +4,14 @@ layout: textlay
 excerpt: "AICV Lab -- Research"
 sitemap: false
 permalink: /research/
----
 
-# Computer Vision
 
 ---
-## Agriculture x AI
-
-<div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/chick_sexing.png" class="img-responsive" width="90%" style="float: left"/>
-</div>
-
-<div class="col-sm-6 clearfix">
-
-#### [Chick Sexing on Face Part]({{ site.url }}{{ site.baseurl }}/projects/chick/)
-
-
-#### AI Processing Plant
-- "Chicken Processing Plant With Automated Computer Vision"
-- "Artificial Intelligence And Vision-Based Broiler Body Weight Measurement System And Process"
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-</div>
-
-
-## Geospatial x AI 
-
-<div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/aerialformer.png" class="img-responsive" width="90%" style="float: left"/>
-</div>
-
-<div class="col-sm-6 clearfix">
-
-#### Aerial Image Segmentation
-- "AerialFormer: Multi-resolution Transformer for Aerial Image Segmentation"
-
-#### [Solar PV Profiling]({{ site.url }}{{ site.baseurl }}/projects/solar_pv)
-- "SolarFormer: Multi-scale Transformer for Solar PV Profiling"
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-</div>
-
-
-## Video Understanding
-
-<div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/vltint_vpc_demo1.gif" class="img-responsive" width="90%" style="left"/>
-</div>
-
-<div class="col-sm-6 clearfix">
-
-#### Video Anomaly Detection
-- "CLIP-TSA: CLIP-Assisted Temporal Self-Attention for Weakly-Supervised Video Anomaly Detection" (ICIP 2023)
-
-#### [Video Paragraph Captioning]({{ site.url }}{{ site.baseurl }}/projects/vpc)
-- "VLTinT: Visual-Linguistic Transformer-in-Transformer for Coherent Video Paragraph Captioning" (AAAI 2023)
-- "Vlcap: Vision-language with contrastive learning for coherent video paragraph captioning" (ICIP 2022)
-
-#### [Temporal Action Proposal Generation]({{ site.url }}{{ site.baseurl }}/projects/tapg)
-- "Aoe-net: Entities interactions modeling with adaptive attention mechanism for temporal action proposals generation" (IJCV)
-- "AEI: Actors-Environment Interaction with Adaptive Attention for Temporal Action Proposals Generation" (BMVC 2021)
-
-</div>
-
-## Image Understanding
-
-<div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/amodal_seg.png" class="img-responsive" width="90%" style="float: left"/>
-</div>
-
-<div class="col-sm-6 clearfix">
-
-#### [Amodal Image Segmentation]({{ site.url }}{{ site.baseurl }}/projects/amodal)
-- "AISFormer: Amodal Instance Segmentation with Transformer" (BMVC 2022)
-
-<br>
-<br>
-<br>
-<br>
-</div>
 
 # Robotics
 
 ---
+
 ## Perception
 
 <div class="col-sm-6 clearfix">
@@ -126,13 +43,107 @@ Here we use reinforcement learning to train a quadruped to walk on various terra
 </div>
 <br>
 
-# Medical Imaging
+
+# Computer Vision
 
 ---
-## Medical Image Segmentation 
+
+## Image Understanding
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/kashu_spie21.jpg" class="img-responsive" width="90%" style="float: left"/>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/amodal_seg.png" class="img-responsive" width="90%" style="float: left"/>
+</div>
+
+<div class="col-sm-6 clearfix">
+
+#### [Amodal Image Segmentation]({{ site.url }}{{ site.baseurl }}/projects/amodal)
+- "AISFormer: Amodal Instance Segmentation with Transformer" (BMVC 2022)
+
+<br>
+<br>
+<br>
+<br>
+</div>
+
+## Video Understanding
+
+<div class="col-sm-6 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/vltint_vpc_demo1.gif" class="img-responsive" width="90%" style="left"/>
+</div>
+
+<div class="col-sm-6 clearfix">
+
+#### Video Anomaly Detection
+- "CLIP-TSA: CLIP-Assisted Temporal Self-Attention for Weakly-Supervised Video Anomaly Detection" (ICIP 2023)
+
+#### [Video Paragraph Captioning]({{ site.url }}{{ site.baseurl }}/projects/vpc)
+- "VLTinT: Visual-Linguistic Transformer-in-Transformer for Coherent Video Paragraph Captioning" (AAAI 2023)
+- "Vlcap: Vision-language with contrastive learning for coherent video paragraph captioning" (ICIP 2022)
+
+#### [Temporal Action Proposal Generation]({{ site.url }}{{ site.baseurl }}/projects/tapg)
+- "Aoe-net: Entities interactions modeling with adaptive attention mechanism for temporal action proposals generation" (IJCV)
+- "AEI: Actors-Environment Interaction with Adaptive Attention for Temporal Action Proposals Generation" (BMVC 2021)
+
+</div>
+
+
+## Aplications
+
+---
+
+### Agriculture
+
+<div class="col-sm-6 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/chick_sexing.png" class="img-responsive" width="90%" style="float: left"/>
+</div>
+
+<div class="col-sm-6 clearfix">
+
+##### [Chick Sexing on Face Part]({{ site.url }}{{ site.baseurl }}/projects/chick/)
+
+
+##### AI Processing Plant
+- "Chicken Processing Plant With Automated Computer Vision"
+- "Artificial Intelligence And Vision-Based Broiler Body Weight Measurement System And Process"
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+</div>
+
+
+### Remote Sensing 
+
+<div class="col-sm-6 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/aerialformer.png" class="img-responsive" width="90%" style="float: left"/>
+</div>
+
+<div class="col-sm-6 clearfix">
+
+#### Aerial Image Segmentation
+- "AerialFormer: Multi-resolution Transformer for Aerial Image Segmentation"
+
+#### [Solar PV Profiling]({{ site.url }}{{ site.baseurl }}/projects/solar_pv)
+- "SolarFormer: Multi-scale Transformer for Solar PV Profiling"
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+</div>
+
+
+
+# Medical Analysis
+
+---
+## Trustworthy 
+
+<div class="col-sm-6 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/kashu_spie22.jpg" class="img-responsive" width="90%" style="float: left"/>
 </div>
 
 <div class="col-sm-6 clearfix">
@@ -152,7 +163,7 @@ Here we use reinforcement learning to train a quadruped to walk on various terra
 
 </div>
 
-## Interpretable AI System
+## Robustness
 
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/interpretable_ai.gif" class="img-responsive" width="90%" style="float: left"/>
@@ -163,7 +174,17 @@ Here we use reinforcement learning to train a quadruped to walk on various terra
 #### [CXR Diagnoses]({{ site.url }}{{ site.baseurl }}/projects/interpretable)
 - "I-AI: A Controllable & Interpretable AI System for Decoding Radiologists' Intense Focus for Accurate CXR Diagnoses" (WACV 2024)
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 </div>
+<!-- 
+## Scalability -->
+
+
 
 <!-- ![]({{ site.url }}{{ site.baseurl }}/images/respic/mri_img2img.png){: style="width: 300px; float: left;margin-right: 30px; border: 10px"}
 
