@@ -1,0 +1,114 @@
+<html>
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+</head>
+
+
+<body>
+    <div class="container">
+        <h1>
+            {{category}}
+        </h1>
+        <div class="panel-group">
+            {% for subCat in subCategories %}
+            {% assign subCatRef = subCat | remove:" " %}
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h1 class="panel-title">
+                        <a data-toggle="collapse" href='#{{ subCatRef }}' style="color: inherit;">{{subCat}}</a>
+                    </h1>
+                </div>
+
+                <div id='{{ subCatRef }}' class="panel-collapse collapse">
+                    <ul class="list-group">
+
+                        {% if subCat == "Applications" %}
+                        {% for appSubCat in appSubCategories %}
+                        {% assign appSubCatRef = appSubCat | remove:" " %}
+
+                        <div class="panel-group" style="margin-bottom: 0;">
+                            <div class="panel panel-default">
+                                <div class="panel-heading">
+                                    <h5 class="panel-title" style="padding-left: 20px;">
+                                        <a data-toggle="collapse" href='#{{ appSubCatRef }}'>{{ appSubCat }}</a>
+                                    </h5>
+                                </div>
+
+                                <div id='{{ appSubCatRef }}' class="panel-collapse collapse">
+                                    <ul class="list-group">
+                                        {% for resData in data %}
+                                        {% if resData.category == category and resData.subCategory == appSubCat %}
+                                        <li class="list-group-item">
+                                            <div style="display: flex ; padding: 25px 0px 10px">
+                                                <div class="col-sm-6 clearfix">
+                                                    <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{resData.image}}"
+                                                        class="img-responsive" width="90%" style="float: left" />
+                                                </div>
+                                                <div class="col-sm-6 clearfix">
+                                                    <h4>
+                                                        {% if resData.link.url %}
+                                                        <a href="{{resData.link.url}}" style="color: inherit">
+                                                            {{resData.title}}
+                                                        </a>
+                                                        {% else %}
+                                                        {{resData.title}}
+                                                        {% endif %}
+                                                    </h4>
+                                                    <h5>
+                                                        -{{resData.link.display}}
+                                                    </h5>
+                                                </div>
+                                            </div>
+                                        </li>
+                                        {% endif %}
+                                        {% endfor %}
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+
+                        {% endfor %}
+                        {% endif %}
+
+
+                        {% for resData in data %}
+                        {% if resData.category == category and resData.subCategory == subCat %}
+                        <div style="display: flex;flex: auto;padding: 25px 0px 25px; border-bottom: solid;">
+                            <li class="list-group-item">
+                                <div style="display: flex ; padding: 25px 0px 10px">
+                                    <div class="col-sm-6 clearfix">
+                                        <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{resData.image}}"
+                                            class="img-responsive" width="90%" style="float: left" />
+                                    </div>
+                                    <div class="col-sm-6 clearfix">
+                                        <h4>
+                                            {% if resData.link.url %}
+                                            <a href="{{resData.link.url}}" style="color: inherit">
+                                                {{resData.title}}
+                                            </a>
+                                            {% else %}
+                                            {{resData.title}}
+                                            {% endif %}
+                                        </h4>
+                                        <h5>
+                                            -{{resData.link.display}}
+                                        </h5>
+                                    </div>
+                                </div>
+                            </li>
+                        </div>
+                        {% endif %}
+                        {% endfor %}
+                    </ul>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+
+</body>
+
+</html>

@@ -1,4 +1,29 @@
 # 2024
+- title: "Decoding Radiologists’ Intense Focus for Accurate CXR Diagnoses: A Controllable & Interpretable AI System "
+  image: thang_WACV24.png
+  description: 
+  authors:
+  link:
+    url:
+    display: WACV, 2024
+  year: 2024
+  category: Medical Analysis
+  subCategory: Review
+
+
+
+- title: "Z-GMOT with MA-SORT: Zero-shot Generic Multiple Object Tracking (GMOT) with Motion Appearance SORT (MA-SORT)"
+  image: k._tran_z_mot2024.png
+  description: 
+  authors: K. H. Tran, A. D. Le Dinh, T. P. Nguyen, T. Phan, P. Nguyen, K. Luu, D. Adjeroh, G. Doretto, N. Le
+  link:
+    url: https://fsoft-aic.github.io/Z-GMOT/
+    display: K. H. Tran, A. D. Le Dinh, T. P. Nguyen, T. Phan, P. Nguyen, K. Luu, D. Adjeroh, G. Doretto, N. Le, , 2024
+  type: 1
+  news2:
+  year: 2024
+  category: Computer Vision
+  subCategory: Video Understanding
 
 - title: Open-vocabulary affordance detection using knowledge distillation and text-point correlation
   image: van_vo_icra24.png
@@ -10,6 +35,8 @@
   type: 1
   news2:
   year: 2024
+  category: Robotics
+  subCategory: Perception
 
 - title: "I-AI: A Controllable and Interpretable AI System for Decoding Radiologists Intense Focus for Accurate CXR Diagnoses"
   image: phametal_wacv2024.png
@@ -21,6 +48,8 @@
   type: 1
   news2:
   year: 2024
+  category: Medical Analysis
+  subCategory: Trustworthiness
 
 - title: "WAVER: Writing-style Agnostic Video Retrieval via Distilling Vision-Language Models Through Open-Vocabulary Knowledge"
   image: huy_le_icassp24.png
@@ -32,6 +61,8 @@
   type: 1
   news2:
   year: 2024
+  category: Computer Vision
+  subCategory: Remote Sensing
 
 - title: "ZEETAD: Adapting Pretrained Vision-Language Model for Zero-Shot End-to-End Temporal Action Detection"
   image: thinh_phan_wacv24.png
@@ -43,6 +74,8 @@
   type: 1
   news2:
   year: 2024
+  category: Computer Vision
+  subCategory: Video Understanding
 
 - title: "SolarFormer: Multi-scale Transformer for Solar PV Profiling"
   image: adrian_deluis_sgsma24.png
@@ -54,6 +87,8 @@
   type: 1
   news2:
   year: 2024
+  category: Computer Vision
+  subCategory: Remote Sensing
 
 - title: "Language-Conditioned Affordance-Pose Detection in 3D Point Clouds"
   image: toan_nguyen_icra24.png
@@ -65,6 +100,8 @@
   type: 1
   news2:
   year: 2024
+  category: Robotics
+  subCategory: Perception
 
 - title: "Open-Fusion: Real-time Open-Vocabulary 3D Mapping and Queryable Scene Representation"
   image: kashu_yamazaki_icra24.png
@@ -87,6 +124,8 @@
   type: 1
   news2:
   year: 2024
+  category: Medical Analysis
+  subCategory: Robustness
 
 - title: "TSRNet: Simple Framework for Real-time ECG Anomaly Detection with Multimodal Time and Spectrogram Restoration Network"
   image: tan_isbi24_tsr.png
@@ -98,6 +137,8 @@
   type: 1
   news2:
   year: 2024
+  category: Medical Analysis
+  subCategory: Robustness
 
 - title: "SAM3D: Segment Anything Model in Volumetric Medical Images"
   image: tan_isbi24_sam.png
@@ -109,6 +150,8 @@
   type: 1
   news2:
   year: 2024
+  category: Medical Analysis
+  subCategory: Scalability
 
 # 2023
 
@@ -122,6 +165,8 @@
   type: 1
   news2:
   year: 2023
+  category: Medical Analysis
+  subCategory: Scalability
 
 - title: "VLTinT: Visual-Linguistic Transformer-in-Transformer for Coherent Video Paragraph Captioning"
   image: kashu_aaai23.png
@@ -133,6 +178,8 @@
   type: 1
   news2:
   year: 2023
+  category: Computer Vision
+  subCategory: Video Understanding
 
 - title: "CLIP-TSA: CLIP-Assisted Temporal Self-Attention for Weakly-Supervised Video Anomaly Detection"
   image: h_kevin_joo_icip23.png
@@ -144,6 +191,8 @@
   type: 1
   news2:
   year: 2023
+  category: Computer Vision
+  subCategory: Video Understanding
 
 - title: "sCL-ST: Supervised Contrastive Learning with Semantic Transformations for Multiple Lead ECG Arrhythmia Classification"
   image: duc_lee_ieee23.png
@@ -155,6 +204,8 @@
   type: 1
   news2:
   year: 2023
+  category: Medical Analysis
+  subCategory: Robustness
 
 - title: "Open-Vocabulary Affordance Detection in 3D Point Clouds"
   image: toan_nguyen_iros23.png
@@ -166,6 +217,8 @@
   type: 1
   news2:
   year: 2023
+  category: Robotics
+  subCategory: Perception
 
 - title: "Fredom: Fairness domain adaptation approach to semantic scene understanding"
   image: thanh-dat_troung_ieee23.png
@@ -177,6 +230,8 @@
   type: 1
   news2:
   year: 2023
+  category: Computer Vision
+  subCategory: Video Understanding
 
 - title: "Z-GMOT: Zero-shot Generic Multiple Object Tracking"
   image: kim_hoang_tran_arXiv23.png
@@ -188,6 +243,8 @@
   type: 2
   news2:
   year: 2023
+  category: Computer Vision
+  subCategory: Video Understanding
 
 - title: "DNA: Deformable Neural Articulations Network for Template-Free Dynamic 3D Human Reconstruction From Monocular RGB-D Video"
   image: khoa_vo_ieee_cvf23.png
@@ -199,6 +256,8 @@
   type: 1
   news2:
   year: 2023
+  category: Computer Vision
+  subCategory: 3D Reconstruction
 
 - title: "AerialFormer: Multi-resolution Transformer for Aerial Image Segmentation"
   image: kashu_yamazaki_arxiv23.png
@@ -210,6 +269,8 @@
   type: 2
   news2:
   year: 2023
+  category: Computer Vision
+  subCategory: Remote Sensing
 
 - title: "Neural architecture search for medical image applications"
   image: viet-khoa_vo_ho_ap23.png
@@ -221,6 +282,8 @@
   type: 1
   news2:
   year: 2023
+  category: Medical Analysis
+  subCategory: Scalability
 
 - title: "LIAAD: Lightweight attentive angular distillation for large-scale age-invariant face recognition"
   image: thanh-dat_truong_elsevier23.png
@@ -232,6 +295,8 @@
   type: 1
   news2:
   year: 2023
+  category: Computer Vision
+  subCategory: Biometrics
 
 - title: "Decoding Radiologists Intense Focus for Accurate CXR Diagnoses: A Controllable and Interpretable AI System"
   image: thanh-dat_truong_wacv23.png
@@ -243,6 +308,8 @@
   type: 1
   news2:
   year: 2023
+  category: Medical Analysis
+  subCategory: Trustworthiness
 
 - title: "On the Out of Distribution Robustness of Foundation Models in Medical Image Segmentation"
   image: duy_nguyen_neurips23.png
@@ -254,6 +321,8 @@
   type: 1
   news2:
   year: 2023
+  category: Medical Analysis
+  subCategory: Trustworthiness
 
 #2022
 
@@ -267,6 +336,8 @@
   type: 1
   news2:
   year: 2022
+  category: Medical Analysis
+  subCategory: Less Label
 
 - title: "Non-volume preserving-based fusion to group-level emotion recognition on crowd videos"
   image: k_g_quach_pergamon22.png
@@ -278,6 +349,8 @@
   type: 2
   news2:
   year: 2022
+  category: Computer Vision
+  subCategory: Video Understanding
 
 - title: "Invertible Residual Network with Regularization for Effective Volumetric Segmentation"
   image: kashu_spie22.jpg
@@ -289,6 +362,8 @@
   type: 1
   news2:
   year: 2022
+  category: Medical Analysis
+  subCategory: Scalability
 
 - title: "Self-supervised Domain Adaptation in Crowd Counting"
   image: p_nguyen_icip22.png
@@ -300,6 +375,8 @@
   type: 1
   news2:
   year: 2022
+  category: Computer Vision
+  subCategory: Image Understanding
 
 - title: "OTAdapt: Optimal Transport-based Approach For Unsupervised Domain Adaptation"
   image: t-d_troung_icpr22.png
@@ -311,6 +388,8 @@
   type: 1
   news2:
   year: 2022
+  category: Computer Vision
+  subCategory: Image Understanding
 
 - title: "Multi-Camera Multiple 3D Object Tracking on the Move for Autonomous Vehicles"
   image: p_nguyen_cvpr22.png
@@ -322,6 +401,8 @@
   type: 1
   news2:
   year: 2022
+  category: Computer Vision
+  subCategory: Video Understanding
 
 - title: "VLCap: Vision-Language with Contrastive Learning for Coherent Video Paragraph Captioning"
   image: kashu_icip22.png
@@ -333,6 +414,8 @@
   type: 1
   news2:
   year: 2022
+  category: Computer Vision
+  subCategory: Video Understanding
 
 - title: "Spiking neural networks and their applications: A Review"
   image: kashu_bc22.png
@@ -344,6 +427,8 @@
   type: 2
   news2:
   year: 2022
+  category: Medical Analysis
+  subCategory: Other
   
 - title: "AOE-Net: Entities Interactions Modeling with Adaptive Attention Mechanism for Temporal Action Proposals Generation"
   image: khoa_ijcv22.png
@@ -355,6 +440,8 @@
   type: 2
   news2:
   year: 2022
+  category: Computer Vision
+  subCategory: Video Understanding
 
 - title: "EmbryosFormer: Deformable Transformer and Collaborative Encoding-Decoding for Embryos Stage Development Classification"
   image: t-p_nguyen_wacv22.png
@@ -366,6 +453,8 @@
   type: 1
   news2:
   year: 2022
+  category: Medical Analysis
+  subCategory: Robustness
 
 - title: "AISFormer: Amodal Instance Segmentation with Transformer"
   image: minh_bmvc22.png
@@ -377,6 +466,8 @@
   type: 1
   news2:
   year: 2022
+  category: Computer Vision
+  subCategory: Image Understanding
 
 - title: "Contextual Explainable Video Representation:\\Human Perception-based Understanding"
   image: k_vo_ieee_22.png
@@ -388,6 +479,9 @@
   type: 1
   news2:
   year: 2022
+  category: Computer Vision
+  subCategory: Video Understanding
+
 
 - title: "Multimodality Multi-Lead ECG Arrhythmia Classification using Self-Supervised Learning"
   image: t_phan_bhi22.png
@@ -399,6 +493,8 @@
   type: 1
   news2:
   year: 2022
+  category: Medical Analysis
+  subCategory: Robustness
 
 - title: "3DConvCaps: 3DUnet with Convolutional Capsule Encoder for Medical Image Segmentation"
   image: m_tran_icpr22.png
@@ -421,6 +517,9 @@
   type: 2
   news2:
   year: 2022
+  category: Computer Vision
+  subCategory: Image Understanding
+
 
 - title: "Spiking neural networks and their applications: A Review"
   image: kashu_bc22.png
@@ -445,6 +544,8 @@
   type: 1
   news2:
   year: 2021
+  category: Medical Analysis
+  subCategory: Robustness
 
 - title: "Offset Curves Loss for Imbalanced Problem in Medical Segmentation"
   image: le_icpr20b.png
@@ -456,6 +557,8 @@
   type: 1
   news2:
   year: 2021
+  category: Medical Analysis
+  subCategory: Robustness
 
 - title: "Agent-Environment Network for Temporal Action Proposal Generation"
   image: khoa_icassp21.png
@@ -467,6 +570,8 @@
   type: 1
   news2:
   year: 2021
+  category: Computer Vision
+  subCategory: Action Understanding
 
 - title: "Deep reinforcement learning in medical imaging: A literature review"
   image: s_k_zhou_mia22.png
@@ -478,6 +583,8 @@
   type: 1
   news2:
   year: 2021
+  category: Computer Vision
+  subCategory: Image Understanding
 
 - title: "Enhance portable radiograph for fast and high accurate covid-19 monitoring"
   image: n_le_mdpi21.png
@@ -489,6 +596,8 @@
   type: 2
   news2:
   year: 2021
+  category: Medical Analysis
+  subCategory: Review
 
 - title: "The Right to Talk: An Audio-Visual Transformer Approach"
   image: t.-d_truong_iccv21.png
@@ -500,6 +609,8 @@
   type: 1
   news2:
   year: 2021
+  category: Computer Vision
+  subCategory: Video Understanding
 
 - title: "Narrow Band Active Contour Attention Model for Medical Segmentation"
   image: le_diag21.png
@@ -511,10 +622,12 @@
   type: 2
   news2:
   year: 2021
+  category: Computer Vision
+  subCategory: Action Understanding
 
 - title: "BiMaL: Bijective Maximum Likelihood Approach to Domain Adaptation in Semantic Scene Segmentation"
   image: t.-d_truong_iccv21-2.png
-  description: Active Co
+  description: 
   authors:  T.-D Truong, C. N. Duong, N. Le, S. L. Phung, C. Rainwater, K. Luu
   link:
     url: https://openaccess.thecvf.com/content/ICCV2021/html/Truong_BiMaL_Bijective_Maximum_Likelihood_Approach_to_Domain_Adaptation_in_Semantic_ICCV_2021_paper.html
@@ -533,6 +646,8 @@
   type: 2
   news2:
   year: 2021
+  category: Computer Vision
+  subCategory: Image Understanding
 
 - title: "Teaching yourself: A self-knowledge distillation approach to action recognition"
   image: d.-q_vu_ieee21.png
@@ -544,6 +659,8 @@
   type: 2
   news2:
   year: 2021
+  category: Computer Vision
+  subCategory: Generative Model
 
 - title: "Multi-module Recurrent Convolutional Neural Network with Transformer Encoder for ECG Arrhythmia Classification"
   image: m._d._le_ieee21.png
@@ -555,6 +672,8 @@
   type: 1
   news2:
   year: 2021
+  category: Computer Vision
+  subCategory: Action Understanding
 
 - title: "Pairflow: Enhancing portable chest x-ray by flow-based deformation for covid-19 diagnosing"
   image: n._le_icip21.png
@@ -566,6 +685,8 @@
   type: 1
   news2:
   year: 2021
+  category: Medical Analysis
+  subCategory: Robustness
 
 - title: "Roughness Index and Roughness Distance for Benchmarking Medical Segmentation"
   image: v._dingh_rathour_bioimaging21.png
@@ -577,6 +698,8 @@
   type: 1
   news2:
   year: 2021
+  category: Medical Analysis
+  subCategory: Robustness
 
 - title: "AEI: Actors-Environment Interaction with Adaptive Attention for Temporal Action Proposals Generation"
   image: k_vo_bmvc21.png
@@ -599,6 +722,8 @@
   type: 1
   news2:
   year: 2021
+  category: Medical Analysis
+  subCategory: Robustness
 
 - title: "3d-ucaps: 3d capsules unet for volumetric image segmentation"
   image: t_nguyen_springer21.png
@@ -610,6 +735,8 @@
   type: 1
   news2:
   year: 2021
+  category: Medical Analysis
+  subCategory: Trustworthy
 
 - title: "ABN: Agent-Aware Boundary Networks for Temporal Action Proposal Generation"
   image: khoa_access21.png
@@ -621,6 +748,9 @@
   type: 2
   news2:
   year: 2021
+  category: Computer Vision
+  subCategory: Video Understanding
+
 
 - title: "AEI: Actors-Environment Interaction with Adaptive Attention for Temporal Action Proposals Generation"
   image: khoa_bmvc21.png
@@ -645,6 +775,8 @@
   type: 1
   news2:
   year: 2020
+  category: Robotics
+  subCategory: Perception
 
 - title: "Flow-based deformation guidance for unpaired multi-contrast mri image-to-image translation"
   image: t_d_bui_springer20.png
@@ -669,6 +801,8 @@
   type: 1
   news2:
   year: 2019
+  category: Computer Vision
+  subCategory: Biometrics
 
 - title: "Mobiface: A lightweight deep learning face recognition on mobile devices"
   image: c_n_doung_ieee19.png
@@ -680,6 +814,8 @@
   type: 1
   news2:
   year: 2019
+  category: Computer Vision
+  subCategory: Biometrics
 
 - title: "Shrinkteanet: Million-scale lightweight face recognition via shrinking teacher-student networks"
   image: c_n_duong_arxiv19.png
@@ -691,6 +827,8 @@
   type: 2
   news2:
   year: 2019
+  category: Computer Vision
+  subCategory: Biometrics
 
 - title: "Recurrent level set networks for instance segmentation"
   image: n_le_intechopen19.png
@@ -702,6 +840,8 @@
   type: 2
   news2:
   year: 2019
+  category: Computer Vision
+  subCategory: Image Understanding
 
 #2018
 
@@ -715,6 +855,8 @@
   type: 2
   news2:
   year: 2018
+  category: Computer Vision
+  subCategory: Image Understanding
 
 - title: "Contextual Recurrent Level Set Networks and Recurrent Residual Networks for Semantic Labeling"
   image: n_le_cmu18.png
@@ -726,6 +868,8 @@
   type: 2
   news2:
   year: 2018
+  category: Computer Vision
+  subCategory: Image Understanding
 
 - title: "Deep Recurrent Level Set for Segmenting Brain Tumors"
   image: n_le_springer18.png
@@ -748,6 +892,8 @@
   type: 1
   news2:
   year: 2018
+  category: Computer Vision
+  subCategory: Biometrics
 
 # 2017
 
@@ -761,6 +907,8 @@
   type: 2
   news2:
   year: 2017
+  category: Computer Vision
+  subCategory: Biometrics
 
 - title: "An automatic cells detection and segmentation"
   image: l_han_spie17.png
@@ -772,6 +920,9 @@
   type: 1
   news2:
   year: 2017
+  category: Medical Analysis
+  subCategory: Robustness
+
 
 - title: "DeepSafeDrive: A grammar-aware driver parsing approach to Driver Behavioral Situational Awareness (DB-SAW)"
   image: n_le_pergamon17.png
@@ -783,6 +934,8 @@
   type: 1
   news2:
   year: 2017
+  category: Computer Vision
+  subCategory: Image Understanding
 
 - title: "Robust Hand Detection and Classification in Vehicles and in the Wild."
   image: c_n_doung_ieee17.png
@@ -794,6 +947,8 @@
   type: 2
   news2:
   year: 2017
+  category: Computer Vision
+  subCategory: Image Understanding
 
 #2016
 
@@ -807,6 +962,8 @@
   type: 2
   news2:
   year: 2016
+  category: Computer Vision
+  subCategory: Biometrics
 
 - title: "Multiple scale faster-rcnn approach to driver's cell-phone usage and hands on steering wheel detection"
   image: n_le_iee16.png
@@ -818,6 +975,8 @@
   type: 1
   news2:
   year: 2016
+  category: Computer Vision
+  subCategory: Image Understanding
 
 - title: "A novel shape constrained feature-based active contour model for lips/mouth segmentation in the wild"
   image: n_le_pergamon16.png
@@ -829,6 +988,8 @@
   type: 1
   news2:
   year: 2016
+  category: Computer Vision
+  subCategory: Biometrics
 
 - title: "Robust hand detection in vehicles"
   image: n_le_ieee16.png
@@ -840,6 +1001,8 @@
   type: 1
   news2:
   year: 2016
+  category: Computer Vision
+  subCategory: Image Understanding
 
 - title: "Towards a deep learning framework for unconstrained face detection"
   image: y_zheng_ieee16.png
@@ -851,6 +1014,8 @@
   type: 1
   news2:
   year: 2016
+  category: Computer Vision
+  subCategory: Biometrics
 
 # Patents
 
@@ -863,7 +1028,7 @@
     display:  Ngan T.H. Le, Michael Kidd, P2757US00, UADA 2021-020 (UAF 2021-032)
   type: 3
   news2:
-
+  
 - title: "Artificial Intelligence And Vision-Based Broiler Body Weight Measurement System And Process"
   image:
   description: 
@@ -873,3 +1038,28 @@
     display:  Ngan T.H. Le, Michael Kidd, P2736US00, UADA 2021-009 (UAF 2021-017)
   type: 3
   news2:
+
+- title: "Robust Gait Learning"
+  image: go1_isaac_gym.gif
+  description: 
+  authors: 
+  link:
+    url: null
+    display: "While quadrupeds can open the operational domains of robots thanks to their dynamic locomotion capabilities, conventional controllers for legged locomotion constraint their applications to relatively simple environments that can be taken over by wheeled robots. Here we use reinforcement learning to train a quadruped to walk on various terrains. In the simulation, a quadruped robot (Unitree Go1) learns to walk across challenging terrain, including uneven surfaces, slopes, stairs, and obstacles, while following linear- and angular- velocity commands."
+  type: 3
+  year: 2024
+  category: Robotics
+  subCategory: Locomotion
+
+
+- title: "Chick Sexing on Face Part <br> <br> AI Processing Plant"
+  image: chick_sexing.png
+  description: 
+  authors: 
+  link:
+    url: null
+    display: " Artificial Intelligence And Vision-Based Broiler Body Weight Measurement System And Process <br> <br> - Chicken Processing Plant With Automated Computer Vision"
+  type: 3
+  year: 2024
+  category: Computer Vision
+  subCategory: Agriculture
