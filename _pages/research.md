@@ -14,6 +14,7 @@ permalink: /research/
 {% if category == categories[0]%}
 {% assign subCategories = "Perception,Locomotion" | split: ',' %}
 
+
 <div>
 {% include collapsible_panel.html subCat=subCategories categories=category resData=data  %}
 </div>
@@ -21,7 +22,7 @@ permalink: /research/
 {% endif %}
 
 {% if category == categories[1]%}
-{% assign subCategories = "Image Understanding,Video Understanding,Biometrics,Action Understanding,Generative Model,Applications" | split: ',' %}
+{% assign subCategories = "Image Understanding,Video Understanding, Biometrics,Action Understanding,Generative Model,Applications" | split: ',' %}
 {% assign appSubCategories = "Agriculture,Remote Sensing,3D Reconstruction" | split: ',' %}
 
 <div>
@@ -31,7 +32,7 @@ permalink: /research/
 {% endif %}
 
 {% if category == categories[2]%}
-{% assign subCategories = "Trustworthiness,Robustness,Scalability" | split: ',' %}
+{% assign subCategories = "Trustworthiness,Robustness,Scalability,Less Label,Other,Review" | split: ',' %}
 
 
 

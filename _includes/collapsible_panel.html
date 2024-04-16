@@ -24,6 +24,52 @@
 
                 <div id='{{ subCatRef }}' class="panel-collapse collapse">
                     <ul class="list-group">
+
+                        {% if subCat == "Applications" %}
+                        {% for appSubCat in appSubCategories %}
+                        {% assign appSubCatRef = appSubCat | remove:" " %}
+
+                        <div class="panel-group" style="margin-bottom: 0;">
+                            <div class="panel panel-default">
+                                <div class="panel-heading">
+                                    <h5 class="panel-title" style="padding-left: 20px;">
+                                        <a data-toggle="collapse" href='#{{ appSubCatRef }}'>{{ appSubCat }}</a>
+                                    </h5>
+                                </div>
+
+                                <div id='{{ appSubCatRef }}' class="panel-collapse collapse">
+                                    <ul class="list-group">
+                                        {% for resData in data %}
+                                        {% if resData.category == category and resData.subCategory == appSubCat %}
+                                        <li class="list-group-item">
+                                            <div style="display: flex ; padding: 25px 0px 10px">
+                                                <div class="col-sm-6 clearfix">
+                                                    <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{resData.image}}"
+                                                        class="img-responsive" width="90%" style="float: left" />
+                                                </div>
+                                                <div class="col-sm-6 clearfix">
+                                                    <h4>
+                                                        <a href="{{resData.link.url}}" style="color: inherit">
+                                                            {{resData.title}}
+                                                        </a>
+                                                    </h4>
+                                                    <h5>
+                                                        -{{resData.link.display}}
+                                                    </h5>
+                                                </div>
+                                            </div>
+                                        </li>
+                                        {% endif %}
+                                        {% endfor %}
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+
+                        {% endfor %}
+                        {% endif %}
+
+
                         {% for resData in data %}
                         {% if resData.category == category and resData.subCategory == subCat %}
                         <div style="display: flex;flex: auto;padding: 25px 0px 25px; border-bottom: solid;">

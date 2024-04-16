@@ -1,4 +1,29 @@
 # 2024
+- title: "Decoding Radiologists’ Intense Focus for Accurate CXR Diagnoses: A Controllable & Interpretable AI System "
+  image: thang_WACV24.png
+  description: 
+  authors:
+  link:
+    url:
+    display: WACV, 2024
+  year: 2024
+  category: Medical Analysis
+  subCategory: Review
+
+
+
+- title: "Z-GMOT with MA-SORT: Zero-shot Generic Multiple Object Tracking (GMOT) with Motion Appearance SORT (MA-SORT)"
+  image: k._tran_z_mot2024.png
+  description: 
+  authors: K. H. Tran, A. D. Le Dinh, T. P. Nguyen, T. Phan, P. Nguyen, K. Luu, D. Adjeroh, G. Doretto, N. Le
+  link:
+    url: https://fsoft-aic.github.io/Z-GMOT/
+    display: K. H. Tran, A. D. Le Dinh, T. P. Nguyen, T. Phan, P. Nguyen, K. Luu, D. Adjeroh, G. Doretto, N. Le, , 2024
+  type: 1
+  news2:
+  year: 2024
+  category: Computer Vision
+  subCategory: Video Understanding
 
 - title: Open-vocabulary affordance detection using knowledge distillation and text-point correlation
   image: van_vo_icra24.png
@@ -10,6 +35,8 @@
   type: 1
   news2:
   year: 2024
+  category: Robotics
+  subCategory: Perception
 
 - title: "I-AI: A Controllable and Interpretable AI System for Decoding Radiologists Intense Focus for Accurate CXR Diagnoses"
   image: phametal_wacv2024.png
@@ -190,6 +217,8 @@
   type: 1
   news2:
   year: 2023
+  category: Robotics
+  subCategory: Perception
 
 - title: "Fredom: Fairness domain adaptation approach to semantic scene understanding"
   image: thanh-dat_troung_ieee23.png
@@ -307,6 +336,8 @@
   type: 1
   news2:
   year: 2022
+  category: Medical Analysis
+  subCategory: Less Label
 
 - title: "Non-volume preserving-based fusion to group-level emotion recognition on crowd videos"
   image: k_g_quach_pergamon22.png
@@ -396,6 +427,8 @@
   type: 2
   news2:
   year: 2022
+  category: Medical Analysis
+  subCategory: Other
   
 - title: "AOE-Net: Entities Interactions Modeling with Adaptive Attention Mechanism for Temporal Action Proposals Generation"
   image: khoa_ijcv22.png
@@ -484,6 +517,8 @@
   type: 2
   news2:
   year: 2022
+  category: Computer Vision
+  subCategory: Image Understanding
 
 
 - title: "Spiking neural networks and their applications: A Review"
@@ -561,6 +596,8 @@
   type: 2
   news2:
   year: 2021
+  category: Medical Analysis
+  subCategory: Review
 
 - title: "The Right to Talk: An Audio-Visual Transformer Approach"
   image: t.-d_truong_iccv21.png
@@ -590,7 +627,7 @@
 
 - title: "BiMaL: Bijective Maximum Likelihood Approach to Domain Adaptation in Semantic Scene Segmentation"
   image: t.-d_truong_iccv21-2.png
-  description: Active Co
+  description: 
   authors:  T.-D Truong, C. N. Duong, N. Le, S. L. Phung, C. Rainwater, K. Luu
   link:
     url: https://openaccess.thecvf.com/content/ICCV2021/html/Truong_BiMaL_Bijective_Maximum_Likelihood_Approach_to_Domain_Adaptation_in_Semantic_ICCV_2021_paper.html
@@ -738,6 +775,8 @@
   type: 1
   news2:
   year: 2020
+  category: Robotics
+  subCategory: Perception
 
 - title: "Flow-based deformation guidance for unpaired multi-contrast mri image-to-image translation"
   image: t_d_bui_springer20.png
@@ -999,3 +1038,14 @@
     display:  Ngan T.H. Le, Michael Kidd, P2736US00, UADA 2021-009 (UAF 2021-017)
   type: 3
   news2:
+
+- title: "Robust Gait Learning"
+  image: go1_isaac_gym.gif
+  description: 
+  authors: 
+  link:
+    url: 
+    display: "While quadrupeds can open the operational domains of robots thanks to their dynamic locomotion capabilities, conventional controllers for legged locomotion constraint their applications to relatively simple environments that can be taken over by wheeled robots. Here we use reinforcement learning to train a quadruped to walk on various terrains. In the simulation, a quadruped robot (Unitree Go1) learns to walk across challenging terrain, including uneven surfaces, slopes, stairs, and obstacles, while following linear- and angular- velocity commands."
+  year: 2024
+  category: Robotics
+  subCategory: Locomotion
