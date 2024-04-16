@@ -49,9 +49,13 @@
                                                 </div>
                                                 <div class="col-sm-6 clearfix">
                                                     <h4>
+                                                        {% if resData.link.url %}
                                                         <a href="{{resData.link.url}}" style="color: inherit">
                                                             {{resData.title}}
                                                         </a>
+                                                        {% else %}
+                                                        {{resData.title}}
+                                                        {% endif %}
                                                     </h4>
                                                     <h5>
                                                         -{{resData.link.display}}
@@ -81,9 +85,13 @@
                                     </div>
                                     <div class="col-sm-6 clearfix">
                                         <h4>
+                                            {% if resData.link.url %}
                                             <a href="{{resData.link.url}}" style="color: inherit">
                                                 {{resData.title}}
                                             </a>
+                                            {% else %}
+                                            {{resData.title}}
+                                            {% endif %}
                                         </h4>
                                         <h5>
                                             -{{resData.link.display}}
