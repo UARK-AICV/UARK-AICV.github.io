@@ -1046,7 +1046,7 @@
   link:
     url: null
     display: "While quadrupeds can open the operational domains of robots thanks to their dynamic locomotion capabilities, conventional controllers for legged locomotion constraint their applications to relatively simple environments that can be taken over by wheeled robots. Here we use reinforcement learning to train a quadruped to walk on various terrains. In the simulation, a quadruped robot (Unitree Go1) learns to walk across challenging terrain, including uneven surfaces, slopes, stairs, and obstacles, while following linear- and angular- velocity commands."
-  type: 3
+  type: 4
   year: 2024
   category: Robotics
   subCategory: Locomotion
@@ -1059,7 +1059,7 @@
   link:
     url: null
     display: " Artificial Intelligence And Vision-Based Broiler Body Weight Measurement System And Process <br> <br> - Chicken Processing Plant With Automated Computer Vision"
-  type: 3
+  type: 4
   year: 2024
   category: Computer Vision
   subCategory: Agriculture
