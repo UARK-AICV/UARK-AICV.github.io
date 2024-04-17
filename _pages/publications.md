@@ -52,6 +52,7 @@ permalink: /publications/
 <a class="pub2"> {{ publi.link.display }} </a>
 </div>
 </div>
+</div>
 
 {% endif %}
 
@@ -74,6 +75,7 @@ permalink: /publications/
 <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="25%" style="float: left" />
 <p><a class="pub1" href="{{ publi.link.url }}">{{ publi.title }}</a></p>
 <a class="pub2"> {{ publi.link.display }} </a>
+</div>
 </div>
 </div>
 
@@ -102,6 +104,7 @@ permalink: /publications/
   <p><a class="pub1" href="{{ publi.link.url }}">{{ publi.title }}</a></p>
   <a class="pub2"> {{ publi.link.display }} </a>
  </div>
+</div>
 </div>
 
 {% endif %}
