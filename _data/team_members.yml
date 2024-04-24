@@ -33,7 +33,6 @@
   name: Chiyou Vang
   photo: chiyou_vang.png
   url: chiyou_vang
-
 - group: 2
   info: Since 2023
   name: Marta Veganzones
@@ -59,7 +58,6 @@
   name: Esteban Duran Marti
   photo: esteban_duran.jpeg
   url: esteban_duran
-
 - group: 3
   info: Since 2021
   name: Anh Tran
@@ -100,13 +98,11 @@
   name: Reagan Clark
   photo: reagan_clark.jpg
   url: reagan_clark
-
 - group: 4
   info: May 2022 - Aug 2022
   name: Kevin Joo
   photo: kevin_joo.jpg
   url: kevin_joo
-
 - group: 8
   info: BASc (graduated 2022) - Meta
   name: Gustavo Gracia
@@ -132,3 +128,8 @@
   name: Kala Rohit
   photo: kala_rohit.png
   url: kala_rohit
+- group: 3
+  info: Undergraduate Student
+  name: Yuki Ikebe
+  photo: yuki_ikebe.png
+  url: yuki_ikebe
