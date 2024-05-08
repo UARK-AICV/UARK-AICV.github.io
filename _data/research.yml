@@ -1,0 +1,1030 @@
+# 2024
+
+- title: "Z-GMOT with MA-SORT: Zero-shot Generic Multiple Object Tracking (GMOT) with Motion Appearance SORT (MA-SORT)"
+  image: Res_k._tran_z_mot2024.png
+  description: 
+  authors: K. H. Tran, A. D. Le Dinh, T. P. Nguyen, T. Phan, P. Nguyen, K. Luu, D. Adjeroh, G. Doretto, N. Le
+  link:
+    url: https://fsoft-aic.github.io/Z-GMOT/
+    display: K. H. Tran, A. D. Le Dinh, T. P. Nguyen, T. Phan, P. Nguyen, K. Luu, D. Adjeroh, G. Doretto, N. Le, , 2024
+  type: 1
+  news2:
+  year: 2024
+  category: Computer Vision
+  subCategory: Video Understanding
+
+- title: Open-vocabulary affordance detection using knowledge distillation and text-point correlation
+  image: Res_van_vo_icra24.png
+  description: 
+  authors: T. Van Vo, M. Nhat Vu, B. Huang, T. Nguyen, N. Le, T. Vo, A. Nguyen
+  link:
+    url: https://arxiv.org/abs/2309.10932
+    display: T. Van Vo, M. Nhat Vu, B. Huang, T. Nguyen, N. Le, T. Vo, A. Nguyen, ICRA, 2024
+  type: 1
+  news2:
+  year: 2024
+  category: Robotics
+  subCategory: Perception
+
+- title: "I-AI: A Controllable and Interpretable AI System for Decoding Radiologists Intense Focus for Accurate CXR Diagnoses"
+  image: Res_phametal_wacv2024.png
+  description: 
+  authors: T. Pham, J. Brecheisen, A. Nguyen, H. Nguyen, N. Le
+  link:
+    url: https://openaccess.thecvf.com/content/WACV2024/papers/Pham_I-AI_A_Controllable__Interpretable_AI_System_for_Decoding_Radiologists_WACV_2024_paper.pdf
+    display:  T. Pham, J. Brecheisen, A. Nguyen, H. Nguyen, N. Le, WACV, 2024
+  type: 1
+  news2:
+  year: 2024
+  category: Medical Analysis
+  subCategory: Trustworthiness
+
+- title: "WAVER: Writing-style Agnostic Video Retrieval via Distilling Vision-Language Models Through Open-Vocabulary Knowledge"
+  image: Res_huy_le_icassp24.png
+  description: 
+  authors: H. Le, T. Kieu, A. Nguyen, N. Le 
+  link:
+    url: https://arxiv.org/abs/2312.09507
+    display: H. Le, T. Kieu, A. Nguyen, N. Le , ICASSP, 2024
+  type: 1
+  news2:
+  year: 2024
+  category: Computer Vision
+  subCategory: Video Understanding
+
+- title: "ZEETAD: Adapting Pretrained Vision-Language Model for Zero-Shot End-to-End Temporal Action Detection"
+  image: Res_thinh_phan_wacv24.png
+  description: 
+  authors: T. Phan, K. Vo, D. Le, G. Doretto, D. Adjeroh, N. Le 
+  link:
+    url: https://openaccess.thecvf.com/content/WACV2024/html/Phan_ZEETAD_Adapting_Pretrained_Vision-Language_Model_for_Zero-Shot_End-to-End_Temporal_Action_WACV_2024_paper.html
+    display: T. Phan, K. Vo, D. Le, G. Doretto, D. Adjeroh, N. Le , WACV, 2024
+  type: 1
+  news2:
+  year: 2024
+  category: Computer Vision
+  subCategory: Video Understanding
+
+- title: "SolarFormer: Multi-scale Transformer for Solar PV Profiling"
+  image: Res_adrian_deluis_sgsma24.png
+  description: 
+  authors: A. de Luis, M. Tran, T. Hanyu, A. Tran, L. Haitao, R. McCann, A. Mantooth, Y. Huang, N. Le 
+  link:
+    url: https://arxiv.org/abs/2310.20057
+    display: A. de Luis, M. Tran, T. Hanyu, A. Tran, L. Haitao, R. McCann, A. Mantooth, Y. Huang, N. Le, SGSMA, 2024
+  type: 1
+  news2:
+  year: 2024
+  category: Computer Vision
+  subCategory: Remote Sensing
+
+- title: "Language-Conditioned Affordance-Pose Detection in 3D Point Clouds"
+  image: Res_toan_nguyen_icra24.png
+  description: 
+  authors: T. Nguyen, M. Nhat Vu, B. Huang, T. Van Vo, V. Truong, N. Le, T. Vo, B. Le, A. Nguyen
+  link:
+    url: https://arxiv.org/abs/2309.10911
+    display: T. Nguyen, M. Nhat Vu, B. Huang, T. Van Vo, V. Truong, N. Le, T. Vo, B. Le, A. Nguyen, ICRA, 2024
+  type: 1
+  news2:
+  year: 2024
+  category: Robotics
+  subCategory: Perception
+
+- title: "Open-Fusion: Real-time Open-Vocabulary 3D Mapping and Queryable Scene Representation"
+  image: Res_kashu_yamazaki_icra24.png
+  description: 
+  authors: K. Yamazaki, T. Hanyu, K. Vo, T. Pham, M. Tran, G. Doretto, A. Nguyen, N. Le
+  link:
+    url: https://arxiv.org/abs/2310.03923
+    display:  K. Yamazaki, T. Hanyu, K. Vo, T. Pham, M. Tran, G. Doretto, A. Nguyen, N. Le, ICRA, 2024
+  type: 1
+  news2:
+  year: 2024
+  category: Robotics
+  subCategory: Perception
+
+- title: "MEGANet: Multi-Scale Edge-Guided Attention Network for Weak Boundary Polyp Segmentation"
+  image: Res_tan_wacv24.png
+  description: 
+  authors: N.-T Bui, D.-H Hoang, Q.-T Nguyen, M.-T Tran, N. Le
+  link:
+    url: https://openaccess.thecvf.com/content/WACV2024/html/Bui_MEGANet_Multi-Scale_Edge-Guided_Attention_Network_for_Weak_Boundary_Polyp_Segmentation_WACV_2024_paper.html
+    display:  N.-T Bui, D.-H Hoang, Q.-T Nguyen, M.-T Tran, N. Le, WACV, 2024
+  type: 1
+  news2:
+  year: 2024
+  category: Medical Analysis
+  subCategory: Robustness
+
+- title: "TSRNet: Simple Framework for Real-time ECG Anomaly Detection with Multimodal Time and Spectrogram Restoration Network"
+  image: Res_tan_isbi24_tsr.png
+  description: 
+  authors: N.-T Bui*, D.-H Hoang*, T. Phan, M.-T Tran, B. Patel, D. Adjeroh, N. Le
+  link:
+    url: https://arxiv.org/abs/2312.10187
+    display: N.-T Bui*, D.-H Hoang*, T. Phan, M.-T Tran, B. Patel, D. Adjeroh, N. Le, ISBI, 2024
+  type: 1
+  news2:
+  year: 2024
+  category: Medical Analysis
+  subCategory: Robustness
+
+- title: "SAM3D: Segment Anything Model in Volumetric Medical Images"
+  image: Res_tan_isbi24_sam.png
+  description: 
+  authors: N.-T Bui*, D.-H Hoang*, M.-T Tran, G. Doretto, D. Adjeroh, B. Patel, A. Choudhary, N. Le
+  link:
+    url: https://arxiv.org/abs/2309.03493
+    display:  N.-T Bui*, D.-H Hoang*, M.-T Tran, G. Doretto, D. Adjeroh, B. Patel, A. Choudhary, N. Le, ISBI, 2024
+  type: 1
+  news2:
+  year: 2024
+  category: Medical Analysis
+  subCategory: Scalability
+
+# 2023
+
+- title: Chapter 19 - Neural architecture search for medical image applications
+  image: Res_v-k_vo-ho_ap23.png
+  description: 
+  authors: V.-K Vo-Ho, K. Yamazaki, H. Hoang, M.-T Tran, N. Le
+  link:
+    url: https://arxiv.org/abs/2203.08951
+    display:  V.-K Vo-Ho, K. Yamazaki, H. Hoang, M.-T Tran, N. Le, Academic Press, 2023
+  type: 1
+  news2:
+  year: 2023
+  category: Medical Analysis
+  subCategory: Scalability
+
+- title: "VLTinT: Visual-Linguistic Transformer-in-Transformer for Coherent Video Paragraph Captioning"
+  image: Res_kashu_aaai23.png
+  description: 
+  authors: K. Yamazaki, K. Vo, S. Truong, B. Raj, N. Le
+  link:
+    url: https://ojs.aaai.org/index.php/AAAI/article/view/25412
+    display:  K. Yamazaki, K. Vo, S. Truong, B. Raj, N. Le, AAAI, 2023
+  type: 1
+  news2:
+  year: 2023
+  category: Computer Vision
+  subCategory: Video Understanding
+
+- title: "CLIP-TSA: CLIP-Assisted Temporal Self-Attention for Weakly-Supervised Video Anomaly Detection"
+  image: Res_h_kevin_joo_icip23.png
+  description: 
+  authors: D. Le, S. Truong, P. Brijesh, D. A. Adjeroh, N. Le
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/10222289
+    display:  D. Le, S. Truong, P. Brijesh, D. A. Adjeroh, N. Le, ICIP, 2023
+  type: 1
+  news2:
+  year: 2023
+  category: Computer Vision
+  subCategory: Video Understanding
+
+- title: "sCL-ST: Supervised Contrastive Learning with Semantic Transformations for Multiple Lead ECG Arrhythmia Classification"
+  image: Res_duc_lee_ieee23.png
+  description: 
+  authors: V.-K Vo-Ho, K. Yamazaki, H. Hoang, M.-T Tran, N. Le
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/10057484
+    display:  V.-K Vo-Ho, K. Yamazaki, H. Hoang, M.-T Tran, N. Le, IEEE, 2023
+  type: 1
+  news2:
+  year: 2023
+  category: Medical Analysis
+  subCategory: Robustness
+
+- title: "Open-Vocabulary Affordance Detection in 3D Point Clouds"
+  image: Res_toan_nguyen_iros23.png
+  description: 
+  authors: T. Ngyen, M. N. Vu, A. Vuong, D. Nguyen, T. Vo, N. Le, A. Nguyen
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/10341553
+    display:  T. Ngyen, M. N. Vu, A. Vuong, D. Nguyen, T. Vo, N. Le, A. Nguyen, iROS, 2023
+  type: 1
+  news2:
+  year: 2023
+  category: Robotics
+  subCategory: Perception
+
+- title: "Fredom: Fairness domain adaptation approach to semantic scene understanding"
+  image: Res_thanh-dat_troung_ieee23.png
+  description: 
+  authors: T.-D Truong, N. Le, B. Raj, J. Cothren, K. Luu
+  link:
+    url: https://openaccess.thecvf.com/content/CVPR2023/html/Truong_FREDOM_Fairness_Domain_Adaptation_Approach_to_Semantic_Scene_Understanding_CVPR_2023_paper.html
+    display:  T.-D Truong, N. Le, B. Raj, J. Cothren, K. Luu, IEEE/CVF, 2023
+  type: 1
+  news2:
+  year: 2023
+  category: Computer Vision
+  subCategory: Video Understanding
+
+- title: "Z-GMOT: Zero-shot Generic Multiple Object Tracking"
+  image: Res_kim_hoang_tran_arXiv23.png
+  description: 
+  authors: K. H. Tran, T.-P. Nguyen, A. D. Le Dinh, P. Nguyen, T. Phan, K. Luu, D. Adjeroh, N. Le
+  link:
+    url: https://arxiv.org/abs/2305.17648
+    display:  K. H. Tran, T.-P. Nguyen, A. D. Le Dinh, P. Nguyen, T. Phan, K. Luu, D. Adjeroh, N. Le, arXiv, 2023
+  type: 2
+  news2:
+  year: 2023
+  category: Computer Vision
+  subCategory: Video Understanding
+
+- title: "DNA: Deformable Neural Articulations Network for Template-Free Dynamic 3D Human Reconstruction From Monocular RGB-D Video"
+  image: Res_khoa_vo_ieee_cvf23.png
+  description: 
+  authors: K. Vo, T.-T Pham, K. Yamazaki, M. Tran, N. Le
+  link:
+    url: https://openaccess.thecvf.com/content/CVPR2023W/Precognition/html/Vo_DNA_Deformable_Neural_Articulations_Network_for_Template-Free_Dynamic_3D_Human_CVPRW_2023_paper.html
+    display:  K. Vo, T.-T Pham, K. Yamazaki, M. Tran, N. Le, IEEE/CVF, 2023
+  type: 1
+  news2:
+  year: 2023
+  category: Computer Vision
+  subCategory: 3D Reconstruction
+
+- title: "AerialFormer: Multi-resolution Transformer for Aerial Image Segmentation"
+  image: Res_kashu_yamazaki_arxiv23.png
+  description: 
+  authors: K. Yamazaki, T. Hanyu, M. Tran, A. Garcia, A. Tran, R. McCann, H. Liao, C. Rainwater, M. Adkins, A. Molthan, J. Cothren, N. Le
+  link:
+    url: https://arxiv.org/abs/2306.06842
+    display:  K. Yamazaki, T. Hanyu, M. Tran, A. Garcia, A. Tran, R. McCann, H. Liao, C. Rainwater, M. Adkins, A. Molthan, J. Cothren, N. Le, arXiv, 2023
+  type: 2
+  news2:
+  year: 2023
+  category: Computer Vision
+  subCategory: Remote Sensing
+
+- title: "Neural architecture search for medical image applications"
+  image: Res_viet-khoa_vo_ho_ap23.png
+  description: 
+  authors: V.-K. Vo-Ho, K. Yamazaki, H. Hoang, M.-T Tran, N. Le
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/B9780323998512000296
+    display:  V.-K. Vo-Ho, K. Yamazaki, H. Hoang, M.-T Tran, N. Le, Academic Press, 2023
+  type: 1
+  news2:
+  year: 2023
+  category: Medical Analysis
+  subCategory: Scalability
+
+- title: "LIAAD: Lightweight attentive angular distillation for large-scale age-invariant face recognition"
+  image: Res_thanh-dat_truong_elsevier23.png
+  description: 
+  authors: T. -D Truong, C. N. Duong, K. G. Quach, N. Le, T. D. Bui, K. Luu
+  link:
+    url: https://www.sciencedirect.com/science/article/abs/pii/S0925231223003089
+    display:  T. -D Truong, C. N. Duong, K. G. Quach, N. Le, T. D. Bui, K. Luu, Elsevier, 2023
+  type: 1
+  news2:
+  year: 2023
+  category: Computer Vision
+  subCategory: Biometrics
+
+- title: "On the Out of Distribution Robustness of Foundation Models in Medical Image Segmentation"
+  image: Res_duy_nguyen_neurips23.png
+  description: 
+  authors: Duy M. H. Nguyen, Tan N. Pham, N. T. Diep, N. Phan, Q. Pham, V. Tong, B. T. Nguyen, N. Le, N. Ho, P. Xie, D. Sonntag
+  link:
+    url: https://arxiv.org/abs/2311.11096
+    display:  Duy M. H. Nguyen, Tan N. Pham, N. T. Diep, N. Phan, Q. Pham, V. Tong, B. T. Nguyen, N. Le, N. Ho, P. Xie, D. Sonntag, NeurIPS, 2023
+  type: 1
+  news2:
+  year: 2023
+  category: Medical Analysis
+  subCategory: Trustworthiness
+
+#2022
+
+- title: "SS-3DCapsNet: Self-supervised 3D Capsule Networks for Medical Segmentation on Less Labeled Data"
+  image: Res_minh_tran_isbi22.png
+  description: 
+  authors: M. Tran, L. Ly, B.-S Hua, N. Le
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/9761627
+    display: M. Tran, L. Ly, B.-S Hua, N. Le , ISBI, 2022
+  type: 1
+  news2:
+  year: 2022
+  category: Medical Analysis
+  subCategory: Scalability
+
+- title: "Non-volume preserving-based fusion to group-level emotion recognition on crowd videos"
+  image: Res_k_g_quach_pergamon22.png
+  description: 
+  authors:  K. G. Quach, N. Le, C. N. Duong, I. Jalata, K. Roy, K. Luu
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0031320322001273
+    display: K. G. Quach, N. Le, C. N. Duong, I. Jalata, K. Roy, K. Luu , Pergamon, 2022
+  type: 2
+  news2:
+  year: 2022
+  category: Computer Vision
+  subCategory: Video Understanding
+
+- title: "Invertible Residual Network with Regularization for Effective Volumetric Segmentation"
+  image: Res_kashu_spie22.jpg
+  description: 
+  authors: K. Yamazaki, N. Le, V. Rathour
+  link:
+    url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11596/1159610/Invertible-residual-network-with-regularization-for-effective-volumetric-segmentation/10.1117/12.2581396.pdf
+    display:  K. Yamazaki, N. Le, V. Rathour, SPIE Medical Imaging, 2022
+  type: 1
+  news2:
+  year: 2022
+  category: Medical Analysis
+  subCategory: Scalability
+
+- title: "Self-supervised Domain Adaptation in Crowd Counting"
+  image: Res_p_nguyen_icip22.png
+  description: 
+  authors:  P. Nguyen, T.-D Truong, M. Huang, Y. Liang, N. Le, K. Luu
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/9897440
+    display: P. Nguyen, T.-D Truong, M. Huang, Y. Liang, N. Le, K. Luu , ICIP, 2022
+  type: 1
+  news2:
+  year: 2022
+  category: Computer Vision
+  subCategory: Image Understanding
+
+- title: "OTAdapt: Optimal Transport-based Approach For Unsupervised Domain Adaptation"
+  image: Res_t-d_troung_icpr22.png
+  description: 
+  authors:  T.-D Truong, N. V. Sai Raviteja Chappa, X. B. Nguyen, N. Le, A. Dowling, K. Luu
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/9956335
+    display: T.-D Truong, N. V. Sai Raviteja Chappa, X. B. Nguyen, N. Le, A. Dowling, K. Luu , ICPR, 2022
+  type: 1
+  news2:
+  year: 2022
+  category: Computer Vision
+  subCategory: Image Understanding
+
+- title: "Multi-Camera Multiple 3D Object Tracking on the Move for Autonomous Vehicles"
+  image: Res_p_nguyen_cvpr22.png
+  description: 
+  authors:  P. Nguyen, K. G. Quach, C. N. Duong, N. Le, X.-B. Nguyen, K. Luu
+  link:
+    url: https://openaccess.thecvf.com/content/CVPR2022W/Precognition/html/Nguyen_Multi-Camera_Multiple_3D_Object_Tracking_on_the_Move_for_Autonomous_CVPRW_2022_paper.html
+    display: P. Nguyen, K. G. Quach, C. N. Duong, N. Le, X.-B. Nguyen, K. Luu, CVPR, 2022
+  type: 1
+  news2:
+  year: 2022
+  category: Computer Vision
+  subCategory: Video Understanding
+
+- title: "VLCap: Vision-Language with Contrastive Learning for Coherent Video Paragraph Captioning"
+  image: Res_kashu_icip22.png
+  description: 
+  authors: K. Yamazaki, S. Truong, K. Vo, M. Kidd, C. Rainwater, K. Luu, N. Le
+  link:
+    url: https://ieeexplore.ieee.org/iel7/9897158/9897159/09897766.pdf
+    display:  K. Yamazaki, S. Truong, K. Vo, M. Kidd, C. Rainwater, K. Luu, N. Le, ICIP, 2022
+  type: 1
+  news2:
+  year: 2022
+  category: Computer Vision
+  subCategory: Video Understanding
+
+- title: "Spiking neural networks and their applications: A Review"
+  image: Res_kashu_bc22.png
+  description: 
+  authors: K. Yamazaki, K. Vo-Ho, D. Bulsara, N. Le
+  link:
+    url: https://www.mdpi.com/2076-3425/12/7/863/
+    display:  K. Yamazaki, K. Vo-Ho, D. Bulsara, N. Le, Brain Sciences, 2022
+  type: 2categor
+  news2:
+  year: 2022
+  category: Medical Analysis
+  subCategory: Scalability
+  
+- title: "AOE-Net: Entities Interactions Modeling with Adaptive Attention Mechanism for Temporal Action Proposals Generation"
+  image: Res_khoa_ijcv22.png
+  description: 
+  authors: K. Vo, S. Truong, K. Yamazaki, B. Raj, MT. Tran, N. Le
+  link:
+    url: https://link.springer.com/article/10.1007/s11263-022-01702-9
+    display:  K. Vo, S. Truong, K. Yamazaki, B. Raj, MT. Tran, N. Le, International Journal of Computer Vision (IJCV), 2022
+  type: 2
+  news2:
+  year: 2022
+  category: Computer Vision
+  subCategory: Video Understanding
+
+- title: "EmbryosFormer: Deformable Transformer and Collaborative Encoding-Decoding for Embryos Stage Development Classification"
+  image: Res_t-p_nguyen_wacv22.png
+  description: 
+  authors:  T.-P Nguyen, T.-T Pham, T Nguyen, H. Le, D. Nguyen, H. Lam, P. Nguyen, J. Fowler, M.-T Tran, N. Le
+  link:
+    url: https://openaccess.thecvf.com/content/WACV2023/html/Nguyen_EmbryosFormer_Deformable_Transformer_and_Collaborative_Encoding-Decoding_for_Embryos_Stage_Development_WACV_2023_paper.html
+    display: T.-P Nguyen, T.-T Pham, T Nguyen, H. Le, D. Nguyen, H. Lam, P. Nguyen, J. Fowler, M.-T Tran, N. Le, WACV, 2022
+  type: 1
+  news2:
+  year: 2022
+  category: Medical Analysis
+  subCategory: Robustness
+
+- title: "AISFormer: Amodal Instance Segmentation with Transformer"
+  image: Res_minh_bmvc22.png
+  description: 
+  authors: M. Tran, K. Vo, K. Yamazaki, A. Fernandes, M. Kidd, N. Le
+  link:
+    url: https://arxiv.org/abs/2210.06323
+    display:  M. Tran, K. Vo, K. Yamazaki, A. Fernandes, M. Kidd, N. Le, BMVC, 2022
+  type: 1
+  news2:
+  year: 2022
+  category: Computer Vision
+  subCategory: Image Understanding
+
+- title: "Contextual Explainable Video Representation:\\Human Perception-based Understanding"
+  image: Res_k_vo_ieee_22.png
+  description: 
+  authors:  K. Vo, K. Yamazaki, P. X Nguyen, P. Nguyen, K. Luu, N. Le
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/10052051
+    display: K. Vo, K. Yamazaki, P. X Nguyen, P. Nguyen, K. Luu, N. Le, IEEE Signal Processing Asilomar, 2022
+  type: 1
+  news2:
+  year: 2022
+  category: Computer Vision
+  subCategory: Video Understanding
+
+
+- title: "Multimodality Multi-Lead ECG Arrhythmia Classification using Self-Supervised Learning"
+  image: Res_t_phan_bhi22.png
+  description: 
+  authors:  T. Phan, D. Le, P. Brijesh, D. Adjeroh, J. Wu, M. Olgaard Jensen, N. Le
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/9926925
+    display: T. Phan, D. Le, P. Brijesh, D. Adjeroh, J. Wu, M. Olgaard Jensen, N. Le, BHI, 2022
+  type: 1
+  news2:
+  year: 2022
+  category: Medical Analysis
+  subCategory: Robustness
+
+- title: "3DConvCaps: 3DUnet with Convolutional Capsule Encoder for Medical Image Segmentation"
+  image: Res_m_tran_icpr22.png
+  description: 
+  authors:  M. Tran, V.-K Vo-Ho, N. Le
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/9956588
+    display: M. Tran, V.-K Vo-Ho, N. Le, ICPR, 2022
+  type: 1
+  news2:
+  year: 2022
+
+- title: "Deep Reinforcement Learning in Computer Vision: A Comprehensive Survey"
+  image: Res_le_air21.png
+  description: 
+  authors: N. Le, K. Yamazaki, V. Rathour, K. Luu, and M. Savvides
+  link:
+    url: https://link.springer.com/article/10.1007/s10462-021-10061-9
+    display:  N. Le, K. Yamazaki, V. Rathour, K. Luu, and M. Savvides, Artificial Intelligence Review, 2021
+  type: 2
+  news2:
+  year: 2022
+  category: Computer Vision
+  subCategory: Image Understanding
+
+  
+# 2021
+
+- title: "A Multi-task Contextual Atrous Residual Network for Brain Tumor Detection and Segmentation"
+  image: Res_le_icpr20a.png
+  description: 
+  authors: N. Le, K. Yamazaki, K. Quach, D. Truong, and M. Savvides
+  link:
+    url: https://ieeexplore.ieee.org/iel7/9411940/9411911/09412414.pdf
+    display:  N. Le, K. Yamazaki, K. Quach, D. Truong, and M. Savvides, International Conference on Pattern Recognition (ICPR), 2021
+  type: 1
+  news2:
+  year: 2021
+  category: Medical Analysis
+  subCategory: Robustness
+
+- title: "Offset Curves Loss for Imbalanced Problem in Medical Segmentation"
+  image: Res_le_icpr20b.png
+  description: 
+  authors: N. Le, T. Le, K. Yamazaki, B. Toan, K. Luu
+  link:
+    url: https://ieeexplore.ieee.org/iel7/9411940/9411911/09411921.pdf
+    display:  N. Le, T. Le, K. Yamazaki, B. Toan, K. Luu, International Conference on Pattern Recognition (ICPR), 2021
+  type: 1
+  news2:
+  year: 2021
+  category: Medical Analysis
+  subCategory: Robustness
+
+- title: "Agent-Environment Network for Temporal Action Proposal Generation"
+  image: Res_khoa_icassp21.png
+  description: 
+  authors: V. Vo-Ho, N. Le, K. Yamazaki, A. Sugimoto, and M. Tran
+  link:
+    url: https://ieeexplore.ieee.org/iel7/9413349/9413350/09415101.pdf
+    display:  V. Vo-Ho, N. Le, K. Yamazaki, A. Sugimoto, and M. Tran, IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2021
+  type: 1
+  news2:
+  year: 2021
+  category: Computer Vision
+  subCategory: Video Understanding
+
+- title: "Deep reinforcement learning in medical imaging: A literature review"
+  image: Res_s_k_zhou_mia22.png
+  description: 
+  authors:  S. K. Zhou, N. Le, K. Luu, H. V. Nguyen, N. Ayache
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S1361841521002395
+    display: S. K. Zhou, N. Le, K. Luu, H. V. Nguyen, N. Ayache,  Medical Image Analysis, 2021
+  type: 1
+  news2:
+  year: 2021
+  category: Computer Vision
+  subCategory: Image Understanding
+
+- title: "Enhance portable radiograph for fast and high accurate covid-19 monitoring"
+  image: Res_n_le_mdpi21.png
+  description: 
+  authors:  N. Le, J. Sorensen, T. Bui, A. Choudhary, K. Luu, H. Nguyen
+  link:
+    url: https://www.mdpi.com/2075-4418/11/6/1080
+    display: N. Le, J. Sorensen, T. Bui, A. Choudhary, K. Luu, H. Nguyen,  MDPI, 2021
+  type: 2
+  news2:
+  year: 2021
+  category: Medical Analysis
+
+- title: "The Right to Talk: An Audio-Visual Transformer Approach"
+  image: Res_t.-d_truong_iccv21.png
+  description: 
+  authors:  T.-D Truong, C. Nhan Duong, T. D. Vu, H. Anh Pham, B. Raj, N. Le, K. Luu
+  link:
+    url: https://openaccess.thecvf.com/content/ICCV2021/html/Truong_The_Right_To_Talk_An_Audio-Visual_Transformer_Approach_ICCV_2021_paper.html5
+    display: T.-D Truong, C. Nhan Duong, T. D. Vu, H. Anh Pham, B. Raj, N. Le, K. Luu,  ICCV, 2021
+  type: 1
+  news2:
+  year: 2021
+  category: Computer Vision
+  subCategory: Video Understanding
+
+- title: "Narrow Band Active Contour Attention Model for Medical Segmentation"
+  image: Res_le_diag21.png
+  description: 
+  authors: N. Le, T. Bui, K. Vo-Ho, K. Yamazaki, K. Luu 
+  link:
+    url: https://www.mdpi.com/2075-4418/11/8/1393/htm
+    display:  N. Le, T. Bui, K. Vo-Ho, K. Yamazaki, K. Luu, Diagnostics, 2021
+  type: 2
+  news2:
+  year: 2021
+  category: Computer Vision
+  subCategory: Video Understanding
+
+- title: "BiMaL: Bijective Maximum Likelihood Approach to Domain Adaptation in Semantic Scene Segmentation"
+  image: Res_t.-d_truong_iccv21-2.png
+  description: 
+  authors:  T.-D Truong, C. N. Duong, N. Le, S. L. Phung, C. Rainwater, K. Luu
+  link:
+    url: https://openaccess.thecvf.com/content/ICCV2021/html/Truong_BiMaL_Bijective_Maximum_Likelihood_Approach_to_Domain_Adaptation_in_Semantic_ICCV_2021_paper.html
+    display: T.-D Truong, C. N. Duong, N. Le, S. L. Phung, C. Rainwater, K. Luu,  ICCV, 2021
+  type: 1
+  news2:
+  year: 2021
+
+- title: "Fast flow reconstruction via robust invertible n× n convolution"
+  image: Res_t.-d_truong_mdpi21.png
+  description: 
+  authors:  T.-D Truong, C. N. Duong, M.-T Tran, N. Le, K. Luu
+  link:
+    url: https://www.mdpi.com/1999-5903/13/7/179
+    display: T.-D Truong, C. N. Duong, M.-T Tran, N. Le, K. Luu,  MDPI, 2021
+  type: 2
+  news2:
+  year: 2021
+  category: Computer Vision
+  subCategory: Image Understanding
+
+- title: "Teaching yourself: A self-knowledge distillation approach to action recognition"
+  image: Res_d.-q_vu_ieee21.png
+  description: 
+  authors:  D.-Q Vu, N. Le, J.-C Wang
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/9495804
+    display: D.-Q Vu, N. Le, J.-C Wang,  IEEE, 2021
+  type: 2
+  news2:
+  year: 2021
+  category: Computer Vision
+  subCategory: Generative Model
+
+- title: "Multi-module Recurrent Convolutional Neural Network with Transformer Encoder for ECG Arrhythmia Classification"
+  image: Res_m._d._le_ieee21.png
+  description: 
+  authors:  M. D. Le, V. S. Rathour, Q. S. Truong, Q. Mai, P. Brijesh, N. Le
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/9508527
+    display: M. D. Le, V. S. Rathour, Q. S. Truong, Q. Mai, P. Brijesh, N. Le,  IEEE, 2021
+  type: 1
+  news2:
+  year: 2021
+  category: Computer Vision
+  subCategory: Video Understanding
+
+- title: "Pairflow: Enhancing portable chest x-ray by flow-based deformation for covid-19 diagnosing"
+  image: Res_n._le_icip21.png
+  description: 
+  authors:  N. Le, J. Sorensen, T. D. Bui, A. Choudhary, K. Luu, H. Nguyen
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/9506579
+    display: N. Le, J. Sorensen, T. D. Bui, A. Choudhary, K. Luu, H. Nguyen,  ICIP, 2021
+  type: 1
+  news2:
+  year: 2021
+  category: Medical Analysis
+  subCategory: Robustness
+
+- title: "Roughness Index and Roughness Distance for Benchmarking Medical Segmentation"
+  image: Res_v._dingh_rathour_bioimaging21.png
+  description: 
+  authors:  V. Singh Rathour, K. Yamakazi, T Le
+  link:
+    url: https://arxiv.org/abs/2103.12350
+    display:  V. Singh Rathour, K. Yamakazi, T Le, Bioimaging, 2021
+  type: 1
+  news2:
+  year: 2021
+  category: Medical Analysis
+  subCategory: Robustness
+
+- title: "AEI: Actors-Environment Interaction with Adaptive Attention for Temporal Action Proposals Generation"
+  image: Res_k_vo_bmvc21.png
+  description: 
+  authors:  K. Vo, H. Joo, K. Yamazaki, S. Truong, K. Kitani, M.-T Tran, N Le
+  link:
+    url: https://arxiv.org/abs/2110.11474
+    display:  K. Vo, H. Joo, K. Yamazaki, S. Truong, K. Kitani, M.-T Tran, N Le, BMVC, 2021
+  type: 1
+  news2:
+  year: 2021
+
+- title: "DAM-AL: Dilated Attention Mechanism with Attention Loss for 3D Infant Brain Image Segmentation"
+  image: Res_d._h_hoang_acm21.png
+  description: 
+  authors:  D.-H Hoang, G.-H Diep, M.-T Tran, N. Le
+  link:
+    url: https://dl.acm.org/doi/abs/10.1145/3477314.3507112
+    display:   D.-H Hoang, G.-H Diep, M.-T Tran, N. Le, ACM, 2021
+  type: 1
+  news2:
+  year: 2021
+  category: Medical Analysis
+  subCategory: Robustness
+
+- title: "3d-ucaps: 3d capsules unet for volumetric image segmentation"
+  image: Res_t_nguyen_springer21.png
+  description: 
+  authors:  T. Nguyen, B.-S Hua, N. Le
+  link:
+    url: https://link.springer.com/chapter/10.1007/978-3-030-87193-2_52
+    display:   T. Nguyen, B.-S Hua, N. Le, Springer, 2021
+  type: 1
+  news2:
+  year: 2021
+  category: Medical Analysis
+  subCategory: Trustworthy
+
+- title: "ABN: Agent-Aware Boundary Networks for Temporal Action Proposal Generation"
+  image: Res_khoa_access21.png
+  description: 
+  authors: K. Vo, K. Yamazaki, S. Truong, M.-T. Tran, A. Sugimoto, and N. Le
+  link:
+    url: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9530693
+    display:  K. Vo, K. Yamazaki, S. Truong, M.-T. Tran, A. Sugimoto, and N. Le, IEEE Access, 2021
+  type: 2
+  news2:
+  year: 2021
+  category: Computer Vision
+  subCategory: Video Understanding
+
+
+- title: "AEI: Actors-Environment Interaction with Adaptive Attention for Temporal Action Proposals Generation"
+  image: Res_khoa_bmvc21.png
+  description: 
+  authors: K. Vo, H. Joo, K. Yamazaki, S. Truong, K. Kitani,, M.-T. Tran, N. Le
+  link:
+    url: https://papertalk.org/papertalks/34372
+    display:  K. Vo, H. Joo, K. Yamazaki, S. Truong, K. Kitani,, M.-T. Tran, N. Le, BMVC, 2021 **Oral Presentation**
+  type: 1
+  news2:
+  year: 2021
+
+#2020
+
+- title: "Follow then Forage Exploration: Improving Asynchronous Advantage Actor Critic"
+  image: Res_j_b_holliday_csit20.png
+  description: 
+  authors:  James B. Holliday, N Le
+  link:
+    url: https://d1wqtxts1xzle7.cloudfront.net/63952589/csit10090920200718-25654-gym0t5-libre.pdf?1595062441=&response-content-disposition=inline%3B+filename%3DFOLLOW_THEN_FORAGE_EXPLORATION_IMPROVING.pdf&Expires=1715110968&Signature=cqWITcWENQ1-2qQujh9QCeNiIh8yYMzmjLlQiqd91~p8KZLsouAcWBehVutjFpOx9q4AhPrlKfNBPUMPvinUP5fg3Ni30BLjEbXnMnDQbPk~dH6540pe4iSiAoqeq1jXeUF1J75LR0S1J2XsS7R7naUahKN2Q2eoIi-eUuJO8jidD-Ks04VRahHeDRIYPm7nWHzx~ZOszBlIBKtiUVp0RF5UpC2XimX07vL24CvrGVfTNCYRz7JIMg0N2QhG~Y40YjG75WTLyKvUMOQz3njxlaFdpw2m-CqHVg~~f~pb9~~~mTY2dF~Ol1NHU6nh284lLFdxAIIyQc-4oFJeVouOPQ__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA
+    display:   James B. Holliday, N Le, CSIT, 2020
+  type: 1
+  news2:
+  year: 2020
+  category: Robotics
+  subCategory: Perception
+
+- title: "Flow-based deformation guidance for unpaired multi-contrast mri image-to-image translation"
+  image: Res_t_d_bui_springer20.png
+  description: 
+  authors:  T. D. Bui, M. Nguyen, N. Le, K. Luu
+  link:
+    url: https://link.springer.com/chapter/10.1007/978-3-030-59713-9_70
+    display:   T. D. Bui, M. Nguyen, N. Le, K. Luu, Springer, 2020
+  type: 1
+  news2:
+  year: 2020
+
+#2019
+
+- title: "Learning from longitudinal face demonstration—where tractable deep modeling meets inverse reinforcement learning"
+  image: Res_c_n_doung_springer19.png
+  description: 
+  authors:  C. N. Duong, K. G. Quach, K. Luu, T Le, M. Savvides, T. D. Bui
+  link:
+    url: https://arxiv.org/abs/1711.10520
+    display:  C. N. Duong, K. G. Quach, K. Luu, T Le, M. Savvides, T. D. Bui, Springer, 2019
+  type: 1
+  news2:
+  year: 2019
+  category: Computer Vision
+  subCategory: Biometrics
+
+- title: "Mobiface: A lightweight deep learning face recognition on mobile devices"
+  image: Res_c_n_doung_ieee19.png
+  description: 
+  authors:  C. N. Duong, K. G. Quach, I. Jalata, N. Le, K. Luu
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/9185981
+    display: C. N. Duong, K. G. Quach, I. Jalata, N. Le, K. Luu, IEEE, 2019
+  type: 1
+  news2:
+  year: 2019
+  category: Computer Vision
+  subCategory: Biometrics
+
+- title: "Shrinkteanet: Million-scale lightweight face recognition via shrinking teacher-student networks"
+  image: Res_c_n_duong_arxiv19.png
+  description: 
+  authors:  C. N. Duong, K. Luu, K. G. Quach, N. Le
+  link:
+    url: https://arxiv.org/abs/1905.10620
+    display: C. N. Duong, K. Luu, K. G. Quach, N. Le, arXiv, 2019
+  type: 2
+  news2:
+  year: 2019
+  category: Computer Vision
+  subCategory: Biometrics
+
+- title: "Recurrent level set networks for instance segmentation"
+  image: Res_n_le_intechopen19.png
+  description: 
+  authors:  N. Le, K. Luu, M. Savvides, K. G. Quach, C. N. Duong
+  link:
+    url: https://books.google.com/books?hl=en&lr=&id=PTj8DwAAQBAJ&oi=fnd&pg=PA41&dq=info:NMbKkjs-hDEJ:scholar.google.com&ots=t6woBegJiq&sig=OOh0OgrM8KVk6VasONNDWaZttxs#v=onepage&q&f=false
+    display: N. Le, K. Luu, M. Savvides, K. G. Quach, C. N. Duong, IntechOpen, 2019
+  type: 2
+  news2:
+  year: 2019
+  category: Computer Vision
+  subCategory: Image Understanding
+
+#2018
+
+- title: "Reformulating level sets as deep recurrent neural network approach to semantic segmentation"
+  image: Res_n_le_ieee18.png
+  description: 
+  authors:   N. Le, K. G. Quach, K. Luu, C. N. Duong, M. Savvides
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/8259369
+    display: N. Le, K. G. Quach, K. Luu, C. N. Duong, M. Savvides, IEEE, 2018
+  type: 2
+  news2:
+  year: 2018
+  category: Computer Vision
+  subCategory: Image Understanding
+
+- title: "Contextual Recurrent Level Set Networks and Recurrent Residual Networks for Semantic Labeling"
+  image: Res_n_le_cmu18.png
+  description: 
+  authors:   N. Le
+  link:
+    url: https://www.proquest.com/docview/2042942159?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses
+    display: N. Le, Carnegie Mellon University, 2018
+  type: 2
+  news2:
+  year: 2018
+  category: Computer Vision
+  subCategory: Image Understanding
+
+- title: "Deep Recurrent Level Set for Segmenting Brain Tumors"
+  image: Res_n_le_springer18.png
+  description: 
+  authors:   N. Le, R. Gummadi, M. Savvides
+  link:
+    url: https://link.springer.com/chapter/10.1007/978-3-030-00931-1_74
+    display: N. Le, R. Gummadi, M. Savvides, Springer, 2018
+  type: 1
+  news2:
+  year: 2018
+
+- title: "Automatic Face Aging in Videos via Deep Reinforcement Learning"
+  image: Res_c_n_duong_cvpr18.png
+  description: 
+  authors:   C.N. Duong, K. Luu, K.G. Quach, N. Nguyen, E. Patterson, T.D. Bui, N. Le
+  link:
+    url: https://openaccess.thecvf.com/content_CVPR_2019/html/Duong_Automatic_Face_Aging_in_Videos_via_Deep_Reinforcement_Learning_CVPR_2019_paper.html
+    display:  C.N. Duong, K. Luu, K.G. Quach, N. Nguyen, E. Patterson, T.D. Bui, N. Le, CVPR, 2018
+  type: 1
+  news2:
+  year: 2018
+  category: Computer Vision
+  subCategory: Biometrics
+
+# 2017
+
+- title: "Semi self-training beard/moustache detection and segmentation simultaneously"
+  image: Res_n_le_elsevier17.png
+  description: 
+  authors:   N. Le, K. Luu, C. Zhu, M. Savvides
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0262885616301500
+    display: N. Le, K. Luu, C. Zhu, M. Savvides, Elsevier, 2017
+  type: 2
+  news2:
+  year: 2017
+  category: Computer Vision
+  subCategory: Biometrics
+
+- title: "An automatic cells detection and segmentation"
+  image: Res_l_han_spie17.png
+  description: 
+  authors:   L. Han, N. Le, M. Savvides
+  link:
+    url: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10137/1/An-automatic-cells-detection-and-segmentation/10.1117/12.2254068.full
+    display: L. Han, N. Le, M. Savvides, SPIE, 2017
+  type: 1
+  news2:
+  year: 2017
+  category: Medical Analysis
+  subCategory: Robustness
+
+
+- title: "DeepSafeDrive: A grammar-aware driver parsing approach to Driver Behavioral Situational Awareness (DB-SAW)"
+  image: Res_n_le_pergamon17.png
+  description: 
+  authors:   N. Le, C. Zhu, Y. Zheng, K. Luu, M. Savvides
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0031320316303867
+    display: N. Le, C. Zhu, Y. Zheng, K. Luu, M. Savvides, Pergamon, 2017
+  type: 1
+  news2:
+  year: 2017
+  category: Computer Vision
+  subCategory: Image Understanding
+
+- title: "Robust Hand Detection and Classification in Vehicles and in the Wild."
+  image: Res_c_n_doung_ieee17.png
+  description: 
+  authors:   C. N. Duong, K. G. Quach, K. Luu, N. Le, M. Savvides
+  link:
+    url: https://openaccess.thecvf.com/content_iccv_2017/html/Duong_Temporal_Non-Volume_Preserving_ICCV_2017_paper.html
+    display: C. N. Duong, K. G. Quach, K. Luu, N. Le, M. Savvides, IEEE, 2017
+  type: 2
+  news2:
+  year: 2017
+  category: Computer Vision
+  subCategory: Image Understanding
+
+#2016
+
+- title: "Weakly supervised facial analysis with dense hyper-column features"
+  image: Res_c_zhu_ieee16.png
+  description: 
+  authors:   C. Zhu, Y. Zheng, K. Luu, N. Le, C. Bhagavatula, M Savvides
+  link:
+    url: https://www.cv-foundation.org/openaccess/content_cvpr_2016_workshops/w4/html/Zhu_Weakly_Supervised_Facial_CVPR_2016_paper.html
+    display: C. Zhu, Y. Zheng, K. Luu, N. Le, C. Bhagavatula, M Savvides, IEEE, 2016
+  type: 2
+  news2:
+  year: 2016
+  category: Computer Vision
+  subCategory: Biometrics
+
+- title: "Multiple scale faster-rcnn approach to driver's cell-phone usage and hands on steering wheel detection"
+  image: Res_n_le_iee16.png
+  description: 
+  authors:   N. Le, Y. Zheng, C. Zhu, K. Luu, M. Savvides
+  link:
+    url: https://www.cv-foundation.org/openaccess/content_cvpr_2016_workshops/w3/html/Le_Multiple_Scale_Faster-RCNN_CVPR_2016_paper.html
+    display: N. Le, Y. Zheng, C. Zhu, K. Luu, M. Savvides, IEEE, 2016
+  type: 1
+  news2:
+  year: 2016
+  category: Computer Vision
+  subCategory: Image Understanding
+
+- title: "A novel shape constrained feature-based active contour model for lips/mouth segmentation in the wild"
+  image: Res_n_le_pergamon16.png
+  description: 
+  authors:   N. Le, M. Savvides
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S003132031500429X
+    display: N. Le, M. Savvides, Pergamon, 2016
+  type: 1
+  news2:
+  year: 2016
+  category: Computer Vision
+  subCategory: Biometrics
+
+- title: "Robust hand detection in vehicles"
+  image: Res_n_le_ieee16.png
+  description: 
+  authors:  N. Le, C. Zhu, Y. Zheng, K. Luu, M. Savvides
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/7899695
+    display: N. Le, C. Zhu, Y. Zheng, K. Luu, M. Savvides, IEEE, 2016
+  type: 1
+  news2:
+  year: 2016
+  category: Computer Vision
+  subCategory: Image Understanding
+
+- title: "Towards a deep learning framework for unconstrained face detection"
+  image: Res_y_zheng_ieee16.png
+  description: 
+  authors:  Y. Zheng, C. Zhu, K. Luu, C. Bhagavatula, N. Le, M. Savvides
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/7791203
+    display: Y. Zheng, C. Zhu, K. Luu, C. Bhagavatula, N. Le, M. Savvides, IEEE, 2016
+  type: 1
+  news2:
+  year: 2016
+  category: Computer Vision
+  subCategory: Biometrics
+
+# Patents
+
+- title: "Chicken Processing Plant With Automated Computer Vision"
+  image:
+  description: 
+  authors: Ngan T.H. Le, Michael Kidd
+  link:
+    url:
+    display:  Ngan T.H. Le, Michael Kidd, P2757US00, UADA 2021-020 (UAF 2021-032)
+  type: 3
+  news2:
+  
+- title: "Artificial Intelligence And Vision-Based Broiler Body Weight Measurement System And Process"
+  image:
+  description: 
+  authors: Ngan T.H. Le, Michael Kidd
+  link:
+    url:
+    display:  Ngan T.H. Le, Michael Kidd, P2736US00, UADA 2021-009 (UAF 2021-017)
+  type: 3
+  news2:
+
+- title: "Robust Gait Learning"
+  image: go1_isaac_gym.gif
+  description: 
+  authors: 
+  link:
+    url: null
+    display: "While quadrupeds can open the operational domains of robots thanks to their dynamic locomotion capabilities, conventional controllers for legged locomotion constraint their applications to relatively simple environments that can be taken over by wheeled robots. Here we use reinforcement learning to train a quadruped to walk on various terrains. In the simulation, a quadruped robot (Unitree Go1) learns to walk across challenging terrain, including uneven surfaces, slopes, stairs, and obstacles, while following linear- and angular- velocity commands."
+  type: 4
+  year: 2024
+  category: Robotics
+  subCategory: Locomotion
+
+
+- title: "Chick Sexing on Face Part <br> <br> AI Processing Plant"
+  image: chick_sexing.png
+  description: 
+  authors: 
+  link:
+    url: null
+    display: " Artificial Intelligence And Vision-Based Broiler Body Weight Measurement System And Process <br> <br> - Chicken Processing Plant With Automated Computer Vision"
+  type: 4
+  year: 2024
+  category: Computer Vision
+  subCategory: Agriculture

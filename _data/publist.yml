@@ -8,7 +8,6 @@
     display: WACV, 2024
   year: 2024
   category: Medical Analysis
-  subCategory: Review
 
 
 
@@ -62,7 +61,7 @@
   news2:
   year: 2024
   category: Computer Vision
-  subCategory: Remote Sensing
+  subCategory: Video Understanding
 
 - title: "ZEETAD: Adapting Pretrained Vision-Language Model for Zero-Shot End-to-End Temporal Action Detection"
   image: thinh_phan_wacv24.png
@@ -225,7 +224,7 @@
   description: 
   authors: T.-D Truong, N. Le, B. Raj, J. Cothren, K. Luu
   link:
-    url: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8ck0k_UAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=8ck0k_UAAAAJ:eO3_k5sD8BwC
+    url: https://openaccess.thecvf.com/content/CVPR2023/html/Truong_FREDOM_Fairness_Domain_Adaptation_Approach_to_Semantic_Scene_Understanding_CVPR_2023_paper.html
     display:  T.-D Truong, N. Le, B. Raj, J. Cothren, K. Luu, IEEE/CVF, 2023
   type: 1
   news2:
@@ -424,7 +423,7 @@
   link:
     url: https://www.mdpi.com/2076-3425/12/7/863/
     display:  K. Yamazaki, K. Vo-Ho, D. Bulsara, N. Le, Brain Sciences, 2022
-  type: 2
+  type: 2categor
   news2:
   year: 2022
   category: Medical Analysis
@@ -571,7 +570,7 @@
   news2:
   year: 2021
   category: Computer Vision
-  subCategory: Action Understanding
+  subCategory: Video Understanding
 
 - title: "Deep reinforcement learning in medical imaging: A literature review"
   image: s_k_zhou_mia22.png
@@ -597,7 +596,6 @@
   news2:
   year: 2021
   category: Medical Analysis
-  subCategory: Review
 
 - title: "The Right to Talk: An Audio-Visual Transformer Approach"
   image: t.-d_truong_iccv21.png
@@ -623,7 +621,7 @@
   news2:
   year: 2021
   category: Computer Vision
-  subCategory: Action Understanding
+  subCategory: Video Understanding
 
 - title: "BiMaL: Bijective Maximum Likelihood Approach to Domain Adaptation in Semantic Scene Segmentation"
   image: t.-d_truong_iccv21-2.png
@@ -673,7 +671,7 @@
   news2:
   year: 2021
   category: Computer Vision
-  subCategory: Action Understanding
+  subCategory: Video Understanding
 
 - title: "Pairflow: Enhancing portable chest x-ray by flow-based deformation for covid-19 diagnosing"
   image: n._le_icip21.png
@@ -770,7 +768,7 @@
   description: 
   authors:  James B. Holliday, N Le
   link:
-    url: https://d1wqtxts1xzle7.cloudfront.net/63952589/csit10090920200718-25654-gym0t5-libre.pdf?1595062441=&response-content-disposition=inline%3B+filename%3DFOLLOW_THEN_FORAGE_EXPLORATION_IMPROVING.pdf&Expires=1712250470&Signature=AnKYdDSjLesXZsj0zTIjsCSpiIuiChv1HOsHWhn8GuaqHlYmO8Te6h2gPsWhDlD2gqIcLyo7bLHA2HVGxyuAnXJEVCGTEH52V4Xw7Wk4L3676-jSjlS4F-4DcYRt4y4x7jFCHQqmaiBQip2zy7lvG~YPSxLsaqynYXNSPr6~EMRNXCUiLD2lKY0pMFR6fU~vj-QWopCvWTjvXVRtZoIJuVSqa255ffzdsYBCRBu49qLOvLfavjgoekjGlr9Mk6ZY20VH~GGjovTiFGrlgYmJkAv28uUg7-XK3J8Dr71zYVCZGFa4otF4~MJTDcNlwnU6yzFSv-b5MivAiacxy~arOw__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA
+    url: https://d1wqtxts1xzle7.cloudfront.net/63952589/csit10090920200718-25654-gym0t5-libre.pdf?1595062441=&response-content-disposition=inline%3B+filename%3DFOLLOW_THEN_FORAGE_EXPLORATION_IMPROVING.pdf&Expires=1715110968&Signature=cqWITcWENQ1-2qQujh9QCeNiIh8yYMzmjLlQiqd91~p8KZLsouAcWBehVutjFpOx9q4AhPrlKfNBPUMPvinUP5fg3Ni30BLjEbXnMnDQbPk~dH6540pe4iSiAoqeq1jXeUF1J75LR0S1J2XsS7R7naUahKN2Q2eoIi-eUuJO8jidD-Ks04VRahHeDRIYPm7nWHzx~ZOszBlIBKtiUVp0RF5UpC2XimX07vL24CvrGVfTNCYRz7JIMg0N2QhG~Y40YjG75WTLyKvUMOQz3njxlaFdpw2m-CqHVg~~f~pb9~~~mTY2dF~Ol1NHU6nh284lLFdxAIIyQc-4oFJeVouOPQ__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA
     display:   James B. Holliday, N Le, CSIT, 2020
   type: 1
   news2:
@@ -796,7 +794,7 @@
   description: 
   authors:  C. N. Duong, K. G. Quach, K. Luu, T Le, M. Savvides, T. D. Bui
   link:
-    url: https://link.springer.com/chapter/10.1007/978-3-030-59713-9_70
+    url: https://arxiv.org/abs/1711.10520
     display:  C. N. Duong, K. G. Quach, K. Luu, T Le, M. Savvides, T. D. Bui, Springer, 2019
   type: 1
   news2:
