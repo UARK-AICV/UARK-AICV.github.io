@@ -7,7 +7,7 @@ permalink: /research/
 ---
 
 {% assign categories = "Robotics,Computer Vision,Medical Analysis" |split: ','  %}
-{% assign data = site.data.publist %}
+{% assign data = site.data.research %}
 
 
 {% for category in categories  %}
@@ -22,7 +22,7 @@ permalink: /research/
 {% endif %}
 
 {% if category == categories[1]%}
-{% assign subCategories = "Image Understanding,Video Understanding, Biometrics,Action Understanding,Generative Model,Applications" | split: ',' %}
+{% assign subCategories = "Image Understanding,Video Understanding,Biometrics,Generative Model,Applications" | split: ',' %}
 {% assign appSubCategories = "Agriculture,Remote Sensing,3D Reconstruction" | split: ',' %}
 
 <div>
@@ -32,7 +32,7 @@ permalink: /research/
 {% endif %}
 
 {% if category == categories[2]%}
-{% assign subCategories = "Trustworthiness,Robustness,Scalability,Less Label,Other,Review" | split: ',' %}
+{% assign subCategories = "Trustworthiness,Robustness,Scalability" | split: ',' %}
 
 
 
