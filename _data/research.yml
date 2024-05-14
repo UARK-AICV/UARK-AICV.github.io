@@ -6,7 +6,7 @@
   authors: K. H. Tran, A. D. Le Dinh, T. P. Nguyen, T. Phan, P. Nguyen, K. Luu, D. Adjeroh, G. Doretto, N. Le
   link:
     url: https://fsoft-aic.github.io/Z-GMOT/
-    display: K. H. Tran, A. D. Le Dinh, T. P. Nguyen, T. Phan, P. Nguyen, K. Luu, D. Adjeroh, G. Doretto, N. Le, , 2024
+    display: K. H. Tran, A. D. Le Dinh, T. P. Nguyen, T. Phan, P. Nguyen, K. Luu, D. Adjeroh, G. Doretto, N. Le, Accepted to NAACL findings 2024 , 2024
   type: 1
   news2:
   year: 2024
@@ -223,19 +223,6 @@
   category: Computer Vision
   subCategory: Video Understanding
 
-- title: "Z-GMOT: Zero-shot Generic Multiple Object Tracking"
-  image: Res_kim_hoang_tran_arXiv23.png
-  description: 
-  authors: K. H. Tran, T.-P. Nguyen, A. D. Le Dinh, P. Nguyen, T. Phan, K. Luu, D. Adjeroh, N. Le
-  link:
-    url: https://arxiv.org/abs/2305.17648
-    display:  K. H. Tran, T.-P. Nguyen, A. D. Le Dinh, P. Nguyen, T. Phan, K. Luu, D. Adjeroh, N. Le, arXiv, 2023
-  type: 2
-  news2:
-  year: 2023
-  category: Computer Vision
-  subCategory: Video Understanding
-
 - title: "DNA: Deformable Neural Articulations Network for Template-Free Dynamic 3D Human Reconstruction From Monocular RGB-D Video"
   image: Res_khoa_vo_ieee_cvf23.png
   description: 
@@ -314,7 +301,7 @@
   news2:
   year: 2022
   category: Medical Analysis
-  subCategory: Scalability
+  subCategory: Robustness
 
 - title: "Non-volume preserving-based fusion to group-level emotion recognition on crowd videos"
   image: Res_k_g_quach_pergamon22.png
@@ -353,7 +340,7 @@
   news2:
   year: 2022
   category: Computer Vision
-  subCategory: Image Understanding
+  subCategory: Poultry Science
 
 - title: "OTAdapt: Optimal Transport-based Approach For Unsupervised Domain Adaptation"
   image: Res_t-d_troung_icpr22.png
@@ -495,7 +482,7 @@
   news2:
   year: 2022
   category: Computer Vision
-  subCategory: Image Understanding
+  subCategory: Review
 
   
 # 2021
@@ -550,7 +537,7 @@
   news2:
   year: 2021
   category: Computer Vision
-  subCategory: Image Understanding
+  subCategory: Review
 
 - title: "Enhance portable radiograph for fast and high accurate covid-19 monitoring"
   image: Res_n_le_mdpi21.png
@@ -587,8 +574,8 @@
   type: 2
   news2:
   year: 2021
-  category: Computer Vision
-  subCategory: Video Understanding
+  category: Medical Analysis
+  subCategory: Scalability
 
 - title: "BiMaL: Bijective Maximum Likelihood Approach to Domain Adaptation in Semantic Scene Segmentation"
   image: Res_t.-d_truong_iccv21-2.png
@@ -625,7 +612,7 @@
   news2:
   year: 2021
   category: Computer Vision
-  subCategory: Generative Model
+  subCategory: Video Understanding
 
 - title: "Multi-module Recurrent Convolutional Neural Network with Transformer Encoder for ECG Arrhythmia Classification"
   image: Res_m._d._le_ieee21.png
@@ -637,8 +624,8 @@
   type: 1
   news2:
   year: 2021
-  category: Computer Vision
-  subCategory: Video Understanding
+  category: Medical Analysis
+  subCategory: Trustworthiness
 
 - title: "Pairflow: Enhancing portable chest x-ray by flow-based deformation for covid-19 diagnosing"
   image: Res_n._le_icip21.png
@@ -907,7 +894,7 @@
   description: 
   authors:   C. N. Duong, K. G. Quach, K. Luu, N. Le, M. Savvides
   link:
-    url: https://openaccess.thecvf.com/content_iccv_2017/html/Duong_Temporal_Non-Volume_Preserving_ICCV_2017_paper.html
+    url: https://openaccess.thecvf.com/content_cvpr_2017_workshops/w13/html/Le_Robust_Hand_Detection_CVPR_2017_paper.html
     display: C. N. Duong, K. G. Quach, K. Luu, N. Le, M. Savvides, IEEE, 2017
   type: 2
   news2:
@@ -1027,4 +1014,4 @@
   type: 4
   year: 2024
   category: Computer Vision
-  subCategory: Agriculture
+  subCategory: Poultry Science

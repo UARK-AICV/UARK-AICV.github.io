@@ -22,8 +22,8 @@ permalink: /research/
 {% endif %}
 
 {% if category == categories[1]%}
-{% assign subCategories = "Image Understanding,Video Understanding,Biometrics,Generative Model,Applications" | split: ',' %}
-{% assign appSubCategories = "Agriculture,Remote Sensing,3D Reconstruction" | split: ',' %}
+{% assign subCategories = "Image Understanding,Video Understanding,Biometrics,Review,Applications" | split: ',' %}
+{% assign appSubCategories = "Remote Sensing,3D Reconstruction,Poultry Science" | split: ',' %}
 
 <div>
 {% include collapsible_panel.html subCat=subCategories categories=category resData=data appSubCat=appSubCategories%}
@@ -43,6 +43,5 @@ permalink: /research/
 {% endif %}
 
 {% endfor %}
-
 
 
