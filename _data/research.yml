@@ -1,7 +1,7 @@
 # 2024
 
 - title: "Z-GMOT with MA-SORT: Zero-shot Generic Multiple Object Tracking (GMOT) with Motion Appearance SORT (MA-SORT)"
-  image: Res_k._tran_z_mot2024.png
+  image: Res_k._tran_z_mot2024.gif
   description: 
   authors: K. H. Tran, A. D. Le Dinh, T. P. Nguyen, T. Phan, P. Nguyen, K. Luu, D. Adjeroh, G. Doretto, N. Le
   link:
@@ -78,6 +78,19 @@
   category: Computer Vision
   subCategory: Remote Sensing
 
+- title: "S3Former: Agriculture Satellite Understanding"
+  image: Res_taisei_s3Former.png
+  description: 
+  authors: 
+  link:
+    url: 
+    display: Taisei Hanyu, Ngan T.H. Le
+  type: 1
+  news2:
+  year: 2024
+  category: Computer Vision
+  subCategory: Remote Sensing
+
 - title: "Language-Conditioned Affordance-Pose Detection in 3D Point Clouds"
   image: Res_toan_nguyen_icra24.png
   description: 
@@ -123,7 +136,7 @@
   authors: N.-T Bui*, D.-H Hoang*, T. Phan, M.-T Tran, B. Patel, D. Adjeroh, N. Le
   link:
     url: https://arxiv.org/abs/2312.10187
-    display: N.-T Bui*, D.-H Hoang*, T. Phan, M.-T Tran, B. Patel, D. Adjeroh, N. Le, ISBI, 2024
+    display: N.-T Bui*, D.-H Hoang*, T. Phan, M.-T Tran, B. Patel, D. Adjeroh, N. Le, ISTaisei HanyuBI, 2024
   type: 1
   news2:
   year: 2024
@@ -143,7 +156,7 @@
   category: Medical Analysis
   subCategory: Scalability
 
-# 2023
+# 2023Taisei Hanyu
 
 - title: Chapter 19 - Neural architecture search for medical image applications
   image: Res_v-k_vo-ho_ap23.png
@@ -1015,3 +1028,18 @@
   year: 2024
   category: Computer Vision
   subCategory: Poultry Science
+
+
+- title: "Multi-Camera Multiple Chicken Monitoring"
+  image: multi_camera_chicken.gif
+  description: 
+  authors: 
+  link:
+    url: null
+    display: "Thin Phan, Ngan T.H. Le"
+  type: 4
+  year: 2024
+  category: Computer Vision
+  subCategory: Poultry Science
+
+  
