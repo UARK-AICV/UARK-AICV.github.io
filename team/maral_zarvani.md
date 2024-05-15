@@ -17,5 +17,5 @@ I am currently pursuing a Ph.D. in Computer Science at the University of Arkansa
 
 ### Education
 - Ph.D. in Computer Engineering, University of Arkansas (current)
-- B.Sc. in Computer Engineering – Hardware, University of Tabriz (2014-2017)
 - M.Sc. in Computer Engineering - Artificial Intelligence, Alzahra University (2018-2021)
+- B.Sc. in Computer Engineering – Hardware, University of Tabriz (2014-2017)
