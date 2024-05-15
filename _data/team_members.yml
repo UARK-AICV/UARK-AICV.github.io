@@ -33,6 +33,11 @@
   name: Chiyou Vang
   photo: chiyou_vang.png
   url: chiyou_vang
+- group: 1
+  info: Since 2024
+  name: Maral Zarvani
+  photo: Maral_Zarvani.jpg
+  url: maral_zarvani
 - group: 2
   info: Since 2023
   name: Marta Veganzones
@@ -133,3 +138,8 @@
   name: Yuki Ikebe
   photo: yuki_ikebe.png
   url: yuki_ikebe
+- group: 2
+  info: Ph.D. Student
+  name: Maral Zarvani
+  photo: maral_zarvani.png
+  url: maral_zarvani
