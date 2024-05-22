@@ -19,21 +19,36 @@ Then you can visit the site at `http://localhost:4000`
 
 Follow:
 ```yaml
-- title: "Constructing and optimizing 3D atlases from 2D data with application to the developing mouse brain"
-  image: Young2021.png
+- title: "Z-GMOT with MA-SORT: Zero-shot Generic Multiple Object Tracking (GMOT) with Motion Appearance SORT (MA-SORT)"
+  image: k._tran_z_mot2024.png
   description: 
-  authors: 
+  authors: K. H. Tran, A. D. Le Dinh, T. P. Nguyen, T. Phan, P. Nguyen, K. Luu, D. Adjeroh, G. Doretto, N. Le
   link:
-    url: https://elifesciences.org/articles/61408
-    display:  Young et al. eLife (2021)
+    url: https://fsoft-aic.github.io/Z-GMOT/
+    display: K. H. Tran, A. D. Le Dinh, T. P. Nguyen, T. Phan, P. Nguyen, K. Luu, D. Adjeroh, G. Doretto, N. Le, , 2024
   type: 1
-  news2: 
+  news2:
+  year: 2024
 ```
 
 The corresponding type is:
 - `1`: Conference Papers
 - `2`: Journal Papers
 - `3`: Patents
+
+### Add Research
+1. modify `data/research.yml`
+1. add picture to `images/respic/`
+
+Follow:
+```yaml
+- title: "Robust Hand Detection and Classification in Vehicles and in the Wild."
+  image: Res_c_n_doung_ieee17.png
+  url: https://openaccess.thecvf.com/content_cvpr_2017_workshops/w13/html/Le_Robust_Hand_Detection_CVPR_2017_paper.html
+  description: C. N. Duong, K. G. Quach, K. Luu, N. Le, M. Savvides, IEEE, 2017
+  category: Computer Vision
+  subCategory: Image Understanding
+```
 
 ### Add news
 1. modify `data/news.yml`

@@ -49,8 +49,8 @@
                                                 </div>
                                                 <div class="col-sm-6 clearfix">
                                                     <h4>
-                                                        {% if resData.link.url %}
-                                                        <a href="{{resData.link.url}}" style="color: inherit">
+                                                        {% if resData.url %}
+                                                        <a href="{{resData.url}}" style="color: inherit">
                                                             {{resData.title}}
                                                         </a>
                                                         {% else %}
@@ -58,7 +58,7 @@
                                                         {% endif %}
                                                     </h4>
                                                     <h5>
-                                                        -{{resData.link.display}}
+                                                        -{{resData.description}}
                                                     </h5>
                                                 </div>
                                             </div>
@@ -85,8 +85,8 @@
                                     </div>
                                     <div class="col-sm-6 clearfix">
                                         <h4>
-                                            {% if resData.link.url %}
-                                            <a href="{{resData.link.url}}" style="color: inherit">
+                                            {% if resData.url %}
+                                            <a href="{{resData.url}}" style="color: inherit">
                                                 {{resData.title}}
                                             </a>
                                             {% else %}
@@ -94,7 +94,7 @@
                                             {% endif %}
                                         </h4>
                                         <h5>
-                                            -{{resData.link.display}}
+                                            -{{resData.description}}
                                         </h5>
                                     </div>
                                 </div>
