@@ -520,10 +520,12 @@
 # Patents
 
 - title: "Chicken Processing Plant With Automated Computer Vision"
-  image:
+  image: Res_smartProcessing.gif
   url:
   description:  Ngan T.H. Le, Michael Kidd, P2757US00, UADA 2021-020 (UAF 2021-032)
-  
+  category: Computer Vision
+  subCategory: Poultry Science
+
 - title: "Artificial Intelligence And Vision-Based Broiler Body Weight Measurement System And Process"
   image:
   url:
@@ -537,13 +539,19 @@
   subCategory: Locomotion
 
 
-- title: "Chick Sexing on Face Part <br> <br> AI Processing Plant"
+- title: "Chick Sexing on Face Part"
   image: chick_sexing.png
   url: null
-  description: " Artificial Intelligence And Vision-Based Broiler Body Weight Measurement System And Process <br> <br> - Chicken Processing Plant With Automated Computer Vision"
+  description: " Artificial Intelligence And Vision-Based Broiler Body Weight Measurement System And Process"
   category: Computer Vision
   subCategory: Poultry Science
 
+- title: "Chick Gait Identification"
+  image: Res_chickenGait.gif
+  url: null
+  description: "Minh Tran, Ngan T.H. Le "
+  category: Computer Vision
+  subCategory: Poultry Science
 
 - title: "Multi-Camera Multiple Chicken Monitoring"
   image: multi_camera_chicken.gif
