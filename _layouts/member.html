@@ -7,15 +7,18 @@ layout: default
 <div class="row">
 	<div class="col-sm-12">
 
-			<img class="pull-left pad-right content-photo" width=160 src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}">
+		<img class="pull-left pad-right content-photo" width=160
+			src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}">
 
 
-				<div class="bigtitle">
-					{{ member.title }}
-				</div>
-				<p><div class="smallhead">
-					{{ member.position }}
-				</div></p>
+		<div class="bigtitle">
+			{{ member.title }}
+		</div>
+		<p>
+		<div class="smallhead">
+			{{ member.position }}
+		</div>
+		</p>
 	</div>
 </div>
 
@@ -93,6 +96,18 @@ layout: default
 			<div class="smallspacer"></div>
 			<i class="fa fa-inbox fa-fw"></i>
 			{{ emailarray.first }}<span style="display:none">obfuscate</span>@{{ emailarray.last }}
+		</div>
+		<div class="bigspacer"></div>
+		{% endif %}
+
+		{% if member.resume %}
+		<div class="smallhead">
+			Curriculum vitae
+		</div>
+		<div class="pad-left note">
+			<div class="smallspacer"></div>
+			<i class="fa fa-download fa-fw"></i>
+			<a class="off" href="{{ member.resume }}" download="{{ member.resume }}"> Download </a>
 		</div>
 		<div class="bigspacer"></div>
 		{% endif %}
