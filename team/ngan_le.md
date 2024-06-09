@@ -9,6 +9,7 @@ github:
 scholar: 8ck0k_UAAAAJ
 photo: ngan_le.jpg
 web: https://www.nganle.net/
+resume: ../cv/NganLe-CV.pdf
 ---
 
 ### Overview
