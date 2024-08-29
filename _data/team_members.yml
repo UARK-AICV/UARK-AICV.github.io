@@ -29,11 +29,6 @@
   photo: thang_pham.png
   url: thang_pham
 - group: 1
-  info: Since 2023
-  name: Chiyou Vang
-  photo: chiyou_vang.png
-  url: chiyou_vang
-- group: 1
   info: Since 2024
   name: Maral Zarvani
   photo: Maral_Zarvani.jpg
@@ -73,6 +68,11 @@
   name: Esteban Duran Marti
   photo: esteban_duran.jpeg
   url: esteban_duran
+- group: 2
+  info: Since 2023
+  name: Chiyou Vang
+  photo: chiyou_vang.png
+  url: chiyou_vang
 - group: 3
   info: Since 2021
   name: Anh Tran
