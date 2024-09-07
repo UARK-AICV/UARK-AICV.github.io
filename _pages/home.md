@@ -23,7 +23,7 @@ The AICV Lab aims to advance research in **computer vision**, **robotics**, and 
 * Dec 15, 2022: [NSF Grant Administered by I³R to Empower Small Farmers](https://news.uark.edu/articles/62959/nsf-grant-administered-by-i-r-to-empower-small-farmers)
 * Jul 02, 2021: [College of Engineering Offers Applied Machine Learning Intensive for Summer](https://news.uark.edu/articles/57146/college-of-engineering-offers-applied-machine-learning-intensive-for-summer)
 
-## Joining Our Lab
+## Prospective Students
 
 If you are interested in joining, please see the *[recruitment](recruitment)* page.
 
