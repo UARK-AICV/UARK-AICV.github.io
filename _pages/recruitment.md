@@ -12,7 +12,7 @@ We always actively seek talented and self-motivated students. We have several op
 
 **1. Geospatial and remote sensing:** <br/> Focus on developing innovative deep learning-based computer vision algorithms for analyzing geospatial data from satellite and aerial imagery from UAV to address environmental and agricultural challenges.
 
-**2. Biomedical and healthcare:** <br/> Engage in interdisciplinary research applying machine learning and data analytics to improve medical imaging and healthcare systems.
+**2. Biomedical and healthcare:** <br/> Engage in interdisciplinary research applying machine learning and computer vision methodologies to improve medical imaging and healthcare systems.
 
 **3. Machine learning, data science, statistics:**
 
