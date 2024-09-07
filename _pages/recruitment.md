@@ -18,7 +18,7 @@ We always actively seek talented and self-motivated students. We have several op
 
 # Application
 
-To apply for this position, please submit the following application materials to Dr. Le (thile@uark.edu).
+To apply for this position, please submit the following application materials to Dr. Ngan Le (thile@uark.edu).
 
 - CV/Resume, highlighting your academic and research experience.
 - A list of your publications (if applicable).
