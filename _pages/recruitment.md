@@ -14,7 +14,7 @@ We always actively seek talented and self-motivated students. We have several op
 
 **2. Biomedical and healthcare:** <br/> Engage in interdisciplinary research applying machine learning and computer vision methodologies to improve medical imaging and healthcare systems.
 
-**3. Machine learning, Data science, :** <br/> Develop regression models to analyze tabular data of nutrition vs. weight development focusing on weight development and its link to nutritional data.
+**3. Machine learning, Data science:** <br/> Develop regression models to analyze tabular data of nutrition vs. weight development focusing on weight development and its link to nutritional data.
 
 # Application
 
