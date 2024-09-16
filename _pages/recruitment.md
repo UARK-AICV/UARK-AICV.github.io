@@ -8,7 +8,7 @@ permalink: /recruitment/
 
 # Open Positions
 
-We always actively seek talented and self-motivated students. We have several opening projects for PhD students:
+We always actively seek talented and self-motivated students. We have several opening projects for PhD students (fully funded research assistant):
 
 **1. Geospatial and remote sensing** <br/> Focus on developing innovative deep learning-based computer vision algorithms for geospatial and remote sensing data analysis including satellite imagery (Sentinel-2, Planet) and UAV data, with the aim of addressing critical environmental and agricultural challenges.
 
