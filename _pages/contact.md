@@ -23,7 +23,7 @@ Our main AICV Lab is located in J.B. Hunt building (**Room 447**):
 </div>
 
 ## Robotic Lab
-We are establishing Robotic Lab focuses on robotic control projects, which is located in Bell Engineering Center (**Room 4128c**):
+We are establishing Robotic Lab focuses on robotic control projects, which is located in Bell Engineering Center (**Room 4134C**):
 
 <div style="position:relative;text-align:right;height:500px;width:100%;">
   <iframe width="100%" height="500" 
