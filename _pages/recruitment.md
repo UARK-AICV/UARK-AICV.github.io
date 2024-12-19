@@ -6,8 +6,6 @@ sitemap: false
 permalink: /recruitment/
 ---
 
-# Job Opportunities in Computer Vision, Remote Sensing, and Robotics
-
 We are excited to announce open positions for passionate students in the following cutting-edge areas:
 
 ## 1. Computer Vision: Multi-Object Tracking (2 Positions)
