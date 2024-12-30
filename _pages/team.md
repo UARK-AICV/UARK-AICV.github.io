@@ -146,7 +146,7 @@ permalink: /team/
 
 ---
 
-## Undergraduate Students
+## Honor Undergraduate Students
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
