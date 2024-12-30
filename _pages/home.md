@@ -18,7 +18,9 @@ The AICV Lab aims to advance research in **computer vision**, **robotics**, and 
 
 ## News
 
-* May 3, 2024: Dr. Le has been elected for Dean's Award of Excellence Rising Star Research Award!!
+* Dec 12, 2024: Congrats to Winston, Johnmark, Taisei, Malachi, Bryan for the Honors College Research Award. Congrats to Ethan and Anh for the SURF Award. Very well done !
+* Nov 14, 2024: Congratulation Dr, Khoa Vo for successfully defending his PhD dissertation !
+* May 3, 2024: Dr. Le has been elected for Dean's Award of Excellence Rising Star Research Award !
 * Feb 9, 2024: [Researchers Receive $5 Million Award to Develop AI Platform to Strengthen Regional Food Systems](https://news.uark.edu/articles/69452/researchers-receive-5-million-award-to-develop-ai-platform-to-strengthen-regional-food-systems)
 * Dec 15, 2022: [NSF Grant Administered by I³R to Empower Small Farmers](https://news.uark.edu/articles/62959/nsf-grant-administered-by-i-r-to-empower-small-farmers)
 * Jul 02, 2021: [College of Engineering Offers Applied Machine Learning Intensive for Summer](https://news.uark.edu/articles/57146/college-of-engineering-offers-applied-machine-learning-intensive-for-summer)
