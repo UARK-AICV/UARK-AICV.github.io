@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Khoa Vo
-position: PhD Student
+position: Postdoctoral Fellow
 handle: khoa_vo
 email: khoavoho@uark.edu
 twitter: 
@@ -18,5 +18,6 @@ Khoa Vo is a PhD candidate at AICV Lab. His research interests lie at the juncti
 He is also developing his first researching step in 3D vision, in which he specifically works on 3D object reconstructions and tracking.  
 
 ### Education
-- BSc, Honors Program at Faculty of Information Technology, Ho Chi Minh University of Science, VNU-HCM (2018)
+- PhD, Computer Science, University of Arkansas, Fayetteville (2024)
 - MSc, Computer Science, Ho Chi Minh University of Science, VNU-HCM (2021)
+- BSc, Honors Program at Faculty of Information Technology, Ho Chi Minh University of Science, VNU-HCM (2018)
