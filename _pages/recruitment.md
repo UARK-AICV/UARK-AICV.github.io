@@ -43,7 +43,7 @@ We are excited to announce open positions (fully funded PhD students) for passio
 ---
 
 ## How to Apply
-Please submit the following documents to **[email address]**:
+Please submit the following documents to **thile@uark.edu**:
 1. A detailed resume/CV.
 2. Transcript(s) for your bachelor’s degree (and master’s, if applicable).
 3. A cover letter specifying the position(s) of interest.
