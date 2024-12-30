@@ -38,6 +38,11 @@
   name: Duy Le
   photo: duy_le.jpeg
   url: duy_le
+- group: 1
+  info: Since 2024
+  name: An Le
+  photo: an_le.png
+  url: an_le
 - group: 2
   info: Since 2024
   name: Kim Tran Hoang
@@ -68,6 +73,16 @@
   name: Chiyou Vang
   photo: chiyou_vang.png
   url: chiyou_vang
+- group: 2
+  info: Since 2024
+  name: Ved Mani Shukla
+  photo: no_pic.png
+  url: ved_shukla
+- group: 2
+  info: Since 2024
+  name: Phillip Cannon
+  photo: phillip_cannon.png
+  url: phillip_cannon
 - group: 3
   info: Since 2021
   name: Anh Tran
