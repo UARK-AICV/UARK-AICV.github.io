@@ -29,7 +29,7 @@ The AICV Lab aims to advance research in **computer vision**, **robotics**, and 
 
 If you are interested in joining, please see the *[recruitment](recruitment)* page.
 
-<p style="color:red;">We have open positions for PhD students (Research Assistant) starting in Spring 2025!</p>
+<p style="color:red;">We have open positions for PhD students (Research Assistant) starting in Summer 2025!</p>
 
 ## Funding
 We are grateful for funding from our sponsors:
