@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Chiyou Vang
-position: Ph.D. Student
+position: Masters Student
 handle: chiyou_vang
 email: cv009@uark.edu
 twitter:

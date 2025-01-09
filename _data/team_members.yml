@@ -3,8 +3,8 @@
   name: Ngan Le
   photo: ngan_le.jpg
   url: ngan_le
-- group: 7
-  info: Since 2023
+- group: 8
+  info: MSc (graduated 2023) - CMU
   name: Kashu Yamazaki
   photo: kashu_yamazaki.jpg
   url: kashu_yamazaki
@@ -28,11 +28,6 @@
   name: Trong Thang Pham
   photo: thang_pham.png
   url: thang_pham
-- group: 1
-  info: Since 2023
-  name: Chiyou Vang
-  photo: chiyou_vang.png
-  url: chiyou_vang
 - group: 1
   info: Since 2024
   name: Maral Zarvani
@@ -60,11 +55,6 @@
   url: vvuonghn
 - group: 2
   info: Since 2023
-  name: Tan Bui
-  photo: tan_bui.png
-  url: tan_bui
-- group: 2
-  info: Since 2023
   name: Farid Hashemian
   photo: farid_hashemian.png
   url: farid_hashemian
@@ -73,6 +63,11 @@
   name: Esteban Duran Marti
   photo: esteban_duran.jpeg
   url: esteban_duran
+- group: 2
+  info: Since 2023
+  name: Chiyou Vang
+  photo: chiyou_vang.png
+  url: chiyou_vang
 - group: 3
   info: Since 2021
   name: Anh Tran
@@ -148,3 +143,13 @@
   name: Yuki Ikebe
   photo: yuki_ikebe.png
   url: yuki_ikebe
+- group: 3
+  info: Since 2024
+  name: Johnmark Clements
+  photo: johnmark_clements.jpg
+  url: johnmark_clements
+- group: 3
+  info: Since 2024
+  name: Malachi Massey
+  photo: malachi_massey.jpg
+  url: malachi_massey
