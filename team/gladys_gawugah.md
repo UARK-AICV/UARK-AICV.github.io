@@ -1,3 +1,4 @@
+---
 layout: member
 title: Gladys Gawugah
 position: Master's Student
