@@ -8,7 +8,7 @@ twitter:
 github: Gawugah
 scholar: 
 linkedin: 
-photo: gladys_gawugah.jpeg
+photo: gladys_gawugah.jpg
 ---
 
 ### Overview
