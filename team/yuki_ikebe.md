@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Yuki Ikebe
-position: Undergraduate Student
+position: Master's Student
 handle: yuki_ikebe
 email: yikebe@uark.edu
 twitter:
