@@ -148,8 +148,8 @@
   name: Kala Rohit
   photo: kala_rohit.png
   url: kala_rohit
-- group: 3
-  info: Undergraduate Student
+- group: 2
+  info: Since 2024
   name: Yuki Ikebe
   photo: yuki_ikebe.png
   url: yuki_ikebe
@@ -168,3 +168,8 @@
   name: Bryan Williams
   photo: bryan_williams.png
   url: bryan_williams
+- group: 2
+  info: Since 2024
+  name: Gladys Gawugah
+  photo: gladys_gawugah.jpg
+  url: galdys_gawugah
