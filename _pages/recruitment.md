@@ -6,9 +6,9 @@ sitemap: false
 permalink: /recruitment/
 ---
 
-We are excited to announce open positions (fully funded PhD students) for passionate students in the following cutting-edge areas:
+We are excited to announce open positions **(fully funded MSc and PhD students)** for passionate students in the following cutting-edge areas:
 
-## 1. Computer Vision: Multi-Object Tracking (2 Positions)
+## 1. Computer Vision: Multi-Object Tracking (1 Positions)
 **Focus**: Multi-camera, multi-object tracking with an emphasis on dense and similar object tracking.
 
 **Responsibilities**:
