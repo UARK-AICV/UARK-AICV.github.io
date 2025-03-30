@@ -37,7 +37,8 @@ We are excited to announce open positions **(fully funded MSc and PhD students)*
 - A strong background in computer vision, remote sensing, or robotics, with demonstrated experience in relevant projects or research. Having publications in related and relevant venues is a significant advantage.
 - Proficiency in programming languages such as Python, C++, etc.
 - Experience with deep learning frameworks (e.g., PyTorch, TensorFlow, etc.) and analysis/visualization tools (e.g., Pandas, OpenCV, Open3D, etc.).
-- A bachelor’s degree in Computer Science, Robotics, or a related field; advanced degrees (MSc) are preferred but not required.
+- A bachelor’s degree in Computer Science, Robotics, or a related field
+- For prospective PhD students, advanced degrees (MSc) are preferred but not required.
 - Strong problem-solving skills, self-motivation, a collaborative mindset, and a passion for research and innovation.
 
 ---
