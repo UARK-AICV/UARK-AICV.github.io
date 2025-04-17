@@ -12,4 +12,4 @@ photo: hao_vo.jpg
 Hao Vo is a Research Assistant at the AICV Lab, specializing in multi-camera tracking and video understanding. His expertise includes advanced computer vision methodologies, multi-modal video analytics, and their practical deployment in real-world environments.
 
 ### Education
-- BS, Computer Science, University of Information Technology (2023)
+- BS, Computer Science, University of Information Technology (2024)
