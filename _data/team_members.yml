@@ -43,11 +43,16 @@
   name: An Le
   photo: an_le.png
   url: an_le
+#- group: 2
+#  info: Since 2024
+#  name: Kim Tran Hoang
+#  photo: kim_tran.jpg
+#  url: kim_tran
 - group: 2
-  info: Since 2024
-  name: Kim Tran Hoang
-  photo: kim_tran.jpg
-  url: kim_tran
+  info: Since 2025
+  name: Hao Vo
+  photo: hao_vo.jpg
+  url: hao_vo
 - group: 2
   info: Since 2023
   name: Marta Veganzones
