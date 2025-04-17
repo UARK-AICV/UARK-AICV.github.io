@@ -9,7 +9,7 @@ photo: hao_vo.jpg
 ---
 
 ### Overview
-Malachi Massey is a Research Assistant in the AICV lab. He works on aerial Solar PV image analysis with Esteban Duran Marti. He has internship experience in the solar industry. 
+Hao Vo is a Research Assistant at the AICV Lab, specializing in multi-camera tracking and video understanding. His expertise includes advanced computer vision methodologies, multi-modal video analytics, and their practical deployment in real-world environments.
 
 ### Education
-- BS, Computer Science, (2025)
+- BS, Computer Science, University of Information Technology (2023)
