@@ -1,3 +1,6 @@
+# 2025
+
+
 # 2024
 - title: "Decoding Radiologists’ Intense Focus for Accurate CXR Diagnoses: A Controllable & Interpretable AI System "
   image: thang_WACV24.png
@@ -8,13 +11,68 @@
     display: WACV, 2024
   year: 2024
 
+- title: "CarcassFormer: An End-to-end Transformer-based Framework for Simultaneous Localization, Segmentation and Classification of Poultry Carcass Defect"
+  image: tran_poultry_science.png
+  description: 
+  authors: M. Tran, S. Truong, A. Fernandes, M. Kidd, N. Le
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0032579124003456
+    display: M. Tran, S. Truong, A. Fernandes, M. Kidd, N. Le, Poultry Science, 2024
+  type: 2
+  news2:
+  year: 2024  
+
+- title: "Unifying Global and Local Scene Entities Modelling for Precise Action Spotting"
+  image: k_h_tran_ijcnn2024.png
+  description: 
+  authors: K. H. Tran, P. V. Do, N. Q. Ly, N. Le
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/10650009
+    display: K. H. Tran, P. V. Do, N. Q. Ly, N. Le, IJCNN, 2024
+  type: 1
+  news2:
+  year: 2024  
+
+- title: "ShapeFormer: Shape Prior Visible-to-Amodal Transformer-based Amodal Instance Segmentation"
+  image: tran_ijcnn2024.png
+  description: 
+  authors: M. Tran, W. Bounsavy, K. Vo, A. Nguyen, T. Nguyen, N. Le 
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/10650837
+    display: M. Tran, W. Bounsavy, K. Vo, A. Nguyen, T. Nguyen, N. Le, IJCNN, 2024
+  type: 1
+  news2:
+  year: 2024 
+
+- title: "TSRNet: Simple Framework for Real-time ECG Anomaly Detection with Multimodal Time and Spectrogram Restoration Network"
+  image: n_t_bui_isbi2024.png
+  description: 
+  authors: N.-T Bui, D.-H Hoang, T. Phan, M.-T Tran, B. Patel, D. Adjeroh, N. Le
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/10635676
+    display: N.-T Bui, D.-H Hoang, T. Phan, M.-T Tran, B. Patel, D. Adjeroh, N. Le, ISBI, 2024
+  type: 1
+  news2:
+  year: 2024 
+
+- title: "SAM3D: Segment Anything Model in Volumetric Medical Images"
+  image: bui_isbi2024.png
+  description: 
+  authors: N.-T Bui, D.-H Hoang, M.-T Tran, N. Le 
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/10635844
+    display: N.-T Bui, D.-H Hoang, M.-T Tran, N. Le , ISBI, 2024
+  type: 1
+  news2:
+  year: 2024 
+
 - title: "Z-GMOT with MA-SORT: Zero-shot Generic Multiple Object Tracking (GMOT) with Motion Appearance SORT (MA-SORT)"
   image: k._tran_z_mot2024.png
   description: 
   authors: K. H. Tran, A. D. Le Dinh, T. P. Nguyen, T. Phan, P. Nguyen, K. Luu, D. Adjeroh, G. Doretto, N. Le
   link:
-    url: https://fsoft-aic.github.io/Z-GMOT/
-    display: K. H. Tran, A. D. Le Dinh, T. P. Nguyen, T. Phan, P. Nguyen, K. Luu, D. Adjeroh, G. Doretto, N. Le, , 2024
+    url: https://arxiv.org/abs/2305.17648
+    display: K. H. Tran, A. D. Le Dinh, T. P. Nguyen, T. Phan, P. Nguyen, K. Luu, D. Adjeroh, G. Doretto, N. Le, NAACL, 2024
   type: 1
   news2:
   year: 2024
