@@ -2,14 +2,203 @@
 
 
 # 2024
-- title: "Decoding Radiologists’ Intense Focus for Accurate CXR Diagnoses: A Controllable & Interpretable AI System "
-  image: thang_WACV24.png
+- title: "DINTR: Tracking via Diffusion-based Interpolation"
+  image: nguyen_neurips2024.png
   description: 
-  authors:
+  authors: P. Nguyen, N. Le, J. Cothren, A. Yilmaz, K. Luu
   link:
-    url:
-    display: WACV, 2024
+    url: https://arxiv.org/abs/2410.10053
+    display: P. Nguyen, N. Le, J. Cothren, A. Yilmaz, K. Luu,  NeurIPS, 2024
+  type: 1
+  news2:
   year: 2024
+
+- title: "Henasy: Learning to assemble scene-entities for interpretable egocentric video-language mode"
+  image: vo_neurips2024.png
+  description: 
+  authors: K. Vo, T. Phan, K. Yamazaki, M. Tran, N. Le
+  link:
+    url: https://proceedings.neurips.cc/paper_files/paper/2024/hash/9d66f74820f11ce037fb5f711ab9acd4-Abstract-Conference.html
+    display: K. Vo, T. Phan, K. Yamazaki, M. Tran, N. Le,  NeurIPS, 2024
+  type: 1
+  news2:
+  year: 2024
+
+- title: "Accelerating Transformers with Spectrum-Preserving Token Merging"
+  image: tran_neurips2024.png
+  description: 
+  authors: H.-C Tran, D. MH Nguyen, D. M Nguyen, T.-T Nguyen, N. Le, P. Xie, D. Sonntag, J. Y Zou, B. T Nguyen, M. Niepert
+  link:
+    url: https://proceedings.neurips.cc/paper_files/paper/2024/hash/37094fdc81632915a5738293cf9b7ad4-Abstract-Conference.html
+    display: H.-C Tran, D. MH Nguyen, D. M Nguyen, T.-T Nguyen, N. Le, P. Xie, D. Sonntag, J. Y Zou, B. T Nguyen, M. Niepert,  NeurIPS, 2024
+  type: 1
+  news2:
+  year: 2024
+
+- title: "Bridging Human and Machine Intelligence: Reverse-Engineering Radiologist Intentions for Clinical Trust and Adoption"
+  image: awasthi_csb2024.png
+  description: 
+  authors: A. Awasthi, N. Le, Z. Deng, R. Agrawal, C. C Wu, H. V. Nguyen
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S2001037024003830
+    display: A. Awasthi, N. Le, Z. Deng, R. Agrawal, C. C Wu, H. V. Nguyen, Computational and Structural Biotechnology, 2024
+  type: 2
+  news2:
+  year: 2024
+
+- title: "FG-CXR: A Radiologist-Aligned Gaze Dataset for Enhancing Interpretability in Chest X-Ray Report Generation"
+  image: pham_accv2024.png
+  description: 
+  authors: T. T. Pham, N.-V Ho, N.-T Bui, T. Phan, P. Brijesh, D. Adjeroh, G. Doretto, A. Nguyen, C. C Wu, H. Nguyen, N. Le
+  link:
+    url: https://ui.adsabs.harvard.edu/abs/2024arXiv241115413T/abstract
+    display: T. T. Pham, N.-V Ho, N.-T Bui, T. Phan, P. Brijesh, D. Adjeroh, G. Doretto, A. Nguyen, C. C Wu, H. Nguyen, N. Le, ACCV, 2024
+  type: 1
+  news2:
+  year: 2024
+
+- title: "GazeSearch: Radiology Findings Search Benchmark"
+  image: pham_wacv2024.png
+  description: 
+  authors: T. T. Pham, T.-P Nguyen, Y. Ikebe, A. Awasthi, Z. Deng, C. C Wu, H. Nguyen, N. Le
+  link:
+    url: https://ui.adsabs.harvard.edu/abs/2024arXiv241105780T/abstract
+    display: T. T. Pham, T.-P Nguyen, Y. Ikebe, A. Awasthi, Z. Deng, C. C Wu, H. Nguyen, N. Le, WACV, 2024
+  type: 1
+  news2:
+  year: 2024
+
+- title: "TrackMe: A Simple and Effective Multiple Object Tracking Annotation Tool"
+  image: phan_cv4animals2024.png
+  description: 
+  authors: T. Phan, I. Phillips, A. Lockett, M. Kidd, N. Le
+  link:
+    url: https://arxiv.org/abs/2410.15518
+    display: T. Phan, I. Phillips, A. Lockett, M. Kidd, N. Le, CV4Animals, 2024
+  type: 1
+  news2:
+  year: 2024
+
+- title: "Enhanced Kalman with Adaptive Appearance Motion SORT for Grounded Generic Multiple Object Tracking"
+  image: anh_accv2024.png
+  description: 
+  authors: D. L. D. Anh, K. H. Tran, Q.-T Nguyen, N. H. Le
+  link:
+    url: https://link.springer.com/chapter/10.1007/978-981-96-0917-8_18
+    display: D. L. D. Anh, K. H. Tran, Q.-T Nguyen, N. H. Le, ACCV, 2024
+  type: 1
+  news2:
+  year: 2024
+
+- title: "Facial Chick Sexing: An Automated Chick Sexing System from Chick Facial Image"
+  image: marta_ssrn2024.png
+  description: 
+  authors: M. V. Rodriguez, T. Phan, A. Fernandes, V. Breen, J. Arango, M. Kidd, N. Le
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S2772375525002771?ssrnid=5210639&dgcid=SSRN_redirect_SD
+    display: M. V. Rodriguez, T. Phan, A. Fernandes, V. Breen, J. Arango, M. Kidd, N. Le, SSRN, 2024
+  type: 2
+  news2:
+  year: 2024
+
+- title: "Amodal Instance Segmentation with Diffusion Shape Prior Estimation"
+  image: tran_accv2024.png
+  description: 
+  authors: M. Tran, K. Vo, T. Nguyen, N. Le
+  link:
+    url: https://openaccess.thecvf.com/content/ACCV2024/html/Tran_Amodal_Instance_Segmentation_with_Diffusion_Shape_Prior_Estimation_ACCV_2024_paper.html
+    display: M. Tran, K. Vo, T. Nguyen, N. Le, ACCV, 2024
+  type: 1
+  news2:
+  year: 2024
+
+- title: "TP-GMOT: Tracking Generic Multiple Object by Textual Prompt with Motion-Appearance Cost (MAC) SORT"
+  image: anh_ecai2024.png
+  description: 
+  authors: D. L. D. Anh, K. H. Tran, N. Le
+  link:
+    url: https://ui.adsabs.harvard.edu/abs/2024arXiv240902490L/abstract
+    display: D. L. D. Anh, K. H. Tran, N. Le, ECAI, 2024
+  type: 1
+  news2:
+  year: 2024
+
+- title: "AerialFormer: Multi-Resolution Transformer for Aerial Image Segmentation"
+  image: hanyu_remote_sensing2024.png
+  description: 
+  authors: T. Hanyu, K. Yamazaki, M. Tran, R. McCann, H. Liao, C. Rainwater, M. Adkins, J. Cothren, N. Le
+  link:
+    url: https://www.mdpi.com/2072-4292/16/16/2930
+    display: T. Hanyu, K. Yamazaki, M. Tran, R. McCann, H. Liao, C. Rainwater, M. Adkins, J. Cothren, N. Le, Remote Sensing, 2024
+  type: 2
+  news2:
+  year: 2024
+
+- title: "Language-driven 6-dof grasp detection using negative prompt guidance"
+  image: nguyen_eccv2024.png
+  description: 
+  authors: T. Nguyen, M. N. Vu, B. Huang, A. Vuong, Q. Vuong, N. Le, T. Vo, A. Nguyen
+  link:
+    url: https://link.springer.com/chapter/10.1007/978-3-031-72655-2_21
+    display: T. Nguyen, M. N. Vu, B. Huang, A. Vuong, Q. Vuong, N. Le, T. Vo, A. Nguyen, ECCV, 2024
+  type: 1
+  news2:
+  year: 2024
+
+- title: "Pose Guidance by Supervision: A Framework for Clothes-Changing Person Re-Identification"
+  image: trinh_avss2024.png
+  description: 
+  authors: Q.-H Trinh, N.-T Bui, P.-T Thi, H.-D Nguyen, D. Jha, U. Bagci, N. Le, M.-T Tran
+  link:
+    url: https://ieeexplore.ieee.org/document/10672607
+    display: Q.-H Trinh, N.-T Bui, P.-T Thi, H.-D Nguyen, D. Jha, U. Bagci, N. Le, M.-T Tran, AVSS, 2024
+  type: 1
+  news2:
+  year: 2024
+
+- title: "BubbleID: A Deep Learning Framework for Bubble Interface Dynamics Analysis"
+  image: dunlap_applied_physics.png
+  description: 
+  authors: C. Dunlap, C. Li, H. Pandey, N. Le, H. Hu
+  link:
+    url: https://pubs.aip.org/aip/jap/article/136/1/014902/3300686
+    display: C. Dunlap, C. Li, H. Pandey, N. Le, H. Hu, Applied Physics, 2024
+  type: 2
+  news2:
+  year: 2024
+
+- title: "CattleFace-RGBT: RGB-T Cattle Facial Landmark Benchmark"
+  image: coffman_cv4animals2024.png
+  description: 
+  authors: E. Coffman, R. Clark, N.-T Bui, T. T. Pham, B. Kegley, J. Powell, J. Zhao, N. Le
+  link:
+    url: https://arxiv.org/abs/2406.03431
+    display: E. Coffman, R. Clark, N.-T Bui, T. T. Pham, B. Kegley, J. Powell, J. Zhao, N. Le, CV4Animals, 2024
+  type: 1
+  news2:
+  year: 2024  
+
+- title: "HAtt-Flow: Hierarchical Attention-Flow Mechanism for Group Activity Scene Graph Generation in Videos"
+  image: chappa_sensors2024.png
+  description: 
+  authors: N. Chappa, P. Nguyen, N. Le, K. Luu
+  link:
+    url: https://www.mdpi.com/1424-8220/24/11/3372
+    display: N. Chappa, P. Nguyen, N. Le, K. Luu, Sensors, 2024
+  type: 2
+  news2:
+  year: 2024  
+
+- title: "SolarFormer: Multi-scale Transformer for Solar PV Profiling"
+  image: tran_sgsma2024.png
+  description: 
+  authors: A. Luis, M. Tran, Taisei Hanyu, A. Tran, L. Haitao, R. McCann, A. Mantooth, Y. Huang, N. Le
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/10571461
+    display: A. Luis, M. Tran, Taisei Hanyu, A. Tran, L. Haitao, R. McCann, A. Mantooth, Y. Huang, N. Le, SGSMA, 2024
+  type: 1
+  news2:
+  year: 2024  
 
 - title: "CarcassFormer: An End-to-end Transformer-based Framework for Simultaneous Localization, Segmentation and Classification of Poultry Carcass Defect"
   image: tran_poultry_science.png
