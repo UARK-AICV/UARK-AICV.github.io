@@ -1,5 +1,4 @@
 # 2025
-
 - title: "Robotic-CLIP: Fine-tuning CLIP on Action Data for Robotic Applications"
   image: nguyen_icra2025.png
   description: 
@@ -67,7 +66,7 @@
   year: 2025
 
 - title: "Deep Learning for Ophthalmology: The State-of-the-Art and Future Trends"
-  image: nguyen_arxiv025.png
+  image: nguyen_arxiv2025.png
   description: 
   authors: D. MH Nguyen, H. M. T. Alam, T. Nguyen, D. Srivastav, H.-J Profitlich, N. Le, D. Sonntag
   link:
