@@ -1,14 +1,14 @@
 # 2025
-- title: "SolarFormer++: Multi-scale Transformer for Solar PV Profiling and Obstruction Localization for Degradation Mitigation
-  image: esteban_ieee2025.png
-  description: 
-  authors: E. Duran, M. Tran, M. Massey, A. Gracia, T. Hanyu, A. Tran, R. McCann, H. Liao, J. Cothren, M. Adkins, C. Rainwater, Y. Huang, A. Mantooth, N. Le
-  link:
-    url: https://ieeexplore.ieee.org/abstract/document/11017409
-    display: E. Duran, M. Tran, M. Massey, A. Gracia, T. Hanyu, A. Tran, R. McCann, H. Liao, J. Cothren, M. Adkins, C. Rainwater, Y. Huang, A. Mantooth, N. Le,  IEEE, 2025
-  type: 1
-  news2:
-  year: 2025
+# - title: "SolarFormer++: Multi-scale Transformer for Solar PV Profiling and Obstruction Localization for Degradation Mitigation
+#   image: esteban_ieee2025.png
+#   description: 
+#   authors: E. Duran, M. Tran, M. Massey, A. Gracia, T. Hanyu, A. Tran, R. McCann, H. Liao, J. Cothren, M. Adkins, C. Rainwater, Y. Huang, A. Mantooth, N. Le
+#   link:
+#     url: https://ieeexplore.ieee.org/abstract/document/11017409
+#     display: E. Duran, M. Tran, M. Massey, A. Gracia, T. Hanyu, A. Tran, R. McCann, H. Liao, J. Cothren, M. Adkins, C. Rainwater, Y. Huang, A. Mantooth, N. Le,  IEEE, 2025
+#   type: 1
+#   news2:
+#   year: 2025
 
 - title: "Robotic-CLIP: Fine-tuning CLIP on Action Data for Robotic Applications"
   image: nguyen_icra2025.png
