@@ -1,5 +1,102 @@
 # 2025
+- title: "SolarFormer++: Multi-scale Transformer for Solar PV Profiling and Obstruction Localization for Degradation Mitigation
+  image: esteban_ieee2025.png
+  description: 
+  authors: E. Duran, M. Tran, M. Massey, A. Gracia, T. Hanyu, A. Tran, R. McCann, H. Liao, J. Cothren, M. Adkins, C. Rainwater, Y. Huang, A. Mantooth, N. Le
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/11017409
+    display: E. Duran, M. Tran, M. Massey, A. Gracia, T. Hanyu, A. Tran, R. McCann, H. Liao, J. Cothren, M. Adkins, C. Rainwater, Y. Huang, A. Mantooth, N. Le,  IEEE, 2025
+  type: 1
+  news2:
+  year: 2025
 
+- title: "Robotic-CLIP: Fine-tuning CLIP on Action Data for Robotic Applications"
+  image: nguyen_icra2025.png
+  description: 
+  authors: N. Nguyen, M. N. Vu, T. D Ta, B. Huang, T. Vo, N. Le, A. Nguyen
+  link:
+    url: https://arxiv.org/abs/2409.17727
+    display: N. Nguyen, M. N. Vu, T. D Ta, B. Huang, T. Vo, N. Le, A. Nguyen,  ICRA, 2025
+  type: 1
+  news2:
+  year: 2025
+
+- title: "A2VIS: Amodal-Aware Approach to Video Instance Segmentation"
+  image: tran_image_vision2025.png
+  description: 
+  authors: M. Tran, T. Pham, W. Bounsavy, T. Nguyen, N. Le
+  link:
+    url: https://www.sciencedirect.com/science/article/abs/pii/S0262885625001313
+    display: M. Tran, T. Pham, W. Bounsavy, T. Nguyen, N. Le,  Image and Vision Computing, 2025
+  type: 2
+  news2:
+  year: 2025
+
+- title: "Modeling radiologists’ cognitive processes using a digital gaze twin to enhance radiology training"
+  image: awasthi_scientific_reports2025.png
+  description: 
+  authors: A. Awasthi, A. M. Vu, N. Le, Z. Deng, S. Maulik, R. Agrawal, C. C Wu, H. V. Nguyen
+  link:
+    url: https://www.nature.com/articles/s41598-025-97935-y
+    display: A. Awasthi, A. M. Vu, N. Le, Z. Deng, S. Maulik, R. Agrawal, C. C Wu, H. V. Nguyen,  Scientific Reports, 2025
+  type: 2
+  news2:
+  year: 2025
+
+- title: "SSL-SurvFormer: A Self-Supervised Learning and Continuously Monotonic Transformer Network for Missing Values in Survival Analysis"
+  image: le_informatics2025.png
+  description: 
+  authors: Q.-H Le, B. Patel, D. Adjeroh, G. Doretto, N. Le
+  link:
+    url: https://www.mdpi.com/2227-9709/12/1/32
+    display: Q.-H Le, B. Patel, D. Adjeroh, G. Doretto, N. Le,  Informatics, 2025
+  type: 2
+  news2:
+  year: 2025
+
+- title: "Progressive Multi-granular Alignments for Grounded Reasoning in Large Vision-Language Models"
+  image: le_aaai2025.png
+  description: 
+  authors: Q.-H Le, L. H. Dang, N. Le, T. Tran, T. M. Le
+  link:
+    url: https://ojs.aaai.org/index.php/AAAI/article/view/32471
+    display: Q.-H Le, L. H. Dang, N. Le, T. Tran, T. M. Le,  AAAI, 2025
+  type: 1
+  news2:
+  year: 2025
+
+- title: "ItpCtrl-AI: End-to-end interpretable and controllable artificial intelligence by modeling radiologists’ intentions"
+  image: pham_medicine2025.png
+  description: 
+  authors: T.-T Pham, J. Brecheisen, C. C Wu, H. Nguyen, Z. Deng, D. Adjeroh, G. Doretto, A. Choudhary, N. Le
+  link:
+    url: https://www.sciencedirect.com/science/article/abs/pii/S0933365724002963
+    display: T.-T Pham, J. Brecheisen, C. C Wu, H. Nguyen, Z. Deng, D. Adjeroh, G. Doretto, A. Choudhary, N. Le,  AI Medicine, 2025
+  type: 2
+  news2:
+  year: 2025
+
+- title: "Deep Learning for Ophthalmology: The State-of-the-Art and Future Trends"
+  image: nguyen_arxiv025.png
+  description: 
+  authors: D. MH Nguyen, H. M. T. Alam, T. Nguyen, D. Srivastav, H.-J Profitlich, N. Le, D. Sonntag
+  link:
+    url: https://arxiv.org/abs/2501.04073
+    display: D. MH Nguyen, H. M. T. Alam, T. Nguyen, D. Srivastav, H.-J Profitlich, N. Le, D. Sonntag,  arXiv, 2025
+  type: 1
+  news2:
+  year: 2025
+
+- title: "S3Former: Self-supervised High-resolution Transformer for Solar PV Profiling"
+  image: tran_ieee2025.png
+  description: 
+  authors: M. Tran, A. D. Luis, H. Liao, Y. Huang, R. McCann, A. Mantooth, J. Cothren, N. Le
+  link:
+    url: https://arxiv.org/abs/2405.04489
+    display: M. Tran, A. D. Luis, H. Liao, Y. Huang, R. McCann, A. Mantooth, J. Cothren, N. Le,  IEEE, 2025
+  type: 1
+  news2:
+  year: 2025
 
 # 2024
 - title: "DINTR: Tracking via Diffusion-based Interpolation"
@@ -229,28 +326,6 @@
   link:
     url: https://ieeexplore.ieee.org/abstract/document/10650837
     display: M. Tran, W. Bounsavy, K. Vo, A. Nguyen, T. Nguyen, N. Le, IJCNN, 2024
-  type: 1
-  news2:
-  year: 2024 
-
-- title: "TSRNet: Simple Framework for Real-time ECG Anomaly Detection with Multimodal Time and Spectrogram Restoration Network"
-  image: n_t_bui_isbi2024.png
-  description: 
-  authors: N.-T Bui, D.-H Hoang, T. Phan, M.-T Tran, B. Patel, D. Adjeroh, N. Le
-  link:
-    url: https://ieeexplore.ieee.org/abstract/document/10635676
-    display: N.-T Bui, D.-H Hoang, T. Phan, M.-T Tran, B. Patel, D. Adjeroh, N. Le, ISBI, 2024
-  type: 1
-  news2:
-  year: 2024 
-
-- title: "SAM3D: Segment Anything Model in Volumetric Medical Images"
-  image: bui_isbi2024.png
-  description: 
-  authors: N.-T Bui, D.-H Hoang, M.-T Tran, N. Le 
-  link:
-    url: https://ieeexplore.ieee.org/abstract/document/10635844
-    display: N.-T Bui, D.-H Hoang, M.-T Tran, N. Le , ISBI, 2024
   type: 1
   news2:
   year: 2024 
