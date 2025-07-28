@@ -13,6 +13,11 @@
   name: Khoa Vo
   photo: khoa_vo.jpg
   url: khoa_vo
+- group: 7
+  info: Since 2023 (Research Associate)
+  name: Marta Veganzones
+  photo: marta_veganzones.png
+  url: marta_veganzones
 - group: 1
   info: Since 2021
   name: Minh Tran
@@ -30,16 +35,6 @@
   url: thang_pham
 - group: 1
   info: Since 2024
-  name: Maral Zarvani
-  photo: Maral_Zarvani.jpg
-  url: maral_zarvani
-- group: 1
-  info: Since 2024
-  name: Duy Le
-  photo: duy_le.jpeg
-  url: duy_le
-- group: 1
-  info: Since 2024
   name: An Le
   photo: an_le.png
   url: an_le
@@ -55,14 +50,14 @@
   url: hao_vo
 - group: 2
   info: Since 2023
-  name: Marta Veganzones
-  photo: marta_veganzones.png
-  url: marta_veganzones
-- group: 2
-  info: Since 2023
   name: Farid Hashemian
   photo: farid_hashemian.png
   url: farid_hashemian
+- group: 2
+  info: Since 2024
+  name: Annie Prasanna Manoharan
+  photo: annie_prasanna.png
+  url: annie_prasanna
 - group: 2
   info: Since 2024
   name: Esteban Duran Marti
@@ -84,11 +79,6 @@
   photo: no_pic.png
   url: samuel_lin
 - group: 3
-  info: Since 2021
-  name: Anh Tran
-  photo: anh_tran.png
-  url: anh_tran
-- group: 3
   info: Since 2022
   name: Taisei Hanyu
   photo: taisei_hanyu.jpg
@@ -105,24 +95,9 @@
   url: frederick_bumgarner
 - group: 3
   info: Since 2024
-  name: Isaac Phillips
-  photo: isaac_phillips.jpg
-  url: isaac_phillips
-- group: 3
-  info: Since 2024
-  name: Andrew Lockett
-  photo: andrew_lockett.png
-  url: andrew_lockett
-- group: 3
-  info: Since 2024
   name: Ethan Coffman
   photo: coffman.jpg
   url: ethan_coffman
-- group: 3
-  info: Since 2024
-  name: Reagan Clark
-  photo: reagan_clark.jpg
-  url: reagan_clark
 - group: 4
   info: May 2022 - Aug 2022
   name: Kevin Joo
@@ -153,6 +128,16 @@
   name: Kala Rohit
   photo: kala_rohit.png
   url: kala_rohit
+- group: 8
+  info: BSc (graduated 2025) - Tyson
+  name: Anh Tran
+  photo: anh_tran.png
+  url: anh_tran
+- group: 8
+  info: BSc (graduated 2025) - Moss & Associates
+  name: Malachi Massey
+  photo: malachi_massey.jpg
+  url: malachi_massey
 - group: 2
   info: Since 2024
   name: Yuki Ikebe
@@ -163,11 +148,6 @@
   name: Johnmark Clements
   photo: johnmark_clements.jpg
   url: johnmark_clements
-- group: 3
-  info: Since 2024
-  name: Malachi Massey
-  photo: malachi_massey.jpg
-  url: malachi_massey
 - group: 3
   info: Since 2024
   name: Bryan Williams
