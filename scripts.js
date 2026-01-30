@@ -439,7 +439,7 @@ async function renderResearchPage() {
         if (!response.ok) throw new Error(`HTTP error! Status: ${response.status}`);
         
         const researchAreas = await response.json();
-
+        console.log('Fetched Data:', researchAreas);
         const researchCards = researchAreas.map(area => `
             <div class="bg-white p-6 rounded-xl shadow-md border border-gray-100 hover:shadow-lg transition-shadow duration-300">
                 <h3 class="text-xl font-bold text-gray-900 mb-2">${area.title}</h3>
