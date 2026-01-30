@@ -1,7 +1,7 @@
 [
   {
     "title": "Computer Vision",
-    "icons": ["/Lab_Website/data/research/images/computer_vision_1.png", "/Lab_Website/data/research/images/computer_vision_2.png", "/Lab_Website/data/research/images/computer_vision_3.png", "/Lab_Website/data/research/images/computer_vision_4.png", "/Lab_Website/data/research/images/computer_vision_5.png"],
+    "icons": ["/data/research/images/computer_vision_1.png", "/data/research/images/computer_vision_2.png", "/data/research/images/computer_vision_3.png", "/data/research/images/computer_vision_4.png", "/data/research/images/computer_vision_5.png"],
     "items": ["Object Localization",
               "Amodal Perception",
               "Video Understanding",
@@ -11,7 +11,7 @@
   },
   {
     "title": "Remote Sensing",
-    "icons": ["/Lab_Website/data/research/images/remote_sensing_1.png", "/Lab_Website/data/research/images/remote_sensing_2.png", "/Lab_Website/data/research/images/remote_sensing_3.png", "/Lab_Website/data/research/images/remote_sensing_4.png"],
+    "icons": ["/data/research/images/remote_sensing_1.png", "/data/research/images/remote_sensing_2.png", "/data/research/images/remote_sensing_3.png", "/data/research/images/remote_sensing_4.png"],
     "items": ["Precision Agriculture",
               "Earth Surface Analysis",
               "Weather Forecasting",
@@ -29,7 +29,7 @@
   },
   {
     "title": "Healthcare",
-    "icons": ["/Lab_Website/data/research/images/healthcare_1.png", "/Lab_Website/data/research/images/healthcare_2.png", "/Lab_Website/data/research/images/healthcare_3.png", "/Lab_Website/data/research/images/healthcare_4.png"],
+    "icons": ["/data/research/images/healthcare_1.png", "/data/research/images/healthcare_2.png", "/data/research/images/healthcare_3.png", "/data/research/images/healthcare_4.png"],
     "items": ["Anatomies Localization",
               "Anomaly Detection",
               "Disease Diagnosis",
