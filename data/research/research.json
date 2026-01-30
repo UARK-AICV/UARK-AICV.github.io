@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Computer Vision",
+    "icons": ["/Lab_Website/data/research/images/computer_vision_1.png", "/Lab_Website/data/research/images/computer_vision_2.png", "/Lab_Website/data/research/images/computer_vision_3.png", "/Lab_Website/data/research/images/computer_vision_4.png", "/Lab_Website/data/research/images/computer_vision_5.png"],
+    "items": ["Object Localization",
+              "Amodal Perception",
+              "Video Understanding",
+              "Object Tracking",
+              "Multi-view Analysis",
+              "Animal Welfare"]
+  },
+  {
+    "title": "Remote Sensing",
+    "icons": ["/Lab_Website/data/research/images/remote_sensing_1.png", "/Lab_Website/data/research/images/remote_sensing_2.png", "/Lab_Website/data/research/images/remote_sensing_3.png", "/Lab_Website/data/research/images/remote_sensing_4.png"],
+    "items": ["Precision Agriculture",
+              "Earth Surface Analysis",
+              "Weather Forecasting",
+              "Water Assessment",
+              "Res. Reconstruction"]
+  },
+  {
+    "title": "Robot Perception",
+    "icons": ["data/research/images/robot_perception_1.png", "data/research/images/robot_perception_2.png"],
+    "items": ["3D Reconstruction",
+              "Affordance Detection",
+              "Robot Manipulation",
+              "Efficient Design",
+              "Vision Language Action"]
+  },
+  {
+    "title": "Healthcare",
+    "icons": ["/Lab_Website/data/research/images/healthcare_1.png", "/Lab_Website/data/research/images/healthcare_2.png", "/Lab_Website/data/research/images/healthcare_3.png", "/Lab_Website/data/research/images/healthcare_4.png"],
+    "items": ["Anatomies Localization",
+              "Anomaly Detection",
+              "Disease Diagnosis",
+              "Report Generation",
+              "X-AI in Healthcare",
+              "Education Training"]
+  }
+]

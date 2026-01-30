@@ -1,0 +1,11 @@
+/* Primary font for the entire document */
+:root { 
+    font-family: 'Inter', sans-serif; 
+}
+
+/* Simple transition for page content */
+#content-area { 
+    transition: opacity 0.3s ease; 
+}
+
+/* Any further custom CSS can be added here */

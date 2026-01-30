@@ -1,0 +1,701 @@
+[
+    {
+        "name": "Dr. Ngan Le",
+        "category": "Staff",
+        "position": "Principal Investigator/Assistant Professor",
+        "photo": "ngan_le.jpg",
+        "bio": "Dr. Le is the director of the Artificial Intelligence and Computer Vision Lab and an Assistant Professor in the Department of Computer Science & Computer Engineering at the University of Arkansas. She was a research associate in the Department of Electrical and Computer Engineering (ECE) at Carnegie Mellon University (CMU) in 2018-2019. She received a Ph.D degree in ECE at CMU in 2018, ECE Master degree at CMU in 2015, CS Master Degree at the University of Science, Vietnam in 2009 and CS Bachelor degree at the University of Science, Vietnam in 2005.   Her current research interests focus on Image Understanding, Video Understanding, Computer Vision, Robotics, Artificial Intelligence (Machine Learning, Deep Learning, Reinforcement Learning), Biomedical Imaging, SingleCell-RNA.   Dr. Le is currently an Associate Editor of Elsevier Machine Learning with Applications, a Guest Editor of Scene Understanding in Autonomous (Frontier, a Guest Editor of Artificial intelligence in Biomedicine and Healthcare (MDPI), and a Program Chair of Asilomar 2022. She co-organized the Deep Reinforcement Learning Tutorial for Medical Imaging at MICCAI 2018, Medical Image Learning with Less Labels and Imperfect Data workshop at MICCAI 2019, 2020, 2021, Visual Detection, Recognition and Prediction at Altitude and Range at ICCV 2022. Dr. Le is instructor lead of the Google Machine Learning Bootcamp 2021.Her publications appear in the top-tier conferences including CVPR, MICCAI, ICCV, SPIE, IJCV, ICIP etc, and premier journals including IJCV, JESA, TIP, PR, JDSP, TIFS, etc. She has co-authored 75+ journals, conference papers, and book chapters, 9+ patents and inventions. She has served as a reviewer for 10+ top-tier conferences and journals, including TPAMI, AAAI, CVPR, NIPS, ICCV, ECCV, MICCAI, TIP, PR, TAI, IVC, etc",
+        "email": "thile@uark.edu",
+        "links": [
+            { "label": "Google Scholar", "url": "https://scholar.google.com/citations?user=8ck0k_UAAAAJ"},
+            { "label": "LinkedIn", "url": "https://www.linkedin.com/in/ngan--le"}
+        ],
+
+        "details": [
+            {
+                "heading": "Patents & Invention Disclosures",
+                "data": [
+                    { 
+                        "title": "Chicken Processing Plant With Automated Computer Vision", 
+                        "subtitle": "P2757US00, UADA 2021-020 (UAF 2021-032)", 
+                        "date": "2021" 
+                    },
+                    { 
+                        "title": "Artificial Intelligence And Vision-Based Broiler Body Weight Measurement", 
+                        "subtitle": "P2736US00, UADA 2021-009 (UAF 2021-017)", 
+                        "date": "2021" 
+                    },
+                    { 
+                        "title": "Simultaneously Detecting and Classifying Abnormal Pap on the Cervix", 
+                        "subtitle": "CMU Invention Disclosure - Under Review", 
+                        "date": "Pending" 
+                    },
+                    { 
+                        "title": "Reformulating Level Sets as Deep Recurrent Neural Network Approach", 
+                        "subtitle": "CMU Invention Disclosure No. 2018-01", 
+                        "date": "2018" 
+                    },
+                    { 
+                        "title": "Methods and Systems for Disease Classification", 
+                        "subtitle": "U.S. Provisional Application Serial No. 61/967,316", 
+                        "date": "2014" 
+                    },
+                    { 
+                        "title": "Automatic Eyebrow Detection, Segmentation, and Matching System", 
+                        "subtitle": "Army Research Office & Lab Grants", 
+                        "date": "2013" 
+                    },
+                    { 
+                        "title": "Facial Aging and Asymmetry Decomposition Based Approaches", 
+                        "subtitle": "Army Research Office & Lab Grants", 
+                        "date": "2013" 
+                    }
+                ]
+            },
+            {
+                "heading": "Work Experience",
+                "data": [
+                    { 
+                        "title": "Research Associate", 
+                        "subtitle": "Cylab Biometrics Center, Carnegie Mellon University", 
+                        "date": "Jul 2018 - Aug 2019" 
+                    },
+                    { 
+                        "title": "Graduate Researcher (Computer Vision)", 
+                        "subtitle": "Carnegie Mellon University", 
+                        "date": "Sep 2011 - May 2018" 
+                    },
+                    { 
+                        "title": "Research Intern (Document Analysis)", 
+                        "subtitle": "IMDS Company", 
+                        "date": "May 2010 - Sep 2011" 
+                    },
+                    { 
+                        "title": "IT Executive", 
+                        "subtitle": "PMDC Corp (World Bank & UNDP Projects)", 
+                        "date": "Aug 2009 - May 2010" 
+                    },
+                    { 
+                        "title": "Lecturer", 
+                        "subtitle": "University of Science, Vietnam", 
+                        "date": "Jan 2009 - May 2010" 
+                    },
+                    { 
+                        "title": "Researcher", 
+                        "subtitle": "MSN Lab, Feng Chia University, Taiwan", 
+                        "date": "Jan 2008 - Jan 2009" 
+                    }
+                ]
+            },
+            {
+                "heading": "Teaching & Seminars",
+                "data": [
+                    { 
+                        "title": "Guest Lecturer: Deep Learning Review & Image Segmentation", 
+                        "subtitle": "University of Arkansas (CSCE4013, CSCE5683)", 
+                        "date": "2018" 
+                    },
+                    { 
+                        "title": "Invited Talk: Deep Reinforcement Learning in Medical Imaging", 
+                        "subtitle": "MICCAI 2018, Granada, Spain", 
+                        "date": "Sep 2018" 
+                    },
+                    { 
+                        "title": "Teaching Assistant: Pattern Recognition & Signal Processing", 
+                        "subtitle": "Carnegie Mellon University (18551, 18792)", 
+                        "date": "2011 - 2018" 
+                    },
+                    { 
+                        "title": "Lecturer: Data Hiding and Secret Sharing", 
+                        "subtitle": "University of Science, Vietnam", 
+                        "date": "2009 - 2010" 
+                    }
+                ]
+            },
+            {
+                "heading": "Awards & Scholarships",
+                "data": [
+                    "NSF CAREER, 2025",
+                    "Dean’s Award of Excellence Collaborative Faculty Research Award, 2024 - 2025",
+                    "Dean’s Excellence Teaching Award, 2022 - 2023 (nominated)",
+                    "Winning the 2023 Best Paper Award, Brain Sciences, 2023 - 2024",
+                    "Best Paper Finalist, IROS, Detroit, Oct. 2023",
+                    "The Best Instructor, Google Applied Machine Learning Bootcamp, Summer 2022",
+                    "The Best Instructor, Google Applied Machine Learning Bootcamp, Summer 2021",
+                    "Editor’s Choice Articles, Brain Sciences, 2021",
+                    "Top 1st ranking in the Vision for Intelligent Vehicles and Applications (VIVA) Challenge 2017, 2018, 2019",
+                    "NIH Travel Award, MICCAI 2018 (Spain)",
+                    "PhD Scholarship, Carnegie Mellon University (2011 - 2018)",
+                    "PhD Scholarship, Concordia University, Canada (2010)",
+                    "Scholarship of Vietnamese Government for Graduated Students (2008-2010)",
+                    "Best Paper Award, Int. Symposium on Electronic Commerce and Security (2008)",
+                    "First Prize, Nationwide Student’s Research Competition (2005)",
+                    "First Prize, VIFOTEC (Vietnam Fund for Supporting Technology) (2005)"
+                ]
+            },
+            {
+                "heading": "Professional Services",
+                "data": [
+                    "Journal Editor: Associate Editor, Machine Learning with Applications (ScienceDirect)",
+                    "Conference Board: Area Chair / Technical Chair / Workshop Chair at AAAI, IJCAI, ACCV, MICCAI, ICRA, Asilomar",
+                    "Workshop Organizer: MICCAI, ACCV, ICCV (Medical AI, Multimodal Learning, Interpretability, Trustworthy AI)",
+                    "Funding Panelist: NSF (IIS, SBIR, GRFP, EPSCoR, NASA, Data Science, Robotics, Agriculture)",
+                    "Journal Reviewer: TPAMI, IJCV, MIA, TIP, TSP, TAI, PR, AIRE, AIM",
+                    "Conference Reviewer: CVPR, NeurIPS, ICML, ICCV, ECCV, AAAI, IJCAI, ICLR, MICCAI, WACV, BMVC",
+                    "Academic Leadership: Chair, AI Concentration Program; Lead Instructor, Google NACMI",
+                    "Mentorship & Instruction: MICCAI, DART ASRI, University of Arkansas, ACM Student Research",
+                    "Institutional Service: Faculty Search Committees; Diversity & Inclusion Leadership"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Khoa Vo",
+        "category": "Staff",
+        "position": "Postdoctoral Researcher",
+        "photo": "khoa_vo.jpg",
+        "years": "Since Jan 2025",
+        "email": "khoavoho@uark.edu", 
+        "bio": "Khoa Vo is a Postdoctoral Researcher at AICV Lab. His research research focuses on exploring visual perception and its connection to language, 3D vision, and robotic manipulation.",
+        "links": [
+            { "label": "Google Scholar", "url": "http://scholar.google.com/citations?user=Iyvx8vcAAAAJ"},
+            {"label": "LinkedIn", "url": "https://www.linkedin.com/in/khoa-vo-632a8b189"},
+            {"label":"Github", "url": "https://github.com/vhvkhoa"},
+            { "label": "Personal Website", "url": "https://vhvkhoa.github.io/"}
+        ],
+        "details": [
+            {
+                "heading": "Research Interests",
+                "data": [
+                    "Visual Perception",
+                    "Vision-Language Model",
+                    "3D Vision",
+                    "Robotic Manipulation"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Marta Veganzones",
+        "category": "Staff",
+        "position": "Associate Researcher",
+        "email": "mveganzo@uark.edu",
+        "photo": "marta_veganzones.png",
+        "years": "Since Aug 2025",
+        "bio": "Marta Veganzones is a Research Professional I at the AICV Lab, where she works on applying artificial intelligence to the poultry industry, with an emphasis on computer vision–based solutions. She holds a Master of Science in Computer Science from the University of Arkansas, completed in Spring 2025, and a Bachelor of Science in Telematics Engineering from Universidad Carlos III de Madrid. Her background combines academic research and industry experience. At Capgemini, she worked as a Software Intern within the Digital Customer Experience (BPM Development) team, gaining hands-on experience in enterprise software development, workflow automation, and data-driven system design. In research settings, she has developed deep learning models, automated large-scale data annotation pipelines, and worked with computer vision, NLP, and machine learning techniques on real-world datasets.",
+        "links": [
+            { "label": "Google Scholar", "url": "https://scholar.google.com/citations?user=xTsV9kMAAAAJ&hl=es&oi=ao"},
+            { "label": "LinkedIn", "url": "https://www.linkedin.com/in/martaveganzonesrodriguez/"},
+            {"label":"Github", "url": "https://github.com/mveganzo"}
+        ],
+        "details": [
+            {
+                "heading": "Research Interests",
+                "data": [
+                    "Computer Vision for real-world applications",
+                    "Applied Machine Learning in agriculture and industry",
+                    "Automation of data annotation and preprocessing pipelines",
+                    "Data-driven decision systems",
+                    "Image segmentation"
+
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Minh Tran",
+        "category": "PhD Student",
+        "position": "",
+        "email": "minht@uark.edu",
+        "photo": "minh_tran.png",
+        "years": "Since 2021",
+        "bio": "Minh is a Ph.D. student in Computer Science at the University of Arkansas, advised by Ngan Le. Before starting his Ph.D., I was a research assistant at AIOZ AI, advised by Tuong Do and Anh Nguyen. His current works mainly explore deep learning algorithms for semantic and instance segmentation tasks in images and videos.",
+        "links": [
+            { "label": "Google Scholar", "url": "http://scholar.google.com/citations?user=AmQwXDUAAAAJ"},
+            {"label": "LinkedIn", "url": "https://www.linkedin.com/in/minh-tran-a10b8b176/"},
+            {"label":"Github", "url": "https://github.com/trqminh"},
+            { "label": "Personal Website", "url": "https://trqminh.github.io/"}
+        ],
+        "details": [
+            {
+                "heading": "Research Interests",
+                "data": [
+                    "Deep learning algorithms for visual perception tasks (object detection, segmentation, pose estimation, etc.)",
+                    "Path/motion planning regarding visual perception."
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Thinh Phan",
+        "category": "PhD Student",
+        "position": "",
+        "email": "thinhp@uark.edu",
+        "photo": "thinh_phan.jpeg",
+        "years": "Since 2023",
+        "bio": "Thinh Phan is a Research Assitant at AICV lab. He received his B.S. degree in Electrical Engineering from Ho Chi Minh City University of Technology, Vietnam. He received his M.S. degree in Computer Science from Chonnam National University, South Korea.",
+        "links": [
+            { "label": "Google Scholar", "url": "http://scholar.google.com/citations?user=zsGhPHcAAAAJ&hl"}
+        ],
+        "details": [
+            {
+                "heading": "Research Interests",
+                "data": [
+                    "Object tracking",
+                    "Video understanding",
+                    "Medical imaging"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Trong Thang Pham",
+        "category": "PhD Student",
+        "position": "",
+        "email": "tp030@uark.edu",
+        "photo": "thang_pham.png",
+        "years": "Since 2023",
+        "bio": "Trong Thang is a PhD candidate at the University of Arkansas, Fayetteville under the supervision of Dr. Ngan Le. During his PhD, he research understanding experts' eye movement limitations to develop AI systems that augment their capabilities, with a focus on medical. So far, He has contributed several papers to the medical field, published at top-tier venues including ICCV, ACM MM, WACV, ACCV, and journals such as Artificial Intelligence in Medicine and Image and Vision Computing. He used to work as a core R&D researcher at AIOZ Singapore, developing digital twin technologies including talking face generation and 3D human models for metaverse applications. His team at AIOZ published two papers at CVPRW and CVPR.",
+        "links": [
+            { "label": "Google Scholar", "url": "http://scholar.google.com/citations?user=SwR0T0UAAAAJ"},
+            { "label": "LinkedIn", "url": "https://www.linkedin.com/in/phamtrongthanghcmus/"},
+            {"label":"Github", "url": "https://github.com/phamtrongthang123"},
+            {"label":"Personal Website", "url":"https://phamtrongthang123.github.io/"}
+        ],
+        "details": [
+            {
+                "heading": "Research Interests",
+                "data": [
+                    "Human behavioral limitations and how AI can augment human capabilities",
+                    "Integration of computer vision, deep learning, and interpretable AI",
+                    "Eye-tracking–based analysis of human attention and decision-making",
+                    "Human–AI interaction in high-stakes decision environments",
+                    "AI-assisted diagnostic decision-making in medical and cardiology settings",
+                    "Proactive AI tools to support and optimize clinical workflows"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Cuong Ngo",
+        "category": "Masters Student",
+        "position": "",
+        "email": "cngo@uark.edu",
+        "photo": "cuong_ngo.jpeg",
+        "years": "Since Aug 2025",
+        "bio": "Ngo Xuan Cuong is a Master’s student at the University of Arkansas, where he also works as a Research Assistant in the AICV Lab. His research focuses on computer vision and vision–language models, with particular interests in object counting and medical AI.",
+        "details": [
+            {
+                "heading": "Research Interests",
+                "data": [
+                    "Vision-Language Models",
+                    "Medical AI"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Taisei Hanyu",
+        "category": "Masters Student",
+        "position": "",
+        "email": "thanyu@uark.edu",
+        "photo": "taisei_hanyu.jpg",
+        "years": "Since 2022",
+        "bio": "Taisei Hanyu is a lab assistant at the AICV Lab. He is currently working toward the M.S. in Computer Science. Recently, he obtained his honors B.S. degree in Computer Science at the Department of Computer Science and Computer Engineering at the University of Arkansas, Fayetteville.",
+        "links": [
+            { "label": "Google Scholar", "url": "http://scholar.google.com/citations?user=mJuHh7UAAAAJ"},
+            {"label":"Github", "url": "https://github.com/thanyu-hub"}
+        ],
+        "details": [
+            {
+                "heading": "Research Interests",
+                "data": [
+                    "Semantic segmentation models on very high-resolution remote sensing imagery"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Mark Agnello Alexraj",
+        "category": "Masters Student",
+        "position": "",
+        "email": "maalexra@uark.edu",
+        "photo": "",
+        "years": "Since Jan 2025",
+        "bio": "Mark is a lab assistant at the AICV Lab, working on machine learning–based weather prediction. His current research focuses on forecasting fog conditions in Northwest Arkansas using data from NWA Airport, with the broader goal of improving model accuracy across multiple weather types.",
+        "details": [
+            {
+                "heading": "Research Interests",
+                "data": [
+                    "ML weather Prediction"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Hao Vo",
+        "category": "Masters Student",
+        "position": "",
+        "email": "haov@uark.edu",
+        "photo": "hao_vo.jpg",
+        "years": "Since 2025",
+        "bio": "Hao Vo is a Research Assistant at the AICV Lab, specializing in multi-camera tracking and video understanding. His expertise includes advanced computer vision methodologies, multi-modal video analytics, and their practical deployment in real-world environments.",
+        "details": [
+            {
+                "heading": "Research Interests",
+                "data": [
+                    "Multi-camera tracking",
+                    "Video understanding"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Farid Hashemian",
+        "category": "Masters Student",
+        "position": "",
+        "email": "sfhashem@uark.edu",
+        "photo": "farid_hashemian.jpeg",
+        "years": "Since 2023",
+        "bio": "Farid Hashemian is a master’s student whose research focuses on machine learning and statistical methods for complex, high-dimensional data. His work emphasizes scalable algorithms and robust representations for incomplete and uncertain data, with the goal of improving predictive reliability and generalization through optimization-based approaches."
+        ,
+        "links": [
+            { "label": "Google Scholar", "url": "https://scholar.google.com/citations?user=UmFyqKEAAAAJ&hl=en"},
+            { "label": "LinkedIn", "url": "https://www.linkedin.com/in/farid-hashemian-1657b3a9/"}
+        ],
+        "details": [
+            {
+                "heading": "Research Interests",
+                "data": [
+                    "Self-supervised and representation learning",
+                    "Machine learning and statistical learning",
+                    "Data-driven decision-making and prescriptive analytics"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Annie Prasanna Manoharan",
+        "category": "Masters Student",
+        "position": "",
+        "email": "am442@uark.edu",
+        "photo": "annie_prasanna.png",
+        "years": "Since 2024",
+        "bio": "Annie Prasanna is a Research Assistant at the AICV Lab and started her Master’s in Computer Engineering in Fall 2024.",
+        "links": [
+            { "label": "LinkedIn", "url": "https://www.linkedin.com/in/https://www.linkedin.com/in/annie-prasanna/"},
+            {"label":"Github", "url": "https://github.com/Annie0159"}
+        ]
+    },
+    {
+        "name": "Samuel Michael Lin",
+        "category": "Masters Student",
+        "position": "",
+        "email": "",
+        "photo": "no_pic.png",
+        "years": "Since 2024",
+        "bio": ""
+    },
+    {
+        "name": "Winston Bounsavy",
+        "category": "Undergraduate Student",
+        "position": "",
+        "email": "bounsavy@uark.edu",
+        "photo": "winston_bounsavy.jpg",
+        "years": "Since 2022",
+        "bio": "",
+        "links": [
+            {"label":"Github", "url": "https://github.com/Wolla98"}
+        ]
+    },
+    {
+        "name": "Ethan Coffman",
+        "category": "Undergraduate Student",
+        "position": "",
+        "email": "ejc012@uark.edu",
+        "photo": "coffman.jpg",
+        "years": "Since 2024",
+        "bio": "Ethan is an undergraduate research assistant at the AICV lab. He currently assists with research related to computer vision and thermal imaging. Ethan is also a member of the honor’s college at the University of Arkansas and currently is a part of the undergraduate research experience.",
+        "links": [
+            {"label":"Github", "url": "https://github.com/ecoffman1"}
+        ]
+    },
+    {
+        "name": "Kevin Joo",
+        "category": "Visiting Scholar",
+        "position": "",
+        "email": "",
+        "photo": "kevin_joo.jpg",
+        "years": "May 2022 - Aug 2022",
+        "bio": "",
+        "links": [
+            { "label": "Google Scholar", "url": "http://scholar.google.com/citations?user=5DxdB_wAAAAJ"},
+            { "label": "LinkedIn", "url": "https://www.linkedin.com/in/kevin-joo"},
+            { "label": "Github", "url": "https://github.com/joos2010kj"}
+        ]
+    },
+    {
+        "name": "Kashu Yamazaki",
+        "category": "Alumni",
+        "position": "",
+        "email": "kyamazak@uark.edu",
+        "photo": "kashu_yamazaki.jpg",
+        "years": "BASc (graduated 2022) - Meta",
+        "bio": "Kashu received a M.S. degree in computer science from the University of Arkansas, Fayetteville, in 2023. Previously, he received a B.S. degree with summa cum laude in mechanical engineering from the University of Arkansas, Fayetteville, in 2020. His research interests are vision-language models and robotics. He has authored publications appearing in international conferences and journals. He is a member of Tau Beta Pi."
+        ,
+        "links": [
+            { "label": "Google Scholar", "url": "https://scholar.google.com/citations?user=TF2LRvMAAAAJ"},
+            { "label": "LinkedIn", "url": "https://www.linkedin.com/in/kashu-y-51a62b128"},
+            { "label": "Github", "url": "https://github.com/Kashu7100"}
+        ]
+    },
+    {
+        "name": "Gustavo Gracia",
+        "category": "Alumni",
+        "position": "",
+        "email": "",
+        "photo": "gustavo_gracia.png",
+        "years": "BASc (graduated 2022) - Meta",
+        "bio": "",
+        "links": [
+            { "label": "LinkedIn", "url": "https://www.linkedin.com/in/gustavogarcia99"}
+        ]
+    },
+    {
+        "name": "Adrian de Luis",
+        "category": "Alumni",
+        "position": "",
+        "email": "ad084@uark.edu",
+        "photo": "adrian_luis.png",
+        "years": "MSc (graduated 2023) - Dell",
+        "bio": "Adrian de Luis was a Research Assistant at the AICV Lab. He started his Master’s of Science in Computer Science in January 2022 after working at GMV for around 3 years. He was part of the team which developed the Precise Positioning algorithm included in the next generation of vehicles for the BMW group at the time. Before his time at GMV, he graduated from the Bachelor’s of Science at the Universidad Carlos III in Telecommunication Technologies Engineering."
+        ,
+        "links": [
+            { "label": "LinkedIn", "url": "https://www.linkedin.com/in/adrian-de-luis-b113231b5/"}
+        ],
+        "details": [
+            {
+                "heading": "Research Interests",
+                "data": [
+                    "Remote Sensing focused on aerial imagery"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Sang Truong",
+        "category": "Alumni",
+        "position": "",
+        "email": "",
+        "photo": "sang_truong.jpg",
+        "years": "MSc (graduated 2023)",
+        "bio": ""
+        ,
+        "links": [
+            { "label": "Google Scholar", "url": "https://scholar.google.com/citations?user=JG2yzhgAAAAJ"}
+        ],
+        "details": [
+            {
+                "heading": "Research Interests",
+                "data": [
+                    "Remote Sensing focused on aerial imagery"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Noah Core",
+        "category": "Alumni",
+        "position": "",
+        "email": "",
+        "photo": "noah_core.png",
+        "years": "BSc (graduated 2023)",
+        "bio": ""
+    },
+    {
+        "name": "Kala Rohit",
+        "category": "Alumni",
+        "position": "",
+        "email": "",
+        "photo": "kala_rohit.png",
+        "years": "BSc (graduated 2023)",
+        "bio": ""
+        ,
+        "links": [
+            { "label": "LinkedIn", "url": "https://www.linkedin.com/in/rohit-kala-1b891a179"}
+        ]
+    },
+    {
+        "name": "Anh Tran",
+        "category": "Alumni",
+        "position": "",
+        "email": "anhtran@uark.edu",
+        "photo": "anh_tran.png",
+        "years": "BSc (graduated 2025) - Tyson",
+        "bio": ""
+    },
+    {
+        "name": "Malachi Massey",
+        "category": "Alumni",
+        "position": "",
+        "email": "mm204@uark.edu",
+        "photo": "malachi_massey.jpg",
+        "years": "BSc (graduated 2025) - Moss & Associates",
+        "bio": "Malachi Massey was a Research Assistant in the AICV lab. He worked on aerial Solar PV image analysis with Esteban Duran Marti. He has internship experience in the solar industry."
+        ,
+        "links": [
+            { "label": "LinkedIn", "url": "https://www.linkedin.com/in/malachi-massey-6005bb199"},
+            { "label": "Github", "url": "https://github.com/MalachiMassey"}
+        ]
+    },
+    {
+        "name": "Esteban Duran Marti",
+        "category": "Alumni",
+        "position": "",
+        "email": "eaduran@uark.edu",
+        "photo": "esteban_duran.jpeg",
+        "years": "Masters Graduate May 2025 - capSpite",
+        "bio": "Esteban Duran Marti was a Research Assistant at the AICV Lab. He finished his Master’s in Operations Management on Spring 2025. He obtained Advanced Air Mobility Autonomous Operations MicroCertificate and a certificate in Project Management. He has experience creating mobile application, working on various startup companies and JB Hunt.",
+        "links": [
+            { "label": "LinkedIn", "url": "https://www.linkedin.com/in/https://www.linkedin.com/in/esteban-duran-marti/"},
+            { "label": "Github", "url": "https://github.com/Estebanadm"}
+        ]
+    },
+    {
+        "name": "Phillip Cannon",
+        "category": "Alumni",
+        "position": "",
+        "email": "",
+        "photo": "phillip_cannon.png",
+        "years": "Masters Graduate Dec 2025 - CTO at LexMed",
+        "bio": ""
+    },
+        {
+        "name": "Frederick Bumgarner",
+        "category": "Alumni",
+        "position": "",
+        "email": "jzbumgar@uark.edu",
+        "photo": "frederick_bumgarner.png",
+        "years": "Undergraduate Dec 2025 - NextGen",
+        "bio": "Frederick Bumgarner was a lab assistant at the AICV Lab. He was working under Khoa Voho on research into 3D object tracking and analysis."
+        ,
+        "links": [
+            { "label": "Github", "url": "https://github.com/FrederickThemar"}
+        ]
+    },
+    {
+        "name": "Yuki Ikebe",
+        "category": "Masters Student",
+        "position": "",
+        "email": "yikebe@uark.edu",
+        "photo": "yuki_ikebe.png",
+        "years": "Since 2024",
+        "bio": "Yuki Ikebe is a Research Assistant at the AICV Lab. His research focuses on super-resolution in remote sensing."
+        ,
+        "links": [
+            { "label": "Google Scholar", "url": "https://scholar.google.com/citations?hl=en&user=4obQ9wsAAAAJ"},
+            {"label": "LinkedIn", "url": "https://www.linkedin.com/in/yuki-ikebe-091118255"}
+        ]
+    },
+    {
+        "name": "Johnmark Clements",
+        "category": "Undergraduate Student",
+        "position": "",
+        "email": "jwc025@uark.edu",
+        "photo": "johnmark_clements.jpg",
+        "years": "Since 2024",
+        "bio": "Johnmarck is a senior student in the computer science department at the University of Arkansas. For the past two years he has been working as a research assistant with Minh Tran on a virtual try-on project.",
+        "links": [
+            {"label":"LinkedIn", "url":"https://www.linkedin.com/in/https://www.linkedin.com/in/johnmark-clements-364045257/"},
+            { "label": "Github", "url": "https://github.com/https://github.com/JohnmarkC"}
+        ]
+
+    },
+    {
+        "name": "Bryan Williams",
+        "category": "Undergraduate Student",
+        "position": "",
+        "email": "bryanw@uark.edu",
+        "photo": "bryan_williams.png",
+        "years": "Since 2024",
+        "bio": "Bryan is a senior Computer Science major in the honors college with a strong interest in pursuing a career in machine learning. My research focuses on video-based action recognition using multi-camera data. For my honors thesis, I plan to built an end-to-end deep learning pipeline for long-horizon action recognition and evaluated multiple spatiotemporal model architectures."
+        ,
+        "links": [
+            { "label": "LinkedIn", "url": "www.linkedin.com/in/bryan-williams-81a6b5220"}
+        ],
+        "details": [
+            {
+                "heading": "Research Interests",
+                "data": [
+                    "Video-based action recognition",
+                    "Multi-camera systems"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Gladys Gawugah",
+        "category": "Masters Student",
+        "position": "",
+        "email": "ggawugah@uark.edu",
+        "photo": "gladys_gawugah.jpg",
+        "years": "Since 2024",
+        "bio": "Gladys is a master’s student in the Computer Science Department. Her research interests include computer vision, with a focus on small object detection, occlusion-aware learning, and image segmentation to improve performance in challenging real-world visual environments.",
+        "details": [
+            {
+                "heading": "Research Interests",
+                "data": [
+                    "Occlusion-aware learning",
+                    "Small object detection",
+                    "Image segmentation"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Sreevenkata Anjani Tishita Godavarthi",
+        "category": "Masters Student",
+        "position": "",
+        "email": "sg221@uark.edu",
+        "photo": "sreevenkata.jpeg",
+        "years": "Since 2025",
+        "bio": "Sreevenkata is a Computer Science graduate student currently pursuing her master’s degree at the University of Arkansas and a member of the AICV Lab. Her research interests include machine learning, deep learning, and computer vision, with experience in crowd analysis, and object detection. She has worked on research-oriented projects involving real-world datasets, focusing on scalable and practical computing solutions.",
+        "links": [
+            { "label": "LinkedIn", "url": "https://www.linkedin.com/in/tishita-godavarthi/"}
+        ],
+        "details": [
+            {
+                "heading": "Research Interests",
+                "data": [
+                    "Object detection",
+                    "Machine Learning",
+                    "Computer Vision"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Phu Loc Nguyen",
+        "category": "Masters Student",
+        "position": "",
+        "email": "pnguyen4@uark.edu",
+        "photo": "phu_loc_nguyen.jpg",
+        "years": "Since 2026",
+        "bio": "Phu Loc Nguyen is a Research Assistant at the AICV Lab, University of Arkansas. He received his Bachelor’s degree in Artificial Intelligence from VNU University of Engineering and Technology, Vietnam. He is currently pursuing his M.Sc. degree at the University of Arkansas. His research interests lie in medical image analysis, deep learning–based segmentation, computer vision, and multimodal learning.",
+        "links": [
+            { "label": "LinkedIn", "url": "https://www.linkedin.com/in/phulocnguyen/"}
+        ],
+        "details": [
+            {
+                "heading": "Research Interests",
+                "data": [
+                    "Medical image analysis",
+                    "Deep learning–based segmentation",
+                    "Multimodal learning"
+                ]
+            }
+        ]
+    }
+
+]
