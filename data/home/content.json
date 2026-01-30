@@ -1,0 +1,115 @@
+{
+  "hasOpenPositions": true,
+  "news":[
+    {
+        "date": "2024-12-12",
+        "title": "Honors College Research Award",
+        "summary": "Congrats to Winston, Johnmark, Taisei, Malachi, Bryan for the Honors College Research Award.",
+        "image": "uark_image.png"
+    },
+    {
+        "date": "2024-12-12",
+        "title": "SURF Award",
+        "summary": "Congrats to Ethan and Anh for the SURF Award",
+        "image": "uark_image.png"
+    },
+    {
+        "date": "2025-02-25",
+        "title": "New AI Tool Mimics Radiologist Gaze to Read Chest X-Rays",
+        "summary":"Le and her team, in collaboration with the MD Anderson Cancer Center in Houston, are now working to refine ItpCtrl-AI so it can read more complex, three-dimensional CT scans.",
+        "image": "news1.jpg",
+        "link":"https://news.uark.edu/articles/75787/new-ai-tool-mimics-radiologist-gaze-to-read-chest-x-rays"
+    },
+    {
+        "date": "2025-09-10",
+        "title": "Ngan Le Receives Prestigious NSF CAREER Award for AI Research",
+        "summary":"Ngan Le, an associate professor in the Department of Electrical Engineering and Computer Science, has been awarded the prestigious National Science Foundation Faculty Early Career Development award.",
+        "image": "news2.jpg",
+        "link":"https://news.uark.edu/articles/79972/ngan-le-receives-prestigious-nsf-career-award-for-ai-research"
+    },
+    {
+        "date": "2025-04-28",
+        "title": "Technology Ventures Inventor's Spotlight: Ngan Le",
+        "summary":"Through her research on artificial intelligence and computer vision, Ngan Le works to bridge the gap between human intuition and machine logic.",
+        "image": "news3.jpg",
+        "link":"https://news.uark.edu/articles/77380/technology-ventures-inventor-s-spotlight-ngan-le"
+    },
+    {
+        "date": "2025-10-31",
+        "title": "Outstanding Paper Award at Ranking A* conference ACM MM 2025",
+        "summary":"“Interpreting Radiologist’s Intention from Eye Movements in Chest X-ray Diagnosis” Authors: Trong-Thang Pham, Anh Nguyen, Zhigang Deng, Carol C. Wu, Hien Van Nguyen, Ngan Le",
+        "image": "news4.png",
+        "link":"https://acmmm2025.org/awards/"
+    },
+    {
+        "date": "2026-01-06",
+        "title": "New AI Tool Can Take Cattle's Temperature With Only a Photo",
+        "summary":"Trong-Thang Pham, and other authors, have developed CattleFever, an automated system that can accurately estimate body temperature of cattle using artificial intelligence and thermal cameras.",
+        "image": "cattle_temperature.jpg",
+        "link":"https://news.uark.edu/articles/80570/new-ai-tool-can-take-cattle-s-temperature-with-only-a-photo"
+    }
+  ],
+  "sponsors": [
+    {
+      "name": "Adisseo",
+      "logo": "adisseo.png",
+      "group": "industrial"
+    },
+    {
+      "name": "AI_Sustein",
+      "logo": "ai_sustein.webp",
+      "group": "federal"
+    },
+    {
+      "name": "Aviagen",
+      "logo": "aviagen.jpg",
+      "group": "industrial"
+    },
+    {
+      "name": "Cobb",
+      "logo": "cobb.png",
+      "group": "industrial"
+    },
+    {
+      "name": "NIH",
+      "logo": "nih.jpg",
+      "group": "federal"
+    },
+    {
+      "name": "NSF",
+      "logo": "nsf.jpg",
+      "group": "federal"
+    },
+    {
+      "name": "Tyson",
+      "logo": "tyson.png",
+      "group": "industrial"
+    },
+    {
+      "name": "UA_Power_Group",
+      "logo": "ua_power_group.png",
+      "group": "internal"
+    },
+    {
+      "name": "Uark_Agri",
+      "logo": "uark_agri.jpg",
+      "group": "internal"
+    },
+    {
+      "name": "Uark_Engineering",
+      "logo": "uark_eng.jpg",
+      "group": "internal"
+    },
+    {
+      "name": "Winnow",
+      "logo": "winnow.jpg",
+       "group": "industrial"
+    },
+    {
+      "name": "Walmart",
+      "logo": "walmart.png",
+      "group": "industrial"
+    }
+
+  ]
+}
