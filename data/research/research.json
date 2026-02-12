@@ -20,7 +20,7 @@
   },
   {
     "title": "Robot Perception",
-    "icons": ["data/research/images/robot_perception_1.png", "data/research/images/robot_perception_2.png"],
+    "icons": ["data/research/images/robot_perception_1.png", "data/research/images/turtlebot.jpeg", "data/research/images/robot_perception_3.png", "data/research/images/robot_perception_4.png"],
     "items": ["3D Reconstruction",
               "Affordance Detection",
               "Robot Manipulation",

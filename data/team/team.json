@@ -696,6 +696,34 @@
                 ]
             }
         ]
+    },
+    {
+        "name": "Sieu Tran",
+        "category": "PhD Student",
+        "position": "",
+        "email": "stran5@uark.edu",
+        "photo": "sieu_tran.jpg",
+        "years": "Since 2026",
+        "bio": "Sieu Tran is a Graduate Assistant working in the area of video understanding and multimodal artificial intelligence. His research explores methods for extracting meaningful representations from video by combining information across multiple modalities.",
+        "details": [
+            {
+                "heading": "Research Interests",
+                "data": [
+                    "Multimodal learning",
+                    "Video Analystics",
+                    "Development of intelligent systems for real-world visual understanding tasks"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Minh Duc Nguyen",
+        "category": "Masters Student",
+        "position": "",
+        "email": "",
+        "photo": "",
+        "years": "Since 2026",
+        "bio": ""
     }
 
 ]

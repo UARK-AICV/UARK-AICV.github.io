@@ -1,5 +1,141 @@
 [
     {
+        "title": "Clutter-Resistant Vision-Language-Action Models through Object-Centric and Geometry Grounding",
+        "url": "https://arxiv.org/abs/2512.22519",
+        "image": "vo_preprint2026.png",
+        "type": "Conference",
+        "authors": "K. Vo, T. Hanyu, Y. Ikebe, T. Pham, N. Chung, M. N. Vu, D. N. H. Minh, A. Nguyen, A. Gunderman, C. Rainwater, N. Le",
+        "year": 2026
+    },
+    {
+        "title": "DuFal: Dual-Frequency-Aware Learning for High-Fidelity Extremely Sparse-view CBCT Reconstruction",
+        "url": "https://arxiv.org/abs/2601.15416",
+        "image": "van_tmlr2026.png",
+        "type": "Journal",
+        "authors": "C. T. Van, T. Pham, N. S. Nguyen, D. M. H. Nguyen, N. Le",
+        "year": 2026
+    },
+    {
+        "title": "Slotvla: Towards modeling of object-relation representations in robotic manipulation",
+        "url": "https://arxiv.org/abs/2511.06754",
+        "image": "hanyu_icra2026.png",
+        "type": "Conference",
+        "authors": "T. Hanyu, N. Chung, H. Le, T. Nguyen, Y. Ikebe, A. Gunderman, D. N. H. Minh, K. Vo, T. Kieu, K. Yamazaki, C. Rainwater, A. Nguyen, N. Le",
+        "year": 2026
+    },
+    {
+        "title": "Rethinking Progression of Memory State in Robotic Manipulation: An Object-Centric Perspective",
+        "url": "https://arxiv.org/abs/2511.11478",
+        "image": "chung_aaai2026.png",
+        "type": "Conference",
+        "authors": "N. Chung, T. Hanyu, T. Nguyen, H. Le, F. Bumgarner, D. M. H. Nguyen, K. Vo, K. Yamazaki, C. Rainwater, T. Kieu, A. Nguyen, N. Le",
+        "year": 2026
+    },
+    {
+        "title": "UNO: Unifying One-stage Video Scene Graph Generation via Object-Centric Visual Representation Learning",
+        "url": "https://arxiv.org/abs/2509.06165",
+        "image": "le_wacv2026.png",
+        "type": "Conference",
+        "authors": "H. Le, N. Chung, T. Kieu, J. Yang, N. Le",
+        "year": 2026
+    },
+    {
+        "title": "TolerantECG: A Foundation Model for Imperfect Electrocardiogram",
+        "url": "https://dl.acm.org/doi/abs/10.1145/3746027.3755287",
+        "image": "nguyen_acm2025.png",
+        "type": "Journal",
+        "authors": "H. D. Nguyen, T. Pham, N. Le, V. Nguyen",
+        "year": 2025
+    },
+    {
+        "title": "Learning Human Motion with Temporally Conditional Mamba",
+        "url": "https://dl.acm.org/doi/abs/10.1145/3757377.3763948",
+        "image": "nguyen_siggraph2025.jpg",
+        "type": "Conference",
+        "authors": "Q. Nguyen, T. Le, B. Huang, M.N. Vu, N. Le, T. Vo, A. Nguyen",
+        "year": 2025
+    },
+    {
+        "title": "CattleFever: An Automated Cattle Fever Estimation System",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2772375525006653",
+        "image": "pham_smartagriculture2025.jpg",
+        "type": "Journal",
+        "authors": "T. Pham, E. Coffman, B. Kegley, N Le",
+        "year": 2025
+    },
+    {
+        "title": "BroilerTrack: Automatic Multi-Camera Multi-Broiler Tracking",
+        "url": "https://www.sciencedirect.com/science/article/pii/S277237552500543X",
+        "image": "phan_smartagriculture.jpg",
+        "type": "Journal",
+        "authors": "T. Phan, H. K. Tran, A. Lockett, I. Phillips, H. Vo, D. Le, M. T. Kidd, J. Mason, S. Avendano, N. Le",
+        "year": 2025
+    },
+    {
+        "title": "DualFit: A Two-Stage Virtual Try-On via Warping and Synthesis",
+        "url": "https://openaccess.thecvf.com/content/ICCV2025W/RetailVision/html/Tran_DualFit_A_Two-Stage_Virtual_Try-On_via_Warping_and_Synthesis_ICCVW_2025_paper.html",
+        "image": "tran_iccv2025.png",
+        "type": "Conference",
+        "authors": "M. Tran, J. Clements, A. Prasanna, T. Nguyen, N. Le",
+        "year": 2025
+    },
+    {
+        "title": "EgoMusic-driven Human Dance Motion Estimation with Skeleton Mamba",
+        "url": "https://openaccess.thecvf.com/content/ICCV2025/html/Nguyen_EgoMusic-driven_Human_Dance_Motion_Estimation_with_Skeleton_Mamba_ICCV_2025_paper.html",
+        "image": "nguyen_iccv2025.png",
+        "type": "Conference",
+        "authors": "Q. Nguyen, N. Le, B. Huang, M. N. Vu, C. Tang, V. Nguyen, N. Le, T. Vo, A. Nguyen",
+        "year": 2025
+    },
+    {
+        "title": "Land8Fire: A Complete Study on Wildfire Segmentation Through Comprehensive Review, Human-Annotated Multispectral Dataset, and Extensive Benchmarking",
+        "url": "https://www.mdpi.com/2072-4292/17/16/2776",
+        "image": "",
+        "type": "Journal",
+        "authors": "A. Tran, M. Tran, E. Duran, J. Cothren, C. Rainwater, S. Eksioglu, N. Le",
+        "year": 2025
+    },
+    {
+        "title": "Collaborative Integration of AI and Human Expertise to Improve Detection of Chest Radiograph Abnormalities",
+        "url": "https://pubs.rsna.org/doi/abs/10.1148/ryai.240277",
+        "image": "aswathi_radiology.png",
+        "type": "Journal",
+        "authors": "A. Awasthi, N. Le, Z. Deng, C.C. Wu, H.V. Nguyen",
+        "year": 2025
+    },
+    {
+        "title": "Interpreting Radiologist's Intention from Eye Movements in Chest X-ray Diagnosis",
+        "url": "https://dl.acm.org/doi/abs/10.1145/3746027.3755039",
+        "image": "pham_acmmm.png",
+        "type": "Conference",
+        "authors": "T. Pham, A. Nguyen, Z. Deng, C.C. Wu, H. V. Nguyen, N. Le",
+        "year": 2025
+    },
+    {
+        "title": "CT-ScanGaze: A Dataset and Baselines for 3D Volumetric Scanpath Modeling",
+        "url": "https://openaccess.thecvf.com/content/ICCV2025/html/Pham_CT-ScanGaze_A_Dataset_and_Baselines_for_3D_Volumetric_Scanpath_Modeling_ICCV_2025_paper.html",
+        "image": "pham_iccv2025.png",
+        "type": "Conference",
+        "authors": "T. Pham, A. Awasthi, S. Khan, E. Duran, T. Nguyen, K. Vo, M. Tran, N. S. Nguyen, C. T. Van, Y. Ikebe, A. T. Nguyen, A. Nguyen, Z. Deng, C. C. Wu, H. V. Nguyen, N. Le",
+        "year": 2025
+    },
+    {
+        "title": "BiMa: Towards Biases Mitigation for Text-Video Retrieval via Scene Element Guidance",
+        "url": "https://dl.acm.org/doi/pdf/10.1145/3746027.3754833",
+        "image": "le_acmmm.png",
+        "type": "Conference",
+        "authors": "H. Le, N. Chung, T. Kieu, A. Nguyen, N. Le",
+        "year": 2025
+    },
+    {
+        "title": "MAARTA: Multi-Agentic Adaptive Radiology Teaching Assistant",
+        "url": "https://arxiv.org/pdf/2506.17320",
+        "image": "Awasthi_miccai.png",
+        "type": "Conference",
+        "authors": "A. Awasthi, B. V. Chang, A. M. Vu, N. Le, R. Agrawal, Z. Deng, C. Wu, H. Nguyen",
+        "year": 2025
+    },
+    {
         "title": "Enhancing Radiological Diagnosis: A Collaborative Approach Integrating AI and Human Expertise for Visual Miss Correction",
         "url": "https://arxiv.org/abs/2406.19686",
         "image": "",
@@ -13,6 +149,14 @@
         "image": "",
         "type": "Conference",
         "authors": "E. Duran, M. Tran, M. Massey, A. Gracia, T. Hanyu, A. Tran, R. McCann, H. Liao, J. Cothren, M. Adkins, C. Rainwater, Y. Huang, A. Mantooth, N. Le",
+        "year": 2025
+    },
+    {
+        "title": "Facial Chick Sexing: An Automated Chick Sexing System from Chick Facial Image",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2772375525002771?ssrnid=5210639&dgcid=SSRN_redirect_SD",
+        "image": "marta_ssrn2024.png",
+        "type": "Journal",
+        "authors": "M. Veganzones Rodriguez, T. Phan, A. Fernandes, V. Breen, J. Arango, M. Kidd, N. Le",
         "year": 2025
     },
     {
@@ -73,7 +217,7 @@
     },
     {
         "title": "S3Former: Self-supervised High-resolution Transformer for Solar PV Profiling",
-        "url": "https://arxiv.org/abs/2405.04489",
+        "url": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10874220",
         "image": "tran_ieee2025.png",
         "type": "Conference",
         "authors": "M. Tran, A. D. Luis, H. Liao, Y. Huang, R. McCann, A. Mantooth, J. Cothren, N. Le",
@@ -141,14 +285,6 @@
         "image": "anh_accv2024.png",
         "type": "Conference",
         "authors": "D. L. D. Anh, K. H. Tran, Q.-T Nguyen, N. H. Le",
-        "year": 2024
-    },
-    {
-        "title": "Facial Chick Sexing: An Automated Chick Sexing System from Chick Facial Image",
-        "url": "https://www.sciencedirect.com/science/article/pii/S2772375525002771?ssrnid=5210639&dgcid=SSRN_redirect_SD",
-        "image": "marta_ssrn2024.png",
-        "type": "Journal",
-        "authors": "M. V. Rodriguez, T. Phan, A. Fernandes, V. Breen, J. Arango, M. Kidd, N. Le",
         "year": 2024
     },
     {

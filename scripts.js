@@ -465,7 +465,7 @@ async function renderResearchPage() {
 
         return `
             <div class="py-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-                <h2 class="text-4xl font-extrabold text-gray-900 mb-10 border-b-4 pb-3 border-gray-500">Research Areas</h2>
+                <h2 class="text-4xl font-extrabold text-gray-900 mb-10 border-b-4 pb-3 border-gray-500">Research focus: Robust, Trustworthy, and Efficient Multimodal Learning</h2>
                 <div class="mb-12">
                     <p class="text-lg text-gray-600 mt-4">Explore our ongoing research in Computer Vision, Robotics, and Human-AI Interaction.</p>
                 </div>
@@ -480,7 +480,7 @@ async function renderResearchPage() {
         console.error('Error rendering Research page:', error);
         return `
             <div class="py-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-                <h2 class="text-4xl font-extrabold text-gray-900 mb-10 border-b-4 pb-3 border-gray-500">Research Areas</h2> 
+                <h2 class="text-4xl font-extrabold text-gray-900 mb-10 border-b-4 pb-3 border-gray-500">Research focus: Robust, Trustworthy, and Efficient Multimodal Learning</h2> 
                 <p class="text-red-600 bg-red-50 p-4 rounded-lg">Error loading research data. Please try again later.</p>
             </div>
         `;
