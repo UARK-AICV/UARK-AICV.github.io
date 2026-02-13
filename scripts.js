@@ -222,7 +222,7 @@ async function renderTeamPage() {
     // --- Define Custom Sorting Order ---
     const positionOrder = {
         "Staff": 1, "PhD Student": 2,
-        "Masters Student": 3, "Undergraduate Student": 4, "Visiting Scholar": 5, "Alumni": 6, "Other": 99
+        "Masters Student": 3, "Undergraduate Student": 4, "Alumni": 5, "Visiting Scholar": 6, "Other": 99
     };
 
     // --- Group Data ---
