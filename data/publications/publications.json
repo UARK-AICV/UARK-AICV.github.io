@@ -90,7 +90,7 @@
     {
         "title": "Land8Fire: A Complete Study on Wildfire Segmentation Through Comprehensive Review, Human-Annotated Multispectral Dataset, and Extensive Benchmarking",
         "url": "https://www.mdpi.com/2072-4292/17/16/2776",
-        "image": "",
+        "image": "tran_mdpi2025.png",
         "type": "Journal",
         "authors": "A. Tran, M. Tran, E. Duran, J. Cothren, C. Rainwater, S. Eksioglu, N. Le",
         "year": 2025
@@ -98,7 +98,7 @@
     {
         "title": "Collaborative Integration of AI and Human Expertise to Improve Detection of Chest Radiograph Abnormalities",
         "url": "https://pubs.rsna.org/doi/abs/10.1148/ryai.240277",
-        "image": "aswathi_radiology.png",
+        "image": "awasthi_radiology.png",
         "type": "Journal",
         "authors": "A. Awasthi, N. Le, Z. Deng, C.C. Wu, H.V. Nguyen",
         "year": 2025
@@ -138,7 +138,7 @@
     {
         "title": "Enhancing Radiological Diagnosis: A Collaborative Approach Integrating AI and Human Expertise for Visual Miss Correction",
         "url": "https://arxiv.org/abs/2406.19686",
-        "image": "",
+        "image": "awasthi_radiology2025.png",
         "type": "Conference",
         "authors": "A. Awasthi, N. Le, Z. Deng, CC. Wu, H. V. Nguyen",
         "year": 2025
@@ -146,7 +146,7 @@
     {
         "title": "SolarFormer++: Multi-scale Transformer for Solar PV Profiling and Obstruction Localization for Degradation Mitigation",
         "url": "https://ieeexplore.ieee.org/abstract/document/11017409",
-        "image": "",
+        "image": "duran_ieee2025.png",
         "type": "Conference",
         "authors": "E. Duran, M. Tran, M. Massey, A. Gracia, T. Hanyu, A. Tran, R. McCann, H. Liao, J. Cothren, M. Adkins, C. Rainwater, Y. Huang, A. Mantooth, N. Le",
         "year": 2025
