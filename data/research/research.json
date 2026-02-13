@@ -1,7 +1,7 @@
 [
   {
     "title": "Computer Vision",
-    "icons": ["/data/research/images/computer_vision_1.png", "/data/research/images/computer_vision_2.png", "/data/research/images/computer_vision_3.png", "/data/research/images/computer_vision_4.png", "/data/research/images/computer_vision_5.png"],
+    "icons": ["/data/research/images/computer_vision_1.png", "/data/research/images/computer_vision_2.png", "/data/research/images/computer_vision_3.png", "/data/research/images/computer_vision_4.png"],
     "items": ["Object Localization",
               "Amodal Perception",
               "Video Understanding",
