@@ -405,7 +405,7 @@ function openTeamModal(memberId) {
             <div class="sm:w-2/3 w-full text-left">
                 <div class="border-b border-gray-200 pb-3 mb-4">
                     <h3 class="text-3xl font-bold text-gray-900 leading-tight">${member.name}</h3>
-                    <p class="text-lg text-black font-semibold mt-1">${member.position}</p>
+                    ${member.position ? `<p class="text-lg text-black font-semibold mt-1">${member.position}</p>` : ''}
                     <p class="text-sm text-gray-500">${member.years || ''}</p>
                 </div>
 
@@ -465,7 +465,7 @@ async function renderResearchPage() {
 
         return `
             <div class="py-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-                <h2 class="text-4xl font-extrabold text-gray-900 mb-10 border-b-4 pb-3 border-gray-500">Research focus: Robust, Trustworthy, and Efficient Multimodal Learning</h2>
+                <h2 class="text-4xl font-extrabold text-gray-900 mb-10 border-b-4 pb-3 border-gray-500">Robust, Trustworthy, and Efficient Multimodal Learning</h2>
                 <div class="mb-12">
                     <p class="text-lg text-gray-600 mt-4">Explore our ongoing research in Computer Vision, Robotics, and Human-AI Interaction.</p>
                 </div>
@@ -521,6 +521,11 @@ async function renderPublicationsPage() {
                 <p class="text-gray-600 text-sm font-medium leading-relaxed">
                     ${pub.authors}
                 </p>
+                ${pub.award ? `
+                <p class="text-sm font-semibold text-yellow-700 mt-2">
+                    🏆 ${pub.award}
+                </p>
+                ` : ''}
             </div>
         </div>`;
     };
@@ -535,7 +540,7 @@ async function renderPublicationsPage() {
 
     // --- 3. Sort Years Descending ---
     const sortedYears = Object.keys(groupedByYear).sort((a, b) => b - a);
-
+    const newestYear = sortedYears[0]; // TABS
     // --- 4. Build HTML ---
     const contentHtml = sortedYears.map(year => {
         const pubs = groupedByYear[year];
@@ -543,43 +548,105 @@ async function renderPublicationsPage() {
         // Filter by Type
         const journals = pubs.filter(p => p.type && p.type.toLowerCase().includes('journal'));
         const conferences = pubs.filter(p => p.type && p.type.toLowerCase().includes('conference'));
-
+        //first line for TABS
         return `
-            <div class="mb-12 last:mb-0">
-                <div class="flex items-center mb-6">
-                    <h3 class="text-3xl font-extrabold text-gray-900 mr-4">${year}</h3>
-                    <div class="flex-grow h-1 bg-gray-200 rounded"></div>
+            <div data-pub-year-section="${year}" style="${year === newestYear ? '' : 'display:none;'}"> 
+                <div class="mb-12 last:mb-0">
+                    <div class="flex items-center mb-6">
+                        <h3 class="text-3xl font-extrabold text-gray-900 mr-4">${year}</h3>
+                        <div class="flex-grow h-1 bg-gray-200 rounded"></div>
+                    </div>
+
+                    ${journals.length > 0 ? `
+                        <div class="mb-8">
+                            <h4 class="text-xl font-bold text-gray-800 mb-4 uppercase tracking-wider">Journals</h4>
+                            <div class="bg-white rounded-xl shadow-sm border border-gray-100 px-6">
+                                ${journals.map(renderCard).join('')}
+                            </div>
+                        </div>
+                    ` : ''}
+
+                    ${conferences.length > 0 ? `
+                        <div class="mb-8">
+                            <h4 class="text-xl font-bold text-gray-800 mb-4 uppercase tracking-wider">Conferences</h4>
+                            <div class="bg-white rounded-xl shadow-sm border border-gray-100 px-6">
+                                ${conferences.map(renderCard).join('')}
+                            </div>
+                        </div>
+                    ` : ''}
                 </div>
-
-                ${journals.length > 0 ? `
-                    <div class="mb-8">
-                        <h4 class="text-xl font-bold text-gray-800 mb-4 uppercase tracking-wider">Journals</h4>
-                        <div class="bg-white rounded-xl shadow-sm border border-gray-100 px-6">
-                            ${journals.map(renderCard).join('')}
-                        </div>
-                    </div>
-                ` : ''}
-
-                ${conferences.length > 0 ? `
-                    <div class="mb-8">
-                        <h4 class="text-xl font-bold text-gray-800 mb-4 uppercase tracking-wider">Conferences</h4>
-                        <div class="bg-white rounded-xl shadow-sm border border-gray-100 px-6">
-                            ${conferences.map(renderCard).join('')}
-                        </div>
-                    </div>
-                ` : ''}
             </div>
         `;
     }).join('');
 
+    // --- 5. Tabs + Overflow Dropwdown ---
+    const MAX_VISIBLE_TABS = 4; // show newest 4 years as tabs
+    const visibleYears = sortedYears.slice(0, MAX_VISIBLE_TABS);
+    const overflowYears = sortedYears.slice(MAX_VISIBLE_TABS);
+
+    const tabsHtml = visibleYears.map((y, idx) => `
+        <button
+        type="button"
+        data-pub-year-tab="${y}"
+        onclick="selectPublicationsYear('${y}')"
+        class="px-3 py-2 border-b-2 ${idx === 0 ? 'text-gray-900 border-gray-900 font-bold' : 'text-gray-500 border-transparent font-medium'} hover:text-gray-900 hover:border-gray-400 transition">
+        ${y}
+        </button>
+    `).join('');
+
+    const dropdownHtml = overflowYears.length ? `
+        <select id="pub-year-more"
+        class="ml-auto border border-gray-300 rounded-md px-3 py-2 text-gray-700 bg-white"
+        onchange="if(this.value) selectPublicationsYear(this.value)">
+        <option value="">More ▾</option>
+        ${overflowYears.map(y => `<option value="${y}">${y}</option>`).join('')}
+        </select>
+    ` : '';
+
+
     return ` 
         <div class="py-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <h2 class="text-4xl font-extrabold text-gray-900 mb-10 border-b-4 pb-3 border-gray-500">Publications</h2> 
-            <div class=""> 
+            <div class="flex items-center gap-2 border-b border-gray-200 mb-8"> 
+            ${tabsHtml}
+            ${dropdownHtml}
+            </div>
+
+            <div>
                 ${contentHtml} 
             </div> 
         </div>
     `; 
+}
+
+//Publications tabs
+let selectedPublicationsYear = null;
+
+function selectPublicationsYear(year, skipDropdownReset = false) {
+  selectedPublicationsYear = String(year);
+
+  document.querySelectorAll('[data-pub-year-section]').forEach(el => {
+    el.style.display =
+      (el.getAttribute('data-pub-year-section') === selectedPublicationsYear) ? 'block' : 'none';
+  });
+
+  document.querySelectorAll('[data-pub-year-tab]').forEach(btn => {
+    const active = btn.getAttribute('data-pub-year-tab') === selectedPublicationsYear;
+
+    btn.classList.toggle('text-gray-900', active);
+    btn.classList.toggle('border-gray-900', active);
+    btn.classList.toggle('font-bold', active);
+
+    btn.classList.toggle('text-gray-500', !active);
+    btn.classList.toggle('border-transparent', !active);
+    btn.classList.toggle('font-medium', !active);
+  });
+
+  const dd = document.getElementById('pub-year-more');
+  if (dd && !skipDropdownReset) {
+    if ([...dd.options].some(o => o.value === selectedPublicationsYear)) dd.value = selectedPublicationsYear;
+    else dd.value = "";
+  }
 }
 
 async function renderJoinPage() {
