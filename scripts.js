@@ -516,7 +516,7 @@ async function renderPublicationsPage() {
                 ${pub.venueLogo ? `
                     <img src="data/publications/venue/${pub.venueLogo}"
                         alt="Venue Logo"
-                        class="absolute top-0 right-0 w-18 h-18 object-contain"
+                        class="absolute top-0 right-0 w-16 h-16 object-contain"
                         onerror="this.style.display='none'">
                 ` : ''}
                 <h4 class="text-lg font-bold text-gray-900 leading-snug mb-2 pr-20">
