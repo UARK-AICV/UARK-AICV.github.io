@@ -514,7 +514,7 @@ async function renderPublicationsPage() {
             
             <div class="flex-grow flex flex-col justify-center relative">
                 ${pub.venueLogo ? `
-                    <img src="data/publications/images/${pub.venueLogo}"
+                    <img src="data/publications/venue/${pub.venueLogo}"
                         alt="Venue Logo"
                         class="absolute top-0 right-0 w-12 h-12 object-contain"
                         onerror="this.style.display='none'">
