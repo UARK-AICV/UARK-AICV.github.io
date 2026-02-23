@@ -3,6 +3,7 @@
         "title": "Clutter-Resistant Vision-Language-Action Models through Object-Centric and Geometry Grounding",
         "url": "https://arxiv.org/abs/2512.22519",
         "image": "vo_preprint2026.png",
+        "venueLogo": "ICRA_logo.png",
         "type": "Conference",
         "authors": "K. Vo, T. Hanyu, Y. Ikebe, T. Pham, N. Chung, M. N. Vu, D. N. H. Minh, A. Nguyen, A. Gunderman, C. Rainwater, N. Le",
         "year": 2026
@@ -118,6 +119,7 @@
         "image": "pham_iccv2025.png",
         "type": "Conference",
         "authors": "T. Pham, A. Awasthi, S. Khan, E. Duran, T. Nguyen, K. Vo, M. Tran, N. S. Nguyen, C. T. Van, Y. Ikebe, A. T. Nguyen, A. Nguyen, Z. Deng, C. C. Wu, H. V. Nguyen, N. Le",
+        "award": "Highlight paper",
         "year": 2025
     },
     {
