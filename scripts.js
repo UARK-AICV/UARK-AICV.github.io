@@ -519,7 +519,7 @@ async function renderPublicationsPage() {
                         class="absolute top-0 right-0 w-12 h-12 object-contain"
                         onerror="this.style.display='none'">
                 ` : ''}
-                <h4 class="text-lg font-bold text-gray-900 leading-snug mb-2 pr-16">
+                <h4 class="text-lg font-bold text-gray-900 leading-snug mb-2 pr-14">
                     <a href="${pub.url || '#'}" target="_blank" class="hover:text-gray-600 transition-colors hover:underline decoration-gray-400 underline-offset-2">
                         ${pub.title}
                     </a>
