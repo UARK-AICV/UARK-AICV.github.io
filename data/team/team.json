@@ -321,8 +321,8 @@
     },
     {
         "name": "Taisei Hanyu",
-        "category": ["Masters Student", "Alumni"],
-        "position": "",
+        "category": "Masters Student",
+        "position": "Alumni",
         "email": "thanyu@uark.edu",
         "photo": "taisei_hanyu.jpg",
         "years": "Since 2022",
