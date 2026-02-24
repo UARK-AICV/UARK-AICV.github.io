@@ -227,9 +227,13 @@ async function renderTeamPage() {
 
     // --- Group Data ---
     const groupedData = teamData.reduce((acc, member) => {
-        const positionKey = member.category || 'Other';
-        if (!acc[positionKey]) acc[positionKey] = [];
-        acc[positionKey].push(member);
+        const categories = member.categories || [member.category] || ['Other'];
+
+        categories.forEach(cat => {
+            if (!acc[cat]) acc[cat] = [];
+            acc[cat].push(member);
+        });
+
         return acc;
     }, {});
     
@@ -414,7 +418,7 @@ function openTeamModal(memberId) {
                     
                     <section class="mb-6">
                         <h4 class="text-xs font-bold text-gray-400 uppercase tracking-wider mb-2 border-b border-gray-100 pb-1">Overview</h4>
-                        <p class="text-gray-700 leading-relaxed text-sm">${member.bio || "No biography available."}</p>
+                        ${member.bio ? member.bio.split('\n').map(p => `<p class="text-gray-700 leading-relaxed text-sm mb-4">${p}</p>`).join(''): `<p class="text-gray-700 text-sm">No biography available.</p>`}
                     </section>
 
                     ${detailsHtml}
