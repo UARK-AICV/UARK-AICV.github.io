@@ -342,6 +342,7 @@ function openTeamModal(memberId) {
                                 <div>
                                     <span class="block font-bold text-gray-900">${item.title}</span>
                                     ${item.subtitle ? `<span class="block text-sm text-gray-600">${item.subtitle}</span>` : ''}
+                                    ${item.owners ?  `<span class="block text-sm text-gray-500 mt-1">${item.owners}</span>` : ''}
                                 </div>
                                 ${item.date ? `<span class="text-sm font-medium text-gray-500 bg-gray-100 px-2 py-1 rounded whitespace-nowrap ml-2">${item.date}</span>` : ''}
                             </div>
