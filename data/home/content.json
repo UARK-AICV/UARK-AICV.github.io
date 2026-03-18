@@ -45,9 +45,17 @@
         "date": "2026-01-06",
         "title": "New AI Tool Can Take Cattle's Temperature With Only a Photo",
         "summary":"Trong-Thang Pham, and other authors, have developed CattleFever, an automated system that can accurately estimate body temperature of cattle using artificial intelligence and thermal cameras.",
-        "image": "cattle_temperature.jpg",
+        "image": "news5.jpg",
         "link":"https://news.uark.edu/articles/80570/new-ai-tool-can-take-cattle-s-temperature-with-only-a-photo"
+    },
+    {
+        "date": "2026-03-13",
+        "title": "How is Artificial Intelligence Enhancing Cattle Health Monitoring?",
+        "summary":"Trong-Thang Pham, and other authors, have developed CattleFever, an automated system that can accurately estimate body temperature of cattle using artificial intelligence and thermal cameras.",
+        "image": "news5.jpg",
+        "link":"https://www.drovers.com/news/education/how-artificial-intelligence-enhancing-cattle-health-monitoring"
     }
+
   ],
   "sponsors": [
     {
