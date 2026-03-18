@@ -66,6 +66,16 @@
         "title": "CattleFever: An Automated Cattle Fever Estimation System",
         "url": "https://www.sciencedirect.com/science/article/pii/S2772375525006653",
         "image": "pham_smartagriculture2025.jpg",
+        "venueLogo": "acmmm2025.png",
+        "type": "Conference",
+        "authors": "T. Pham, E. Coffman, B. Kegley, N Le",
+        "award": "Outstanding Paper in Content Theme",
+        "year": 2025
+    },
+    {
+        "title": "CattleFever: An Automated Cattle Fever Estimation System",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2772375525006653",
+        "image": "pham_smartagriculture2025.jpg",
         "venueLogo": "smart_agriculture_logo.jpeg",
         "type": "Journal",
         "authors": "T. Pham, E. Coffman, B. Kegley, N Le",
