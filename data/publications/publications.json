@@ -1,5 +1,14 @@
 [
     {
+        "title": "Miga: Multi-Chicken Gait Assessment",
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5357199",
+        "image": "minh_tran_smartagriculture2026.png",
+        "venueLogo": "smart_agriculture_logo.jpeg",
+        "type": "Journal",
+        "authors": "M. Tran, A. P. Manoharan, C. Vang, A. Fernandes, V. Breen, J. Arango, M. T. Kidd, N. Le",
+        "year": 2026
+    },
+    {
         "title": "Clutter-Resistant Vision-Language-Action Models through Object-Centric and Geometry Grounding",
         "url": "https://arxiv.org/abs/2512.22519",
         "image": "vo_preprint2026.png",
