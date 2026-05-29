@@ -1,5 +1,31 @@
 [
     {
+        "title": "SemLT3D: Semantic-Guided Expert Distillation for Camera-only Long-Tailed 3D Object Detection",        
+        "url": "https://arxiv.org/pdf/2604.18476",
+        "image": "hao_cvpr2026.png",
+        "venueLogo": "cvpr2026.jpeg",
+        "type": "Conference",
+        "authors": "H. Vo, K. Vo, T. Phan, N. X. Cuong, G. Doretto, H. V. Nguyen, A. Nguyen, N. Le",
+        "year": 2026
+    },
+    {
+        "title": "SIGMA: A Physics-Informed Benchmark for Gas Chimney Understanding in Seismic Images",        
+        "url": "https://arxiv.org/abs/2603.23439",
+        "image": "bao_cvpr2026.png",
+        "venueLogo": "cvpr2026.jpeg",
+        "type": "Conference",
+        "authors": "B. Truong, Q. Nguyen, B. Huang, J. Han, V. Nguyen, N. Le, M. T. Pham, D. H. Hien, A. Nguyen",
+        "year": 2026
+    },
+    {
+        "title": "VentVision: A Multimodal Vision-Based System for Automated Vent-Based Chick Sexing",        "url": "https://www.sciencedirect.com/science/article/pii/S2772375526004594",
+        "image": "marta_smartagriculture2026.jpg",
+        "venueLogo": "smart_agriculture_logo.jpeg",
+        "type": "Journal",
+        "authors": "M. Veganzones-Rodriguez, T. Phan, A. F. A. Fernandes, V. Breen, J. Arango, M. T. Kidd, N. Le",
+        "year": 2026
+    },
+    {
         "title": "DeepBroilerTrack: End-to-End Automatic Tracking of Multiple Broilers Using Multiple Cameras",
         "url": "https://doi.org/10.1016/j.atech.2026.102163",
         "image": "hao_smartagriculture2026.jpg",
