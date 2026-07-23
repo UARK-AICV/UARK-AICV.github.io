@@ -1,5 +1,32 @@
 [
     {
+        "title": "Dual-State Slot Attention: Decoupling Appearance and Identity for Video Object-Centric Learning",        
+        "url": "https://arxiv.org/pdf/2606.12601",
+        "image": "sieu_acm2026.png",
+        "venueLogo": "acm_logo.png",
+        "type": "Journal",
+        "authors": "S. Tran, D. Nguyen, H. Vo, K. Vo, N. Le",
+        "year": 2026
+    },
+    {
+        "title": "MVDGC: Joint 3D and 2D Multi-view Pedestrian Detection via Dual Geometric Constraints",        
+        "url": "https://arxiv.org/pdf/2607.00273",
+        "image": "thinh_tmlr2026.png",
+        "venueLogo": "tmlr_logo.jpg",
+        "type": "Journal",
+        "authors": "T. Phan, H. Vo, K. Vo, T. Ngo, C. Pham, N. Le",
+        "year": 2026
+    },
+    {
+        "title": "SSL-MTab: Self-Supervised Distillation for Missing Data in Tabular Prediction Tasks",        
+        "url": "https://ieeexplore.ieee.org/iel8/11484076/11486291/11486459.pdf",
+        "image": "farid_ieee2026.png",
+        "venueLogo": "ieee_logo.png",
+        "type": "Conference",
+        "authors": "F. Hashemian, N. Le, H. Liao",
+        "year": 2026
+    },
+    {
         "title": "SemLT3D: Semantic-Guided Expert Distillation for Camera-only Long-Tailed 3D Object Detection",        
         "url": "https://arxiv.org/pdf/2604.18476",
         "image": "hao_cvpr2026.png",
