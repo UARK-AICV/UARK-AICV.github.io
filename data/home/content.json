@@ -1,6 +1,7 @@
 {
   "hasOpenPositions": true,
   "news":[
+    
     {
         "date": "2024-12-12",
         "title": "Honors College Research Award",
@@ -54,6 +55,13 @@
         "summary":"Trong-Thang Pham, and other authors, have developed CattleFever, an automated system that can accurately estimate body temperature of cattle using artificial intelligence and thermal cameras.",
         "image": "news5.jpg",
         "link":"https://www.drovers.com/news/education/how-artificial-intelligence-enhancing-cattle-health-monitoring"
+    },
+    {
+        "date": "2026-06-03",
+        "title": "CVPR 2026 in Denver: Presenting SemLT3D",
+        "summary":"Presenting Semantic-Guided Expert Distillation for Camera-only Long-Tailed 3D Object Detection",
+        "image": "news6.jpg",
+        "link":"https://arxiv.org/abs/2604.18476"
     }
 
   ],

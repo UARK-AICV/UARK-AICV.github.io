@@ -1,5 +1,23 @@
 [
     {
+        "title": "Slotvla: Towards modeling of object-relation representations in robotic manipulation",        
+        "url": "https://arxiv.org/abs/2511.06754",
+        "image": "taisei_icra_poster.png",
+        "venueLogo": "ICRA-VIE26-logo.png.webp",
+        "type": "Posters",
+        "authors": "T. Hanyu, N. Chung, H. Le, T. Nguyen, Y. Ikebe, A. Gunderman, D. N. H. Minh, K. Vo, T. Kieu, K. Yamazaki, C. Rainwater, A. Nguyen, N. Le",
+        "year": 2026
+    },
+    {
+        "title": "PolypSteer: Counterfactual Endoscopic Synthesis via Training-Free Activation Steering",        
+        "url": "https://arxiv.org/abs/2603.07066",
+        "image": "pham_miccai2026.png",
+        "venueLogo": "miccai2026_logo.png",
+        "type": "Conference",
+        "authors": "T. Pham, L. Nguyen, A. Nguyen, H. V. Nguyen, N. Le",
+        "year": 2026
+    },
+    {
         "title": "Dual-State Slot Attention: Decoupling Appearance and Identity for Video Object-Centric Learning",        
         "url": "https://arxiv.org/pdf/2606.12601",
         "image": "sieu_acm2026.png",

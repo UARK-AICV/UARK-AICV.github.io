@@ -559,6 +559,7 @@ async function renderPublicationsPage() {
         // Filter by Type
         const journals = pubs.filter(p => p.type && p.type.toLowerCase().includes('journal'));
         const conferences = pubs.filter(p => p.type && p.type.toLowerCase().includes('conference'));
+        const posters = pubs.filter(p => p.type && p.type.toLowerCase().includes('posters'));
         //first line for TABS
         return `
             <div data-pub-year-section="${year}" style="${year === newestYear ? '' : 'display:none;'}"> 
@@ -582,6 +583,14 @@ async function renderPublicationsPage() {
                             <h4 class="text-xl font-bold text-gray-800 mb-4 uppercase tracking-wider">Conferences</h4>
                             <div class="bg-white rounded-xl shadow-sm border border-gray-100 px-6">
                                 ${conferences.map(renderCard).join('')}
+                            </div>
+                        </div>
+                    ` : ''}
+                    ${posters.length > 0 ? `
+                        <div class="mb-8">
+                            <h4 class="text-xl font-bold text-gray-800 mb-4 uppercase tracking-wider">Conferences</h4>
+                            <div class="bg-white rounded-xl shadow-sm border border-gray-100 px-6">
+                                ${posters.map(renderCard).join('')}
                             </div>
                         </div>
                     ` : ''}
