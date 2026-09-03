@@ -588,7 +588,7 @@ async function renderPublicationsPage() {
                     ` : ''}
                     ${posters.length > 0 ? `
                         <div class="mb-8">
-                            <h4 class="text-xl font-bold text-gray-800 mb-4 uppercase tracking-wider">Conferences</h4>
+                            <h4 class="text-xl font-bold text-gray-800 mb-4 uppercase tracking-wider">Posters</h4>
                             <div class="bg-white rounded-xl shadow-sm border border-gray-100 px-6">
                                 ${posters.map(renderCard).join('')}
                             </div>
