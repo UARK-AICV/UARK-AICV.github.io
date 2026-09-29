@@ -1,5 +1,32 @@
 [
     {
+        "title": "PolypSteer: Counterfactual Endoscopic Synthesis via Training-Free Activation Steering",        
+        "url": "https://arxiv.org/abs/2603.07066",
+        "image": "pham_miccai_poster.png",
+        "venueLogo": "miccai2026_logo.png",
+        "type": "Posters",
+        "authors": "T. Pham, L. Nguyen, A. Nguyen, H. V. Nguyen, N. Le",
+        "year": 2026
+    },
+    {
+        "title": "OmniSpace: Efficient Geometry Awareness for Autonomous Vehicles MLLMs",        
+        "url": "https://arxiv.org/pdf/2606.22617",
+        "image": "hao_neurIPS2026_2.png",
+        "venueLogo": "neurIPS.jpeg",
+        "type": "Conference",
+        "authors": "H. Vo, P. L. Nguyen, K. Vo, S. Tran, D. M. Nguyen, N. X. Cuong, N. DQ. Bui, A. Nguyen, D. M. H. Nguyen, N. Le",
+        "year": 2026
+    },
+    {
+        "title": "DRIVESPATIAL: A Benchmark for Spatiotemporal Intelligence in VLMs for Autonomous Driving",        
+        "url": "https://arxiv.org/pdf/2605.23176",
+        "image": "hao_neurIPS2026.png",
+        "venueLogo": "neurIPS.jpeg",
+        "type": "Conference",
+        "authors": "H. Vo, K. Vo, P. L. Nguyen, S. Tran, D. M. Nguyen, N. X. Cuong, G. Gawugah, S. A. T. Godavarthi, C. Rainwater, N. DQ. Bui, A. Nguyen, D. M. H. Nguyen, N. Le",
+        "year": 2026
+    },
+    {
         "title": "Slotvla: Towards modeling of object-relation representations in robotic manipulation",        
         "url": "https://arxiv.org/abs/2511.06754",
         "image": "taisei_icra_poster.png",

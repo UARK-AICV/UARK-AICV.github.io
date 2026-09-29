@@ -506,10 +506,13 @@ async function renderPublicationsPage() {
         <div class="flex flex-col md:flex-row gap-6 py-6 border-b border-gray-100 last:border-0">
             <div class="flex-shrink-0 w-full md:w-48">
                 ${hasImage ? 
-                    `<img src="data/publications/images/${pub.image}" 
-                          alt="Paper Thumbnail" 
+                    `<button type="button" onclick="openPublicationImage(this)" class="block w-full text-left rounded-lg focus-visible:outline focus-visible:outline-2 focus-visible:outline-blue-600" aria-label="Enlarge publication image">
+                      <img src="data/publications/images/${pub.image}"
+                          alt="Publication preview"
                           class="w-full h-28 object-cover rounded-lg shadow-sm border border-gray-200"
-                          onerror="this.onerror=null; this.src='https://placehold.co/300x200/e5e7eb/9ca3af?text=PAPER'">`
+                          onerror="this.onerror=null; this.closest('button').disabled=true; this.closest('button').querySelector('span').textContent='Image unavailable'; this.src='https://placehold.co/300x200/e5e7eb/9ca3af?text=PAPER'">
+                      <span class="block mt-2 text-xs text-gray-600 underline underline-offset-2">Click to enlarge</span>
+                    </button>`
                     : 
                     `<div class="w-full h-28 bg-gray-50 rounded-lg border border-gray-200 flex items-center justify-center text-gray-400">
                         <span class="text-xs font-bold uppercase">No Image</span>
@@ -940,3 +943,23 @@ window.addEventListener('hashchange', init); 
 
 // Start the application 
 init();
+
+// Native dialog provides keyboard focus management and Escape-to-close.
+function openPublicationImage(button) {
+    const thumbnail = button.querySelector('img');
+    const dialog = document.getElementById('publication-image-dialog');
+    const title = button.closest('.flex.flex-col').querySelector('h4').textContent.trim();
+    const preview = document.getElementById('publication-image-preview');
+    preview.src = thumbnail.src;
+    preview.alt = title;
+    document.getElementById('publication-image-title').textContent = title;
+    document.getElementById('publication-image-original').href = thumbnail.src;
+    dialog.showModal();
+}
+
+document.getElementById('publication-image-dialog').addEventListener('click', function (event) {
+    if (event.target !== this) return;
+    const bounds = this.getBoundingClientRect();
+    if (event.clientX < bounds.left || event.clientX > bounds.right ||
+        event.clientY < bounds.top || event.clientY > bounds.bottom) this.close();
+});

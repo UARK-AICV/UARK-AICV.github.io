@@ -100,6 +100,14 @@
     </div>
     
     <!-- Link External Script -->
+    <dialog id="publication-image-dialog" aria-labelledby="publication-image-title">
+        <div class="publication-image-toolbar">
+            <h2 id="publication-image-title">Publication image</h2>
+            <a id="publication-image-original" target="_blank" rel="noopener">Open full-size image</a>
+            <button type="button" onclick="document.getElementById('publication-image-dialog').close()" autofocus>Close ✕</button>
+        </div>
+        <img id="publication-image-preview" alt="">
+    </dialog>
     <script src="scripts.js" defer></script>
 </body>
 </html>

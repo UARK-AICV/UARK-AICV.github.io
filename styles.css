@@ -9,3 +9,33 @@
 }
 
 /* Any further custom CSS can be added here */
+#publication-image-dialog {
+    width: min(96vw, 1400px);
+    max-width: 96vw;
+    max-height: 94vh;
+    padding: 1rem;
+    border: 0;
+    border-radius: 0.75rem;
+}
+#publication-image-dialog::backdrop {
+    background: rgb(0 0 0 / 75%);
+}
+.publication-image-toolbar {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 1rem;
+    margin-bottom: 1rem;
+}
+.publication-image-toolbar h2 { flex: 1; font-weight: 600; }
+.publication-image-toolbar a { text-decoration: underline; }
+.publication-image-toolbar button { padding: 0.5rem; }
+#publication-image-preview {
+    display: block;
+    max-width: 100%;
+    max-height: 78vh;
+    width: auto;
+    height: auto;
+    margin: auto;
+    object-fit: contain;
+}

@@ -62,6 +62,20 @@
         "summary":"Presenting Semantic-Guided Expert Distillation for Camera-only Long-Tailed 3D Object Detection",
         "image": "news6.jpeg",
         "link":"https://arxiv.org/abs/2604.18476"
+    },
+    {
+        "date": "2026-12-09",
+        "title": "NeurIPS 2026, The Fortieth Annual Conference on Neural Information Processing Systems: Presenting DRIVESPATIAL",
+        "summary":"Presenting DRIVESPATIAL: A Benchmark for Spatiotemporal Intelligence in VLMs for Autonomous Driving",
+        "image": "news7.jpeg",
+        "link":"https://arxiv.org/pdf/2605.23176"
+    },
+    {
+        "date": "2026-12-09",
+        "title": "NeurIPS 2026, The Fortieth Annual Conference on Neural Information Processing Systems: Presenting OmniSpace",
+        "summary":"Presenting OmniSpace: Efficient Geometry Awareness for Autonomous Vehicles MLLMs",
+        "image": "news7.jpeg",
+        "link":"https://arxiv.org/pdf/2606.22617"
     }
 
   ],
