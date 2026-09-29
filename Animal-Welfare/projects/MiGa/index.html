@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>MiGa | Animal Welfare</title>
+  <meta name="description" content="A computer vision and machine learning system for multi-chicken gait assessment.">
+  <link rel="icon" href="../../static/images/aicv_logo.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../../static/css/bulma.min.css">
+  <link rel="stylesheet" href="../../static/css/fontawesome.all.min.css">
+  <link rel="stylesheet" href="../../static/css/project.css">
+  <script defer src="../../static/js/fontawesome.all.min.js"></script>
+  <script defer src="../../static/js/project.js"></script>
+</head>
+<body>
+  <nav class="project-nav">
+    <div class="container is-max-desktop">
+      <a href="../../"><i class="fas fa-arrow-left" aria-hidden="true"></i> Back to Animal Welfare</a>
+    </div>
+  </nav>
+
+  <main>
+    <header class="project-header has-text-centered">
+      <div class="container is-max-desktop">
+        <h1 class="title is-1">Miga: Multi-Chicken Gait Assessment</h1>
+        <p class="project-authors">Minh Tran<sup>1</sup>, Annie Manoharan<sup>1</sup>, Chiyou Vang<sup>1</sup>, Arthur Fernandes<sup>2</sup>, Vivian Breen<sup>2</sup>, Jesus Arango<sup>2</sup>, Michael Kidd<sup>1</sup>, and Ngan Le<sup>1</sup></p>
+        <p class="project-venue"><sup>1</sup> University of Arkansas · <sup>2</sup> Cobb-Vantress, Inc</p>
+        <div class="project-links">
+          <a class="button is-rounded" href="https://www.sciencedirect.com/science/article/pii/S2772375526001577" target="_blank" rel="noopener">
+            <span class="icon"><i class="fas fa-file-pdf"></i></span>
+            <span>Paper</span>
+          </a>
+          <a class="button is-rounded" href="https://github.com/UARK-AICV/MiGa" target="_blank" rel="noopener">
+            <span class="icon"><i class="fab fa-github"></i></span>
+            <span>Code</span>
+          </a>
+        </div>
+      </div>
+    </header>
+
+    <section class="project-section">
+      <div class="container is-max-desktop">
+        <h2 class="title is-3 has-text-centered">Video Demonstration</h2>
+        <video class="project-video" controls preload="metadata">
+          <source src="../../videos/chicken_gait_demo.mp4" type="video/mp4">
+          Your browser does not support the video element.
+        </video>
+        <p class="video-description">The demo shows simultaneous detection and tracking of multiple chickens, with each bird assigned a persistent identity. Leg keypoints and joint angles are estimated over time and used to predict an individual gait score as the chickens move through the scene.</p>
+      </div>
+    </section>
+
+    <section class="project-section is-tinted">
+      <div class="container is-max-desktop">
+        <h2 class="title is-3 has-text-centered">Abstract</h2>
+        <div class="content">
+          <p>Broiler chicken production is a major agricultural industry, yet it faces persistent challenges related to animal welfare—most notably, lameness caused by selective breeding for rapid growth. Traditional gait assessment methods, such as Kestin’s scoring system, obstacle tests, and latency-to-lie, have been valuable but they are typically limited to single-bird evaluations in controlled environments, require trained personnel, and are slow due to their manual nature. In this work, we introduce <strong>MiGa</strong>, a <em>multi-chicken gait assessment system</em> that leverages computer vision and machine learning to automatically evaluate the gait of multiple birds simultaneously in more naturalistic settings. Our approach integrates four components: a multi-bird detector, a pose estimator, a tracking module, and a gait-score regressor. To support development and benchmarking, we introduce the <strong>GAIT dataset suite</strong>, which includes dedicated datasets for detection, pose extraction, tracking, and gait-score prediction. Experimental results demonstrate that MiGa achieves impressive gait scoring accuracy of 92% and detection processing speed of 30FPS. This system enables scalable, automated locomotion assessment in realistic multi-bird scenarios, contributing toward improved welfare monitoring in broiler production.</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="project-section">
+      <div class="container is-max-desktop">
+        <h2 class="title is-3 has-text-centered">System overview</h2>
+        <figure class="structured-figure">
+          <img src="../../images/chickengait.jpg" alt="Overview of the MiGa multi-chicken gait assessment system">
+          <figcaption>We aim to build a gait monitoring system for multiple chickens in a pen. Specifically, the system is designed to detect and track multiple chickens over time. For each chicken, the system predicts a Kestin gait score, which indicates the degree of lameness in the chicken’s legs. We propose a system composed of five key modules as follows: Feature Extractor, Multi-bird Detector, Pose Extractor, Tracking Module and Gait score Regressor.</figcaption>
+        </figure>
+      </div>
+    </section>
+
+    <section class="project-section is-tinted">
+      <div class="container is-max-desktop">
+        <h2 class="title is-3 has-text-centered">Experimental setup</h2>
+        <figure class="structured-figure">
+          <img src="setup_gait.png" alt="Experimental setup for the MiGa gait-monitoring system">
+          <figcaption>Experimental setup of the proposed system. Left: Top‑down schematic of the pen, with the camera mounted diagonally opposite the feeder. Right: Example frame captured from the camera perspective, which serves as input to the system.</figcaption>
+        </figure>
+      </div>
+    </section>
+
+    <section class="project-section is-tinted">
+      <div class="container is-max-desktop">
+        <h2 class="title is-3 has-text-centered">Dataset statistics</h2>
+        <figure class="structured-figure">
+          <img src="dataset_gait.png" alt="Dataset statistics for the MiGa system">
+        </figure>
+      </div>
+    </section>
+
+    <section class="project-section">
+      <div class="container is-max-desktop">
+        <h2 class="title is-3 has-text-centered">Qualitative results</h2>
+        <figure class="structured-figure">
+          <img src="qualitative_gait.png" alt="Qualitative results of the MiGa multi-chicken gait-monitoring system">
+          <figcaption>Qualitative examples of our multi-chicken gait-monitoring system on unseen test videos. Bounding boxes are colour-coded by identity; the overlaid skeleton depicts detected keypoints. The text above each box shows the persistent ID and the predicted Kestin gait score.</figcaption>
+        </figure>
+      </div>
+    </section>
+
+    <section class="project-section is-tinted">
+      <div class="container is-max-desktop">
+        <h2 class="title is-3 has-text-centered">Quantitative results</h2>
+        <div class="content">
+          <p>The table 1 shows the Multi-Bird Detection Results where, YOLO11x achieves slightly higher AP50 and AP75 scores, YOLO11n demonstrates a superior overall mAP(50:95) and significantly better computational efficiency. Specifically, YOLO11n operates with only 6.6 GFLOPs and reaches a high inference speed of 1,250 FPS (Frame Per Second), compared to the 196.0 GFLOPs and 163 FPS of YOLO11x. Given this substantial difference in speed and efficiency, we select YOLO11n as the backbone detector in our system, as it best balances accuracy and runtime performance for real-time deployment.</p>
+          <p>The performance of the Pose Extractor is summarized in Table 2. While YOLO11x-Pose slightly surpasses in terms of mAP(50:95), the YOLO11n-Pose model achieves highly competitive performance with significantly lower computational cost. Notably, it retains a high accuracy of 91.83% mAP(50:95) and achieves 1,250 FPS with only 6.6 GFLOPs. Therefore, to maintain system efficiency without compromising performance, we choose YOLO11n-Keypoint as the backbone for our keypoint estimation module.</p>
+        </div>
+        <figure class="structured-figure">
+          <img src="quantitative_gait.png" alt="Quantitative results for the MiGa system">
+          <figcaption>Table 3 summarizes the results of three popular multi‑object tracking algorithms—SORT, ByteTrack, and OCSORT on our Tracking Dataset. Among the contenders, OCSORT achieves the best overall accuracy, posting the highest MOTA (0.93) and IDF1 (0.91) as well as leading Recall (0.95), all while matching the top Precision (0.98). These results validate our choice of OCSORT as the tracking backbone for downstream gait‑analysis, offering the best balance between detection accuracy and identity continuity in dense, visually challenging poultry‑house scenes.<br><br>Table 4 compares the performance of conventional logistic regression (LR) and a recurrent LSTM model. A moderate temporal context (L=15) combined with a narrow stride (W =5) delivers the strongest single-label (Top-1) performance for LR at 62.82%. In contrast, the same configuration yields the highest Top-2 accuracy for the LSTM at 92.30%, indicating that the recurrent architecture more reliably ranks the correct class within the top two predictions—an attractive property when minor mis-ordering is acceptable in practice.</figcaption>
+        </figure>
+      </div>
+    </section>
+
+    <section class="project-section is-tinted">
+      <div class="container is-max-desktop content">
+        <div class="bibtex-header">
+          <h2 class="title is-3">BibTeX</h2>
+          <button class="button copy-button" type="button" onclick="copyProjectBibTeX()">Copy</button>
+        </div>
+        <pre id="project-bibtex"><code>@article{tran2026miga,
+  title={MiGa: Multi-chicken gait assessment},
+  author={Tran, Minh and Manoharan, Annie Prasanna and Vang, Chiyou and Fernandes, Arthur FA and Breen, Vivian and Arango, Jesus and Kidd, Michael T and Le, Ngan},
+  journal={Smart Agricultural Technology},
+  volume={14},
+  pages={101933},
+  year={2026},
+  publisher={Elsevier}
+}</code></pre>
+      </div>
+    </section>
+  </main>
+
+  <footer class="project-footer">
+    <p>Animal Welfare · <a href="https://uark-aicv.github.io/" target="_blank" rel="noopener">AICV Laboratory</a></p>
+  </footer>
+</body>
+</html>

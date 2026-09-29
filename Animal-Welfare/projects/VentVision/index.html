@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>VentVision | Animal Welfare</title>
+  <meta name="description" content="A multimodal vision-based system for automated vent-based chick sexing.">
+  <link rel="icon" href="../../static/images/aicv_logo.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../../static/css/bulma.min.css">
+  <link rel="stylesheet" href="../../static/css/fontawesome.all.min.css">
+  <link rel="stylesheet" href="../../static/css/project.css">
+  <script defer src="../../static/js/fontawesome.all.min.js"></script>
+  <script defer src="../../static/js/project.js"></script>
+</head>
+<body>
+  <nav class="project-nav">
+    <div class="container is-max-desktop">
+      <a href="../../"><i class="fas fa-arrow-left" aria-hidden="true"></i> Back to Animal Welfare</a>
+    </div>
+  </nav>
+
+  <main>
+    <header class="project-header has-text-centered">
+      <div class="container is-max-desktop">
+        <h1 class="title is-1">VentVision: A Multimodal Vision-Based System for Automated Vent-Based Chick Sexing</h1>
+        <p class="project-authors">Marta Veganzones-Rodriguez<sup>1</sup>, Thinh Phan<sup>1</sup>, Arthur F. A. Fernandes<sup>2</sup>, Vivian Breen<sup>2</sup>, Jesus Arango<sup>2</sup>, Michael T. Kidd<sup>1</sup>, and Ngan Le<sup>1</sup></p>
+        <p class="project-venue"><sup>1</sup> University of Arkansas · <sup>2</sup> Cobb-Vantress, Inc</p>
+        <div class="project-links">
+          <a class="button is-rounded" href="https://www.sciencedirect.com/science/article/pii/S2772375526004594" target="_blank" rel="noopener">
+            <span class="icon"><i class="fas fa-file-pdf"></i></span>
+            <span>Paper</span>
+          </a>
+        </div>
+      </div>
+    </header>
+
+    <section class="project-section is-tinted">
+      <div class="container is-max-desktop">
+        <h2 class="title is-3 has-text-centered">Abstract</h2>
+        <div class="content">
+          <p>Chick sexing has been a crucial practice for many years due to the need for early gender identification in poultry production. Traditional methods, such as vent sexing, are highly effective but labor-intensive, requiring expert knowledge and years of training, making it a challenging and time-consuming process. Moreover, skilled professionals are increasingly scarce, making the process difficult to scale. To address this challenge, we proposed <strong>VentVision</strong>, an automated vision-based classification system that leverages computer vision and deep learning techniques to improve the efficiency and scalability of chick gender classification. Our system follows a four-step pipeline: multi-modality video capture, temporal segment selection, vent region detection, and gender classification, automating vent-based sexing. We evaluated our approach using RGB imaging, infrared (IR) imaging, and a multimodal RGB-IR feature-level fusion framework based on a dual-stream architecture. The multimodal model achieved an accuracy of 98.09%, outperforming single-modality approaches. These results demonstrate that VentVision achieves expert-level chick sexing performance while eliminating the need for years of specialized training, with manual handling limited to vent exposure, thereby simplifying the sexing workflow.</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="project-section">
+      <div class="container is-max-desktop">
+        <h2 class="title is-3 has-text-centered">System overview</h2>
+        <figure class="structured-figure">
+          <img src="../../images/ventsexing.jpg" alt="Overview of the VentVision pipeline">
+          <figcaption>Overall pipeline of the proposed <strong>VentVision</strong> system, consisting of four main components: multi-modality video capture, temporal segment selection, vent region localization, and gender classification.</figcaption>
+        </figure>
+      </div>
+    </section>
+
+    <section class="project-section is-tinted">
+      <div class="container is-max-desktop">
+        <h2 class="title is-3 has-text-centered">Experimental setup</h2>
+        <figure class="structured-figure">
+          <img src="setup_vent.jpg" alt="RGB and infrared camera setup for VentVision">
+          <figcaption>The setup used two side-by-side Reolink 842A cameras, one recording RGB and the other infrared video, positioned approximately 50 cm from the target area. A light source mounted above and aligned with the cameras provided uniform illumination during recording.</figcaption>
+        </figure>
+      </div>
+    </section>
+
+    <section class="project-section is-tinted">
+      <div class="container is-max-desktop">
+        <h2 class="title is-3 has-text-centered">Dataset statistics</h2>
+        <figure class="structured-figure">
+          <img src="vent_dataset.svg" alt="VentVision dataset statistics">
+        </figure>
+      </div>
+    </section>
+
+    <section class="project-section">
+      <div class="container is-max-desktop">
+        <h2 class="title is-3 has-text-centered">Qualitative results</h2>
+        <figure class="structured-figure">
+          <img src="qualitative_vent.jpg" alt="Grad-CAM++ heatmaps for the VentVision system">
+          <figcaption>Grad-CAM++ heatmaps show that the model consistently focuses on the vent region, where sex-specific anatomical features are located. For males, attention is concentrated on the small white cloacal bump, highlighted with a green circle, while female predictions rely more on patterns within the inner vent region. Each example presents the original RGB image alongside its corresponding heatmap.</figcaption>
+        </figure>
+      </div>
+    </section>
+
+    <section class="project-section is-tinted">
+      <div class="container is-max-desktop">
+        <h2 class="title is-3 has-text-centered">Quantitative results</h2>
+        <div class="content">
+          <p>Table 1 summarizes the RGB-based gender classification results across five folds. ResNet-50 achieves an average ID-level accuracy of 97.17%, with precision, recall, and F1-score also consistently exceeding 97%. Fold 3 reaches 100% accuracy, demonstrating that RGB images contain distinctive visual features for gender classification, while the lower accuracy in fold 0 may reflect greater variation in lighting and chick positioning.</p>
+          <figure class="structured-figure">
+            <img src="ventsexing_quantitative_Table1.svg" alt="VentVision Table 1 quantitative results">
+          </figure>
+          <p>Table 2 presents the infrared-based classification results. The model achieves a slightly higher average ID-level accuracy of 97.46%, with folds 1, 2, and 3 reaching 100%. Since predictions from multiple images are aggregated for each chick, the ID-level evaluation provides a more stable classification decision and demonstrates strong generalization to unseen individuals.</p>
+          <figure class="structured-figure">
+            <img src="ventsexing_quantitative_Table2.svg" alt="VentVision Table 2 quantitative results">
+          </figure>
+          <p>Table 3 reports the results of the RGB–infrared feature-fusion model, which jointly learns from paired features extracted by two ResNet-50 backbones. The multimodal approach achieves the best overall performance, with an average accuracy of 98.09%, precision of 98.60%, recall of 97.07%, F1-score of 97.80%, and AUC of 99.18%. No fold falls below 96% accuracy, and the fused model outperforms both RGB-only and infrared-only approaches, confirming that the two modalities provide complementary information and improve classification consistency and robustness.</p>
+          <figure class="structured-figure">
+            <img src="ventsexing_quantitative_Table3.svg" alt="VentVision Table 3 quantitative results">
+          </figure>
+        </div>
+      </div>
+    </section>
+
+    <section class="project-section is-tinted">
+      <div class="container is-max-desktop content">
+        <div class="bibtex-header">
+          <h2 class="title is-3">BibTeX</h2>
+          <button class="button copy-button" type="button" onclick="copyProjectBibTeX()">Copy</button>
+        </div>
+        <pre id="project-bibtex"><code>@article{rodriguez2026ventvision,
+  title={VentVision: A Multimodal Vision-Based System for Automated Vent-Based Chick Sexing},
+  author={Rodriguez, Marta Veganzones and Phan, Thinh and Fernandes, ArthurF A and Breen, Vivian and Arango, Jesus and Kidd, Michael T and Le, Ngan},
+  journal={Smart Agricultural Technology},
+  pages={102236},
+  year={2026},
+  publisher={Elsevier}
+}</code></pre>
+      </div>
+    </section>
+  </main>
+
+  <footer class="project-footer">
+    <p>Animal Welfare · <a href="https://uark-aicv.github.io/" target="_blank" rel="noopener">AICV Laboratory</a></p>
+  </footer>
+</body>
+</html>

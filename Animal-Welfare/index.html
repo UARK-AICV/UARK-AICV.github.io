@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Animal Welfare</title>
+  <meta name="title" content="Animal Welfare">
+  <meta name="description" content="Explore our research projects focused on advancing animal welfare through science.">
+  <meta name="keywords" content="animal welfare, Computer vision, Monitoring, Weight Estimation, Chick Sexing">
+  <meta name="robots" content="index, follow">
+  <meta name="language" content="English">
+  <meta name="theme-color" content="#315c45">
+
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Animal Welfare">
+  <meta property="og:description" content="Explore our research projects focused on advancing animal welfare through science.">
+  <meta property="og:image" content="static/images/carousel1.jpg">
+
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Animal Welfare">
+  <meta name="twitter:description" content="Explore our research projects focused on advancing animal welfare through science.">
+  <meta name="twitter:image" content="static/images/carousel1.jpg">
+
+  <link rel="icon" type="image/png" href="static/images/aicv_logo.png">
+  <link rel="apple-touch-icon" href="static/images/aicv_logo.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="static/css/bulma.min.css">
+  <link rel="stylesheet" href="static/css/fontawesome.all.min.css">
+  <link rel="stylesheet" href="static/css/index.css">
+
+  <script defer src="static/js/fontawesome.all.min.js"></script>
+  <script defer src="static/js/index.js"></script>
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": "Animal Welfare",
+    "description": "A collection of research projects focused on animal welfare."
+  }
+  </script>
+</head>
+<body>
+  <header class="site-header">
+    <nav class="navbar container is-max-desktop" aria-label="Main navigation">
+      <button class="nav-toggle" type="button" aria-label="Open navigation" aria-expanded="false" aria-controls="main-navigation">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+
+      <div class="site-navigation" id="main-navigation">
+        <a href="#overview">Overview</a>
+        <a href="#projects">Research Projects</a>
+        <a class="laboratory-link" href="https://uark-aicv.github.io/" target="_blank" rel="noopener">
+          Laboratory Website <i class="fas fa-external-link-alt" aria-hidden="true"></i>
+        </a>
+      </div>
+    </nav>
+  </header>
+
+  <main>
+    <section class="program-hero" id="overview">
+      <div class="container is-max-desktop">
+        <div class="hero-copy">
+          <p class="eyebrow">Research Program - AICV Lab - University of Arkansas</p>
+          <h1>Animal Welfare</h1>
+          <p class="hero-summary">
+            We study animal welfare through rigorous, collaborative research designed to deepen understanding
+            and contribute practical knowledge to the field.
+          </p>
+          <div class="hero-actions">
+            <a class="button primary-action" href="#projects">
+              Explore our projects <i class="fas fa-arrow-down" aria-hidden="true"></i>
+            </a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!--
+    <section class="overview-section section" aria-labelledby="overview-heading">
+      <div class="container is-max-desktop">
+        <div class="overview-grid">
+          <div>
+            <p class="section-label">Overview</p>
+            <h2 class="section-heading" id="overview-heading">A closer look at our animal welfare research</h2>
+          </div>
+          <div class="overview-copy">
+            <p>
+              This website brings together the animal welfare projects developed by our research team. It
+              includes a more detailed description of each project.
+            </p>
+            <p>
+              As the program grows, new studies and detailed project pages will be added here.
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+    -->
+
+    <section class="projects-section section" id="projects" aria-labelledby="projects-heading">
+      <div class="container is-max-desktop">
+        <div class="section-intro">
+          <div>
+            <p class="section-label">Our work</p>
+            <h2 class="section-heading" id="projects-heading">Research Projects</h2>
+          </div>
+          <p>Explore the studies that make up our animal welfare research program.</p>
+        </div>
+
+        <div class="project-grid">
+          <a class="project-card" href="projects/CarcassFormer/">
+            <div class="project-image">
+              <img src="images/carcass_card.png" alt="" loading="lazy">
+            </div>
+            <div class="project-content">
+              <p class="project-type">Research project</p>
+              <h3>CarcassFormer</h3>
+              <p>An end-to-end Transformer-based framework for poultry carcass defect assessment.</p>
+              <span class="project-status">View project</span>
+            </div>
+          </a>
+
+          <a class="project-card" href="projects/Facial-Chick-Sexing/">
+            <div class="project-image">
+              <img src="images/facial_card.jpg" alt="" loading="lazy">
+            </div>
+            <div class="project-content">
+              <p class="project-type">Research project</p>
+              <h3>Facial Chick Sexing</h3>
+              <p>An automated chick sexing system using facial images of day-old chicks.</p>
+              <span class="project-status">View project</span>
+            </div>
+          </a>
+
+          <a class="project-card" href="projects/CattleFever/">
+            <div class="project-image">
+              <img src="images/cattle_card.jpg" alt="" loading="lazy">
+            </div>
+            <div class="project-content">
+              <p class="project-type">Research project</p>
+              <h3>CattleFever</h3>
+              <p>An automated cattle fever estimation system using RGB and thermal imagery.</p>
+              <span class="project-status">View project</span>
+            </div>
+          </a>
+
+          <a class="project-card" href="projects/DeepBroilerTrack/">
+            <div class="project-image">
+              <img src="images/deepbroiler_card.png" alt="" loading="lazy">
+            </div>
+            <div class="project-content">
+              <p class="project-type">Research project</p>
+              <h3>DeepBroilerTrack</h3>
+              <p>End-to-end automatic tracking of multiple broilers using multiple cameras.</p>
+              <span class="project-status">View project</span>
+            </div>
+          </a>
+
+          <a class="project-card" href="projects/VentVision/">
+            <div class="project-image">
+              <img src="images/vent_card.jpg" alt="" loading="lazy">
+            </div>
+            <div class="project-content">
+              <p class="project-type">Research project</p>
+              <h3>VentVision</h3>
+              <p>A multimodal vision-based system for automated vent-based chick sexing.</p>
+              <span class="project-status">View project</span>
+            </div>
+          </a>
+
+          <a class="project-card" href="projects/MiGa/">
+            <div class="project-image">
+              <img src="images/gait_card.png" alt="" loading="lazy">
+            </div>
+            <div class="project-content">
+              <p class="project-type">Research project</p>
+              <h3>MiGa</h3>
+              <p>A computer vision system for multi-chicken gait assessment.</p>
+              <span class="project-status">View project</span>
+            </div>
+          </a>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer program-footer">
+    <div class="container is-max-desktop">
+      <div class="footer-layout">
+        <div>
+          <p class="footer-title">Animal Welfare</p>
+          <p>Research from our laboratory focused on understanding and advancing animal welfare.</p>
+        </div>
+      </div>
+      <p class="template-credit">
+        Built using the
+        <a href="https://github.com/eliahuhorwitz/Academic-project-page-template" target="_blank" rel="noopener">Academic Project Page Template</a>.
+      </p>
+    </div>
+  </footer>
+
+  <button class="scroll-to-top" onclick="scrollToTop()" title="Scroll to top" aria-label="Scroll to top">
+    <i class="fas fa-chevron-up" aria-hidden="true"></i>
+  </button>
+</body>
+</html>

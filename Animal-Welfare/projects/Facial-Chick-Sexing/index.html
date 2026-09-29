@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Facial Chick Sexing | Animal Welfare</title>
+  <meta name="description" content="An automated chick sexing system from chick facial images.">
+  <link rel="icon" href="../../static/images/aicv_logo.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../../static/css/bulma.min.css">
+  <link rel="stylesheet" href="../../static/css/fontawesome.all.min.css">
+  <link rel="stylesheet" href="../../static/css/project.css">
+  <script defer src="../../static/js/fontawesome.all.min.js"></script>
+  <script defer src="../../static/js/project.js"></script>
+</head>
+<body>
+  <nav class="project-nav"><div class="container is-max-desktop"><a href="../../"><i class="fas fa-arrow-left" aria-hidden="true"></i> Back to Animal Welfare</a></div></nav>
+  <main>
+    <header class="project-header has-text-centered">
+      <div class="container is-max-desktop">
+        <h1 class="title is-1">Facial Chick Sexing: An Automated Chick Sexing System from Chick Facial Image</h1>
+        <p class="project-authors">Marta Veganzones-Rodriguez<sup>1</sup>, Thinh Phan<sup>1</sup>, Arthur F. A. Fernandes<sup>2</sup>, Vivian Breen<sup>2</sup>, Jesus Arango<sup>2</sup>, Michael T. Kidd<sup>1</sup>, and Ngan Le<sup>1</sup></p>
+        <p class="project-venue"><sup>1</sup> University of Arkansas · <sup>2</sup> Cobb-Vantress, Inc</p>
+        <div class="project-links">
+          <a class="button is-rounded" href="https://www.sciencedirect.com/science/article/pii/S2772375525002771?ssrnid=5210639&amp;dgcid=SSRN_redirect_SD" target="_blank" rel="noopener"><span class="icon"><i class="fas fa-file-pdf"></i></span><span>Paper</span></a>
+        </div>
+      </div>
+    </header>
+    <section class="project-section is-tinted">
+      <div class="container is-max-desktop">
+        <h2 class="title is-3 has-text-centered">Abstract</h2>
+        <div class="content">
+          <p>Chick sexing, the process of determining the gender of day-old chicks, is a critical task in the poultry industry due to the distinct roles that each gender plays in production. While effective traditional methods achieve high accuracy, color, and wing feather sexing is exclusive to specific breeds, and vent sexing is invasive and requires trained experts. To address these challenges, we propose a novel approach inspired by facial gender classification techniques in humans: <strong>facial chick sexing</strong>. This new method does not require expert knowledge and aims to reduce training time while enhancing animal welfare by minimizing chick manipulation. We develop a comprehensive system for training and inference that includes data collection, facial and keypoint detection, facial alignment, and classification. We evaluate our model on two sets of images: Cropped Full Face and Cropped Middle Face, both of which maintain essential facial features of the chick for further analysis. Our experiment demonstrates the promising viability, with a final accuracy of 81.89% on the Cropped Full Face set, of this approach for future practices in chick sexing by making them more universally applicable.</p>
+        </div>
+      </div>
+    </section>
+    <section class="project-section">
+      <div class="container is-max-desktop">
+        <h2 class="title is-3 has-text-centered">System overview</h2>
+        <div class="image-carousel" data-image-carousel>
+          <figure class="structured-figure carousel-slide">
+            <img src="../../images/face_1.jpg" alt="Data acquisition and annotation process for the facial chick sexing system">
+            <figcaption><strong>Data acquisition and annotation process.</strong> Our acquisition process involves setting up three cameras for data recording and pre-processing to eliminate low-quality frames and videos. The annotation process is semi-automated, starting with manual annotations to create an initial dataset, followed by model training, prediction and iterative corrections to efficiently annotate the entire dataset.</figcaption>
+          </figure>
+          <figure class="structured-figure carousel-slide" hidden>
+            <img src="../../images/face_2.jpg" alt="Gender classification procedure for day-old chicks">
+            <figcaption>The training and inference pipeline transforms raw chick images into standardized facial representations for sex classification. A face detector first localizes the chick’s head, while a keypoint model identifies facial landmarks used to correct orientation and align the face. The aligned image is then processed into full-face and middle-face crops, preserving different levels of facial information. During training, these representations are used to learn discriminative features associated with male and female chicks. At inference, the same sequence automatically detects, aligns, and classifies each chick from a new image.</figcaption>
+          </figure>
+          <button class="carousel-arrow carousel-arrow-left" type="button" aria-label="Previous image"><i class="fas fa-chevron-left" aria-hidden="true"></i></button>
+          <button class="carousel-arrow carousel-arrow-right" type="button" aria-label="Next image"><i class="fas fa-chevron-right" aria-hidden="true"></i></button>
+        </div>
+      </div>
+    </section>
+    <section class="project-section is-tinted">
+      <div class="container is-max-desktop">
+        <h2 class="title is-3 has-text-centered">Experimental setup</h2>
+        <figure class="structured-figure">
+          <img src="setup_facial.png" alt="Three-camera setup for facial chick sexing">
+          <figcaption>The setup uses three Logitech C920 cameras positioned at the center and corners of a black enclosure with overhead LED lighting to reduce reflections, shadows, and background interference. Videos are recorded at 30 fps in 2K resolution, with the three camera views vertically stacked in each frame.</figcaption>
+        </figure>
+      </div>
+    </section>
+    <section class="project-section is-tinted"><div class="container is-max-desktop"><h2 class="title is-3 has-text-centered">Dataset statistics</h2><figure class="structured-figure"><img src="facial_dataset.svg" alt="Facial chick sexing dataset statistics"></figure></div></section>
+    <section class="project-section">
+      <div class="container is-max-desktop">
+        <h2 class="title is-3 has-text-centered">Qualitative results</h2>
+        <div class="image-carousel" data-image-carousel>
+          <figure class="structured-figure carousel-slide">
+            <img src="qualitative_facial1.jpg" alt="Feature-map visualization for the Cropped Full Face input">
+            <figcaption>This figure illustrates the impact of this technique on the classification score made by the ResNet-50 network, explaining how certain areas of the Cropped Full Face input image influence the model's output. The generated feature maps reveal that the model pays most attention to regions around the chick's beak, specifically around the middle nose key-point and the comb in warm colors (yellow and red). In contrast, areas with cooler colors, such as the upper beak region, result in less activation of the deeper layers, making them less informative to the model's decision-making process.</figcaption>
+          </figure>
+          <figure class="structured-figure carousel-slide" hidden>
+            <img src="qualitative_facial2.jpg" alt="Correct gender-classification feature maps from the ResNet-50 backbone">
+            <figcaption>In this figure, we observe the correct gender classification feature maps using the ResNet-50 backbone. The model is paying more attention on biased features, with a stronger emphasis on the beak area.</figcaption>
+          </figure>
+          <button class="carousel-arrow carousel-arrow-left" type="button" aria-label="Previous image"><i class="fas fa-chevron-left" aria-hidden="true"></i></button>
+          <button class="carousel-arrow carousel-arrow-right" type="button" aria-label="Next image"><i class="fas fa-chevron-right" aria-hidden="true"></i></button>
+        </div>
+      </div>
+    </section>
+    <section class="project-section is-tinted">
+      <div class="container is-max-desktop">
+        <h2 class="title is-3 has-text-centered">Quantitative results</h2>
+        <figure class="structured-figure">
+          <img src="facial_quantitative.svg" alt="Facial chick sexing quantitative results">
+        </figure>
+        <div class="content">
+          <p>Table 1 compares six network backbones using full-face and middle-face chick crops. ResNet-50 achieves the best overall performance for both datasets, reaching 81.98% accuracy, 81.31% precision, 81.85% recall, 81.25% F1-score, and 89.51% AUC with full-face crops. It also leads on the middle-face crops with 80.46% accuracy and an AUC of 88.50%.</p>
+          <p>ResNet-101 and Inception-V3 provide the closest competing results, whereas VGG-16 performs substantially worse, achieving approximately 62% accuracy for both crop types. The stronger performance of the full-face crop suggests that facial regions outside the central area contain useful sex-related visual information.</p>
+          <p>These results are particularly promising because chick sex classification from facial images is a relatively unexplored and non-invasive alternative to conventional vent-based inspection. Achieving above 80% accuracy indicates that subtle sex-related facial patterns can be learned directly from images, supporting the feasibility of automated chick sexing without physically manipulating the vent. Based on its consistent performance across both crop settings and the five validation folds, ResNet-50 was selected as the most reliable backbone.</p>
+        </div>
+      </div>
+    </section>
+    <section class="project-section is-tinted"><div class="container is-max-desktop content"><div class="bibtex-header"><h2 class="title is-3">BibTeX</h2><button class="button copy-button" type="button" onclick="copyProjectBibTeX()">Copy</button></div><pre id="project-bibtex"><code>@article{rodriguez2025facial,
+  title={Facial chick sexing: An automated chick sexing system from chick facial image},
+  author={Rodriguez, Marta Veganzones and Phan, Thinh and Fernandes, Arthur FA and Breen, Vivian and Arango, Jesus and Kidd, Michael T and Le, Ngan},
+  journal={Smart Agricultural Technology},
+  volume={12},
+  pages={101044},
+  year={2025},
+  publisher={Elsevier}
+}</code></pre></div></section>
+  </main>
+  <footer class="project-footer"><p>Animal Welfare · <a href="https://uark-aicv.github.io/" target="_blank" rel="noopener">AICV Laboratory</a></p></footer>
+</body>
+</html>

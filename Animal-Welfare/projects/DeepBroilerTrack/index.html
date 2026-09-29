@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>DeepBroilerTrack | Animal Welfare</title>
+  <meta name="description" content="End-to-end automatic tracking of multiple broilers using multiple cameras.">
+  <link rel="icon" href="../../static/images/aicv_logo.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../../static/css/bulma.min.css">
+  <link rel="stylesheet" href="../../static/css/fontawesome.all.min.css">
+  <link rel="stylesheet" href="../../static/css/project.css">
+  <script defer src="../../static/js/fontawesome.all.min.js"></script>
+  <script defer src="../../static/js/project.js"></script>
+</head>
+<body>
+  <nav class="project-nav">
+    <div class="container is-max-desktop">
+      <a href="../../"><i class="fas fa-arrow-left" aria-hidden="true"></i> Back to Animal Welfare</a>
+    </div>
+  </nav>
+
+  <main>
+    <header class="project-header has-text-centered">
+      <div class="container is-max-desktop">
+        <h1 class="title is-1">DeepBroilerTrack: End-to-End Automatic Tracking of Multiple Broilers Using Multiple Cameras</h1>
+        <p class="project-authors">Hao Vo<sup>1</sup>, Thinh Phan<sup>1</sup>, Michael T. Kidd<sup>1</sup>, James Mason<sup>2</sup>, Santiago Avendano<sup>2</sup>, and Ngan Le<sup>1</sup></p>
+        <p class="project-venue"><sup>1</sup> University of Arkansas · <sup>2</sup> Cobb-Vantress, Inc</p>
+        <div class="project-links">
+          <a class="button is-rounded" href="https://doi.org/10.1016/j.atech.2026.102163" target="_blank" rel="noopener">
+            <span class="icon"><i class="fas fa-file-pdf"></i></span>
+            <span>Paper</span>
+          </a>
+        </div>
+      </div>
+    </header>
+
+    <section class="project-section">
+      <div class="container is-max-desktop">
+        <h2 class="title is-3 has-text-centered">Video Demonstration</h2>
+        <video class="project-video" controls preload="metadata">
+          <source src="../../videos/deepbroiler_demo1.mp4" type="video/mp4">
+          Your browser does not support the video element.
+        </video>
+        <p class="video-description">The demo visualizes multi-chicken tracking using bounding boxes with corresponding identity labels. Unified ground-plane points map each detected chicken into a shared spatial reference, enabling consistent tracking across camera views.</p>
+      </div>
+    </section>
+
+    <section class="project-section is-tinted">
+      <div class="container is-max-desktop">
+        <h2 class="title is-3 has-text-centered">Abstract</h2>
+        <div class="content">
+          <p>Reliable tracking of individual broilers in commercial poultry facilities is essential for large-scale welfare monitoring, behavior analysis, and precision breeding. Multi-camera systems have emerged to address challenges posed by occlusions, dense flock layouts, and strong appearance similarity. However, existing approaches often rely on hand-crafted association heuristics and cascade-style two-stage designs, which struggle to generalize in crowded and occlusion-heavy environments. To overcome these shortcomings, we propose <strong>DeepBroilerTrack</strong>, an end-to-end multi-camera tracking framework unifying early-stage feature fusion within a Bird’s-Eye View (BEV) representation. Our method leverages a camera-dropout augmentation strategy to improve cross-view generalization, aggregates multi-camera features into a unified BEV space for robust detection and temporal association, and projects BEV tracklets back to individual views through a learned ID assignment module to maintain identity consistency across all cameras. Experiments on a real-world broiler dataset demonstrate that our method significantly improves tracking stability and identity (ID) consistency over existing multi-camera baselines, offering a practical and scalable solution for intelligent poultry management in challenging production settings.</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="project-section">
+      <div class="container is-max-desktop">
+        <h2 class="title is-3 has-text-centered">System overview</h2>
+        <figure class="structured-figure">
+          <img src="../../images/deepbroilertrack.jpg" alt="Overview of the DeepBroilerTrack pipeline">
+          <figcaption>Overview of our proposed DeepBroilerTrack pipeline, consisting of eight modules: ➀ Image augmentation, ➁ Image encoder, ➂ Image feature enhancement, ➃ Cross-view aggregation, ➄ BEV decoder, ➅ BEV tracking, ➆ Image object detection, and ➇ ID assignment. The raw multi-camera images first undergo ➀ Image augmentation, including geometric perturbations and randomized camera dropout. The augmented frames are processed by the ➁ Image encoder to extract initial feature representations, which are refined through the ➂ Image feature enhancement module. The per-view features are then fused in the ➃ Cross-view aggregation module to construct a unified BEV representation, which is decoded by the ➄ BEV decoder to localize objects. Temporal consistency is enforced in the ➅ BEV tracking module, generating global BEV tracklets. In parallel, each frame is processed by ➆ Image object detection to yield 2D bounding boxes, and the ➇ ID assignment module associates them with BEV tracklets, producing ID-consistent trajectories across all camera views.</figcaption>
+        </figure>
+      </div>
+    </section>
+
+    <section class="project-section is-tinted">
+      <div class="container is-max-desktop">
+        <h2 class="title is-3 has-text-centered">Experimental setup</h2>
+        <figure class="structured-figure">
+          <img src="behavior_setup.svg" alt="Six-camera setup for DeepBroilerTrack">
+          <figcaption>The setup uses six synchronized Reolink 842A cameras around a 4 × 6 ft pen: two overhead cameras provide full top-down coverage, while four corner-mounted cameras capture side views. A feeder and drinking line are positioned near the center of the pen. Videos are recorded at 1920 × 1080 resolution and 15 fps, with synchronization errors below 80 ms.</figcaption>
+        </figure>
+      </div>
+    </section>
+
+    <section class="project-section">
+      <div class="container is-max-desktop">
+        <h2 class="title is-3 has-text-centered">Qualitative results</h2>
+        <figure class="structured-figure">
+          <img src="qualitative_results_deepbroilertrack.jpg" alt="Qualitative tracking results from DeepBroilerTrack">
+          <figcaption>Qualitative results of our tracking framework over time, with the colors are the objects’s id and colored lines are corresponding trajectory of that object.</figcaption>
+        </figure>
+      </div>
+    </section>
+
+    <section class="project-section is-tinted">
+      <div class="container is-max-desktop">
+        <h2 class="title is-3 has-text-centered">Quantitative results</h2>
+        <div class="content">
+          <p>Table 1 compares the proposed early-fusion BEV framework with the previous late-stage fusion approach. The updated method substantially reduces identity switches, demonstrating improved identity consistency and tracking stability. Although MOTA and DetA decrease slightly because of BEV projection errors, the unified spatial representation reduces occlusion and perspective-related identity fragmentation.</p>
+          <figure class="structured-figure">
+            <img src="deepbroiler_quantitative_Table1.svg" alt="DeepBroilerTrack Table 1 quantitative results">
+          </figure>
+          <p>Table 2 summarizes the four-fold cross-validation results. The proposed method achieves an average MOTA of 98.00%, MODA of 96.49%, Precision of 99.85%, Recall of 98.23%, and only 2.5 identity switches. These results indicate highly accurate target detection with strong identity preservation across challenging multi-camera conditions.</p>
+          <figure class="structured-figure">
+            <img src="deepbroiler_quantitative_Table2.svg" alt="DeepBroilerTrack Table 2 quantitative results">
+          </figure>
+          <p>Table 3 presents the per-fold comparison with existing multi-camera tracking methods. The results demonstrate that the proposed BEV-based approach delivers consistently strong tracking performance across the evaluation folds, validating the robustness of the early-fusion and multi-view geometric association strategy.</p>
+          <figure class="structured-figure">
+            <img src="deepbroiler_quantitative_Table3.svg" alt="DeepBroilerTrack Table 3 quantitative results">
+          </figure>
+        </div>
+      </div>
+    </section>
+
+    <section class="project-section is-tinted">
+      <div class="container is-max-desktop content">
+        <div class="bibtex-header">
+          <h2 class="title is-3">BibTeX</h2>
+          <button class="button copy-button" type="button" onclick="copyProjectBibTeX()">Copy</button>
+        </div>
+        <pre id="project-bibtex"><code>@article{vo2026deepbroilertrack,
+  title={DeepBroilerTrack: End-to-End Automatic Tracking of Multiple Broilers Using Multiple Cameras},
+  author={Vo, Hao and Phan, Thinh and Kidd, Michael T and Mason, James and Avendano, Santiago and Le, Ngan},
+  journal={Smart Agricultural Technology},
+  pages={102163},
+  year={2026},
+  publisher={Elsevier}
+}</code></pre>
+      </div>
+    </section>
+  </main>
+
+  <footer class="project-footer">
+    <p>Animal Welfare · <a href="https://uark-aicv.github.io/" target="_blank" rel="noopener">AICV Laboratory</a></p>
+  </footer>
+</body>
+</html>

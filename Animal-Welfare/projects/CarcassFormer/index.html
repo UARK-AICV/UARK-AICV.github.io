@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>CarcassFormer | Animal Welfare</title>
+  <meta name="description" content="An end-to-end Transformer-based framework for simultaneous localization, segmentation and classification of poultry carcass defects.">
+  <link rel="icon" href="../../static/images/aicv_logo.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../../static/css/bulma.min.css">
+  <link rel="stylesheet" href="../../static/css/fontawesome.all.min.css">
+  <link rel="stylesheet" href="../../static/css/project.css">
+  <script defer src="../../static/js/fontawesome.all.min.js"></script>
+  <script defer src="../../static/js/project.js"></script>
+</head>
+<body>
+  <nav class="project-nav">
+    <div class="container is-max-desktop">
+      <a href="../../"><i class="fas fa-arrow-left" aria-hidden="true"></i> Back to Animal Welfare</a>
+    </div>
+  </nav>
+
+  <main>
+    <header class="project-header has-text-centered">
+      <div class="container is-max-desktop">
+        <h1 class="title is-1">CarcassFormer: An End-to-end Transformer-based Framework for Simultaneous Localization, Segmentation and Classification of Poultry Carcass Defect</h1>
+        <p class="project-authors">
+          Minh Tran<sup>1</sup>, Sang Truong<sup>1</sup>, Arthur F. A. Fernandes<sup>2</sup>, Michael T. Kidd<sup>1</sup>, and Ngan Le<sup>1</sup>
+        </p>
+        <p class="project-venue"><sup>1</sup> University of Arkansas · <sup>2</sup> Cobb-Vantress, Inc</p>
+        <div class="project-links">
+          <a class="button is-rounded" href="https://www.sciencedirect.com/science/article/pii/S0032579124003456" target="_blank" rel="noopener"><span class="icon"><i class="fas fa-file-pdf"></i></span><span>Paper</span></a>
+          <a class="button is-rounded" href="https://github.com/UARK-AICV/CarcassFormer" target="_blank" rel="noopener"><span class="icon"><i class="fab fa-github"></i></span><span>Code</span></a>
+        </div>
+      </div>
+    </header>
+
+    <section class="project-section">
+      <div class="container is-max-desktop">
+        <h2 class="title is-3 has-text-centered">Video Demonstration</h2>
+        <div class="video-grid">
+          <video class="project-video" controls preload="metadata">
+            <source src="../../videos/carcass_demo1.mp4" type="video/mp4">
+            Your browser does not support the video element.
+          </video>
+          <video class="project-video" controls preload="metadata">
+            <source src="../../videos/carcass_demo2.mp4" type="video/mp4">
+            Your browser does not support the video element.
+          </video>
+        </div>
+        <p class="video-description">The video demonstrations showcase the two main components of CarcassFormer. The left video presents real-time carcass inspection, detecting and counting wings, feathers, feathers on skin, exposed flesh, and the total number of processed carcasses. The right video demonstrates cut-part classification, identifying chicken components such as wings, breasts, tenders, skin, drumsticks, carcasses, and butts.</p>
+      </div>
+    </section>
+
+    <section class="project-section is-tinted">
+      <div class="container is-max-desktop">
+        <h2 class="title is-3 has-text-centered">Abstract</h2>
+        <div class="content">
+          <p>In the food industry, assessing the quality of poultry carcasses during processing is a crucial step. This study proposes an effective approach for automating the assessment of carcass quality without requiring skilled labor or inspector involvement. The proposed system is based on machine learning (ML) and computer vision (CV) techniques, enabling automated defect detection and carcass quality assessment. To this end, an end-to-end framework called CarcassFormer is introduced. It is built upon a Transformer-based architecture designed to effectively extract visual representations while simultaneously detecting, segmenting, and classifying poultry carcass defects. Our proposed framework is capable of analyzing imperfections resulting from production and transport welfare issues, as well as processing plant stunner, scalder, picker, and other equipment malfunctions.</p>
+          <p>To benchmark the framework, a dataset of 7,321 images was initially acquired, which contained both single and multiple carcasses per image. In this study, the performance of the CarcassFormer system is compared with other state-of-the-art (SOTA) approaches for classification, detection, and segmentation tasks. Through extensive quantitative experiments, our framework consistently outperforms existing methods, demonstrating remarkable improvements across various evaluation metrics such as AP, AP@50, and AP@75. Furthermore, the qualitative results highlight the strengths of CarcassFormer in capturing fine details, including feathers, and accurately localizing and segmenting carcasses with high precision. To facilitate further research and collaboration, the source code and trained models will be made publicly available upon acceptance.</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="project-section">
+      <div class="container is-max-desktop">
+        <h2 class="title is-3 has-text-centered">System overview</h2>
+        <figure class="structured-figure">
+          <img src="../../images/carcass.jpg" alt="Flowchart of the proposed CarcassFormer framework">
+          <figcaption>Top: Overall flowchart of our proposed CarcassFormer consisting of 4 components: 1. network backbone; 2. pixel decoder; 3. mask-attention transformer decoder; 4. instance mask class prediction. Bottom: details of third component mask-attention transformer decoder.</figcaption>
+        </figure>
+      </div>
+    </section>
+
+    <section class="project-section is-tinted">
+      <div class="container is-max-desktop">
+        <h2 class="title is-3 has-text-centered">Experimental setup</h2>
+        <figure class="structured-figure">
+          <img src="setup_carcass.jpg" alt="Camera setup for poultry carcass data collection">
+          <figcaption>Camera setup for data collection. A black curtain is hung behind the shackle to provide a certain contrast to the carcasses. A camera is placed to capture the carcasses within the black curtain.</figcaption>
+        </figure>
+      </div>
+    </section>
+
+    <section class="project-section is-tinted">
+      <div class="container is-max-desktop">
+        <h2 class="title is-3 has-text-centered">Dataset statistics</h2>
+        <figure class="structured-figure">
+          <img src="carcass_dataset.svg" alt="CarcassFormer dataset statistics">
+        </figure>
+      </div>
+    </section>
+
+    <section class="project-section">
+      <div class="container is-max-desktop">
+        <h2 class="title is-3 has-text-centered">Qualitative results</h2>
+        <figure class="structured-figure">
+          <img src="qualitative_carcass.jpg" alt="Performance comparison of poultry carcass defect segmentation methods">
+          <figcaption>Performance comparison (A) Mask R-CNN [<a href="https://www.sciencedirect.com/science/article/pii/S0032579124003456#bib0033" target="_blank" rel="noopener">He et al. (2016)</a>], (B) Mask2Former [<a href="https://www.sciencedirect.com/science/article/pii/S0032579124003456#bib0013" target="_blank" rel="noopener">Cheng et al. (2022)</a>] and (C) our CarcassFormer on the defect where <em>single carcass with feathers.</em> In the Segmentation column, notable parts with feathers were highlighted. Compare with Mask R-CNN and Mask2Former, our CarcassFormer can localize carcass with more accurate bounding box and segment carcass with more details on feathers.</figcaption>
+        </figure>
+      </div>
+    </section>
+
+    <section class="project-section is-tinted">
+      <div class="container is-max-desktop">
+        <h2 class="title is-3 has-text-centered">Quantitative results</h2>
+        <figure class="structured-figure">
+          <img src="carcass_quantitative.svg" alt="CarcassFormer quantitative results">
+        </figure>
+        <div class="content">
+          <p>Table 1 summarizes CarcassFormer’s performance on images containing a single carcass. The model achieves excellent results across all three backbones, with ResNet-34 providing the strongest overall performance: 97.70% detection AP and 99.22% segmentation AP. Classification is also highly accurate, reaching 98.02% AP for normal carcasses and 97.38% for defective carcasses.</p>
+          <p>Table 2 presents the more challenging multiple-carcass scenario, where overlapping objects and occlusions reduce detection performance. ResNet-50 achieves the best detection AP of 90.45% and segmentation AP of 98.96%, while maintaining strong classification results for both normal and defective carcasses. Despite the increased complexity, every configuration remains above 85% AP across the main evaluation metrics.</p>
+          <p>These results are particularly promising because CarcassFormer performs detection, defect classification, and instance segmentation within a single framework. Its strong performance on both isolated and overlapping carcasses demonstrates the feasibility of automating carcass inspection in realistic processing environments, where multiple objects may appear simultaneously and precise defect localization is required.</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="project-section is-tinted">
+      <div class="container is-max-desktop content">
+        <div class="bibtex-header">
+          <h2 class="title is-3">BibTeX</h2>
+          <button class="button copy-button" type="button" onclick="copyProjectBibTeX()">Copy</button>
+        </div>
+        <pre id="project-bibtex"><code>@article{tran2024carcassformer,
+  title={CarcassFormer: an end-to-end transformer-based framework for simultaneous localization, segmentation and classification of poultry carcass defect},
+  author={Tran, Minh and Truong, Sang and Fernandes, Arthur FA and Kidd, Michael T and Le, Ngan},
+  journal={Poultry Science},
+  volume={103},
+  number={8},
+  pages={103765},
+  year={2024},
+  publisher={Elsevier}
+}</code></pre>
+      </div>
+    </section>
+  </main>
+
+  <footer class="project-footer">
+    <p>Animal Welfare · <a href="https://uark-aicv.github.io/" target="_blank" rel="noopener">AICV Laboratory</a></p>
+  </footer>
+</body>
+</html>

@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>CattleFever | Animal Welfare</title>
+  <meta name="description" content="An automated cattle fever estimation system using RGB and thermal imagery.">
+  <link rel="icon" href="../../static/images/aicv_logo.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../../static/css/bulma.min.css">
+  <link rel="stylesheet" href="../../static/css/fontawesome.all.min.css">
+  <link rel="stylesheet" href="../../static/css/project.css">
+  <script defer src="../../static/js/fontawesome.all.min.js"></script>
+  <script defer src="../../static/js/project.js"></script>
+</head>
+<body>
+  <nav class="project-nav"><div class="container is-max-desktop"><a href="../../"><i class="fas fa-arrow-left" aria-hidden="true"></i> Back to Animal Welfare</a></div></nav>
+  <main>
+    <header class="project-header has-text-centered">
+      <div class="container is-max-desktop">
+        <h1 class="title is-1">CattleFever: An Automated Cattle Fever Estimation System</h1>
+        <p class="project-authors">Trong Thang Pham<sup>1</sup>, Ethan Coffman<sup>1</sup>, Beth Kegley<sup>1</sup>, Jeremy G. Powell<sup>1</sup>, Jiangchao Zhao<sup>1</sup>, and Ngan Le<sup>1</sup></p>
+        <p class="project-venue"><sup>1</sup> University of Arkansas</p>
+        <div class="project-links">
+          <a class="button is-rounded" href="https://www.sciencedirect.com/science/article/pii/S2772375525006653" target="_blank" rel="noopener"><span class="icon"><i class="fas fa-file-pdf"></i></span><span>Paper</span></a>
+          <a class="button is-rounded" href="https://github.com/UARK-AICV/CattleFace-RGBT-benchmark" target="_blank" rel="noopener"><span class="icon"><i class="fab fa-github"></i></span><span>Code</span></a>
+        </div>
+      </div>
+    </header>
+    <section class="project-section is-tinted">
+      <div class="container is-max-desktop">
+        <h2 class="title is-3 has-text-centered">Abstract</h2>
+        <div class="content">
+          <p>Farmers face the critical challenge of monitoring cattle well-being for both ethical and economic success, relying on signals like body temperature and facial expressions to assess their animals' health. However, these indicators have traditionally relied on human observation with manual measurement, which is time-consuming and subjective. Despite this clear need, no automated system currently exists for monitoring cattle body temperature, and available datasets remain limited in scope.</p>
+          <p>To address these challenges, we make two key contributions: (i) We introduce CattleFace-RGBT, a novel RGB-Thermal (RGB-T) Cattle Facial Landmark dataset consisting of 2,300 paired RGB and thermal images (4,600 images in total), each with associated ground-truth temperature measurements. The dataset was developed through a structured pipeline involving data acquisition, data processing, and semi-automated annotation with 13 facial keypoints; (ii) We propose <em>CattleFever</em>, an automated framework that uses thermal imagery to predict core body temperature. Our CattleFever system comprises three main components: facial keypoint detection, region-of-interest segmentation, feature selection, and temperature estimation. For the temperature estimation component, we explore two approaches: heuristic methods and machine learning approaches. Extensive experiments across various combination of facial regions of interest demonstrate the effectiveness of our framework, with machine learning models significantly outperforming traditional methods. Notably, Random Forest Regression achieves the highest accuracy in predicting core body temperature with a mean square error of 0.13–0.21 square degrees Fahrenheit, highlighting the potential of RGB-T data and AI-driven analysis for advancing precision livestock health monitoring.</p>
+        </div>
+      </div>
+    </section>
+    <section class="project-section">
+      <div class="container is-max-desktop">
+        <h2 class="title is-3 has-text-centered">System overview</h2>
+        <figure class="structured-figure">
+          <img src="../../images/cattlefever.jpg" alt="Overview of the CattleFever automated cattle fever estimation system">
+          <figcaption>The pipeline integrates facial keypoint detection, thermal region segmentation, feature extraction, and predictive modeling to estimate cattle core body temperature non-invasively. Multiple facial-region combinations are evaluated using heuristic and machine-learning approaches, with Random Forest Regression delivering the strongest performance. The resulting temperature estimates provide a practical basis for fever screening and continuous health monitoring.</figcaption>
+        </figure>
+      </div>
+    </section>
+    <section class="project-section is-tinted">
+      <div class="container is-max-desktop">
+        <h2 class="title is-3 has-text-centered">Experimental setup</h2>
+        <figure class="structured-figure">
+          <img src="setup_cattle.jpg" alt="Thermal and RGB camera setup for cattle temperature collection">
+          <figcaption>The setup combines an ICI FMX 400 thermal camera and a standard webcam to simultaneously capture thermal and RGB video of cattle in a chute. IR Flash Pro provides real-time thermal visualization and temperature readings, while manual temperature measurements and animal IDs are recorded as ground-truth data.</figcaption>
+        </figure>
+      </div>
+    </section>
+    <section class="project-section">
+      <div class="container is-max-desktop">
+        <h2 class="title is-3 has-text-centered">Qualitative results</h2>
+        <figure class="structured-figure">
+          <img src="qualitative_cattle.jpg" alt="Qualitative results of the CattleFever system">
+          <figcaption>Qualitative results of CattleFever. We demonstrate four sequential stages applied to thermal images of cattle faces: Input (original thermal images), Key-Points (facial landmark detection with green markers identifying 13 key facial features), Segmentation (region-of-interest extraction showing segmented facial areas in blue and red/orange), and Output (temperature predictions from multiple estimation methods). The keypoints are predicted by the model with a ResNet101 backbone.</figcaption>
+        </figure>
+      </div>
+    </section>
+    <section class="project-section is-tinted">
+      <div class="container is-max-desktop">
+        <h2 class="title is-3 has-text-centered">Quantitative results</h2>
+        <div class="content">
+          <p>Table 1 compares different backbones for cattle facial landmark detection using RGB and thermal images. For RGB data, ResNet-101 achieves the highest bounding-box AP of 76.12% and keypoint AP of 94.37%, while all models reach 100% keypoint AP50. Performance is lower on thermal images because facial boundaries and landmarks have weaker visual contrast. ResNet-101 provides the strongest thermal bounding-box detection with 72.30% AP, whereas Swin-B achieves the highest thermal keypoint AP of 73.16%. Overall, the results show that cattle facial landmarks can be detected reliably across both imaging modalities, although thermal landmark localization remains more challenging.</p>
+          <p>Table 2 evaluates fever estimation using individual facial regions. Random Forest clearly outperforms the heuristic and other regression methods, achieving MSE values between 0.13 and 0.19 and R² values between 0.65 and 0.87. Eyes and nostrils provide the most predictive temperature information, while forehead features are generally less effective. Compared with heuristic approaches, which produce extremely large errors and negative R² values, Random Forest reduces prediction error by more than 99%.</p>
+          <figure class="structured-figure">
+            <img src="cattle_quantitative_1.svg" alt="CattleFever quantitative results for Tables 1 and 2">
+          </figure>
+          <p>Table 3 presents results using pairs of facial regions. Random Forest again achieves the best and most consistent performance, with MSE values of 0.14–0.21 and R² values of 0.77–0.87. The eye–forehead combination provides the highest R² of 0.87, while eye–ear and nostril–ear combinations also achieve low MSE values of 0.14. These results confirm that combining selected regions can provide reliable temperature estimates, although some conventional models become unstable for particular feature combinations.</p>
+          <p>Table 4 evaluates combinations of three or more facial regions. Random Forest maintains stable performance, with MSE values of 0.16–0.17 and R² values of 0.81–0.82 across all configurations. Using every facial region does not improve performance over smaller combinations, indicating that most relevant temperature information is already captured from a limited number of regions.</p>
+          <figure class="structured-figure">
+            <img src="cattle_quantitative_2.svg" alt="CattleFever quantitative results for Tables 3 and 4">
+          </figure>
+          <p>These findings are particularly promising because they demonstrate a non-contact framework that combines RGB–thermal facial landmark detection with automated body-temperature estimation. The strong performance obtained from only a few facial regions suggests that accurate fever screening may be possible without invasive sensors or manual temperature measurements, supporting scalable and less stressful cattle health monitoring.</p>
+        </div>
+      </div>
+    </section>
+    <section class="project-section is-tinted"><div class="container is-max-desktop content"><div class="bibtex-header"><h2 class="title is-3">BibTeX</h2><button class="button copy-button" type="button" onclick="copyProjectBibTeX()">Copy</button></div><pre id="project-bibtex"><code>@article{pham2025cattlefever,
+  title={CattleFever: An Automated Cattle Fever Estimation System},
+  author={Pham, Thang and Coffman, Ethan and Kegley, Beth and Powell, Jeremy G and Zhao, Jiangchao and Le, Ngan},
+  journal={Available at SSRN 5394232},
+  year={2025}
+}</code></pre></div></section>
+  </main>
+  <footer class="project-footer"><p>Animal Welfare · <a href="https://uark-aicv.github.io/" target="_blank" rel="noopener">AICV Laboratory</a></p></footer>
+</body>
+</html>
