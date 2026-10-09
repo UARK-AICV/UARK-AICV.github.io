@@ -1,5 +1,14 @@
 [
     {
+        "title": "REVEAL: Reconstructing Video Amodal Content via Language and Flow Guidance",        
+        "url": "",
+        "image": "minh_tmlr2026.png",
+        "venueLogo": "tmlr_logo.jpg",
+        "type": "Journal",
+        "authors": "M. Tran, W. Bounsavy, N. Le",
+        "year": 2026
+    },
+    {
         "title": "PolypSteer: Counterfactual Endoscopic Synthesis via Training-Free Activation Steering",        
         "url": "https://arxiv.org/abs/2603.07066",
         "image": "pham_miccai_poster.png",

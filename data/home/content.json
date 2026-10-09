@@ -76,6 +76,13 @@
         "summary":"Presenting OmniSpace: Efficient Geometry Awareness for Autonomous Vehicles MLLMs",
         "image": "news7.jpeg",
         "link":"https://arxiv.org/pdf/2606.22617"
+    },
+    {
+        "date": "2026-28-09",
+        "title": "MICAAI: Presenting PolypSteer: Counterfactual Endoscopic Synthesis via Training-Free Activation Steering",
+        "summary":"MICCAI spotlight presentation by Trong Thang Pham in Strasbourg, France.",
+        "image": "news8.png",
+        "link":"https://papers.miccai.org/miccai-2026/0798-Paper4342.html"
     }
 
   ],
