@@ -83,6 +83,13 @@
         "summary":"MICCAI spotlight presentation by Trong Thang Pham in Strasbourg, France.",
         "image": "news8.png",
         "link":"https://papers.miccai.org/miccai-2026/0798-Paper4342.html"
+    },
+    {
+        "date": "2026-09-10",
+        "title": "Three Papers Accepted at WACV 2027",
+        "summary": "Three papers have been accepted at WACV 2027:<ul><li><strong>Cuong Ngo:</strong> Learning to Adapt and Calibrate: Score Distribution Alignment for Few-Shot Uncertainty Prediction in Medical VLMs</li><li><strong>Hao Vo:</strong> Refer-CityFlow and M3Track: A Benchmark Dataset and Reference Framework for Language-Driven Multi-Target Multi-Camera Tracking</li><li><strong>Thang Pham:</strong> IECG: Weakly-Supervised Interpretability-Enhancing Foundation Model for Electrocardiogram</li></ul>Congratulations to all authors!",
+        "image": "news9.jpeg",
+        "link": ""
     }
 
   ],
