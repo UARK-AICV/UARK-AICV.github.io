@@ -1,5 +1,14 @@
 [
     {
+        "title": "Dual-State Slot Attention: Decoupling Appearance and Identity for Video Object-Centric Learning",        
+        "url": "https://arxiv.org/pdf/2606.12601",
+        "image": "sieu_acmmm_poster.jpg",
+        "venueLogo": "acmmm2026.png",
+        "type": "Posters",
+        "authors": "S. Tran, D. Nguyen, H. Vo, K. Vo, N. Le",
+        "year": 2026
+    },
+    {
         "title": "REVEAL: Reconstructing Video Amodal Content via Language and Flow Guidance",        
         "url": "",
         "image": "minh_tmlr2026.png",
