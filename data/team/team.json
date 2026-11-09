@@ -175,12 +175,12 @@
     },
     {
         "name": "Khoa Vo",
-        "category": "Staff",
-        "position": ["Postdoctoral Researcher", "Alumni"],
+        "category": "Alumni",
+        "position": ["Postdoctoral Researcher"],
         "photo": "khoa_vo.jpg",
-        "years": "Since Jan 2025",
+        "years": "PhD (graduated 2024) - Research Assistant Professor at UTK",
         "email": "khoavoho@uark.edu", 
-        "bio": "Khoa Vo is a Postdoctoral Researcher at AICV Lab. His research research focuses on exploring visual perception and its connection to language, 3D vision, and robotic manipulation.",
+        "bio": "Khoa Vo was a Postdoctoral Researcher at AICV Lab from January 2025 to September 2026. His research research focuses on exploring visual perception and its connection to language, 3D vision, and robotic manipulation.",
         "links": [
             { "label": "Google Scholar", "url": "http://scholar.google.com/citations?user=Iyvx8vcAAAAJ"},
             {"label": "LinkedIn", "url": "https://www.linkedin.com/in/khoa-vo-632a8b189"},
@@ -302,6 +302,34 @@
         ]
     },
     {
+        "name": "Trong Thang Pham",
+        "category": "Staff",
+        "position": "Postdoctoral Researcher",
+        "email": "tp030@uark.edu",
+        "photo": "thang_pham.png",
+        "years": "Starting January 2027",
+        "bio": "Trong Thang is a PhD candidate at the University of Arkansas, Fayetteville under the supervision of Dr. Ngan Le. During his PhD, he research understanding experts' eye movement limitations to develop AI systems that augment their capabilities, with a focus on medical. So far, He has contributed several papers to the medical field, published at top-tier venues including ICCV, ACM MM, WACV, ACCV, and journals such as Artificial Intelligence in Medicine and Image and Vision Computing. He used to work as a core R&D researcher at AIOZ Singapore, developing digital twin technologies including talking face generation and 3D human models for metaverse applications. His team at AIOZ published two papers at CVPRW and CVPR.",
+        "links": [
+            { "label": "Google Scholar", "url": "http://scholar.google.com/citations?user=SwR0T0UAAAAJ"},
+            { "label": "LinkedIn", "url": "https://www.linkedin.com/in/phamtrongthanghcmus/"},
+            {"label":"Github", "url": "https://github.com/phamtrongthang123"},
+            {"label":"Personal Website", "url":"https://phamtrongthang123.github.io/"}
+        ],
+        "details": [
+            {
+                "heading": "Research Interests",
+                "data": [
+                    "Human behavioral limitations and how AI can augment human capabilities",
+                    "Integration of computer vision, deep learning, and interpretable AI",
+                    "Eye-tracking–based analysis of human attention and decision-making",
+                    "Human–AI interaction in high-stakes decision environments",
+                    "AI-assisted diagnostic decision-making in medical and cardiology settings",
+                    "Proactive AI tools to support and optimize clinical workflows"
+                ]
+            }
+        ]
+    },
+    {
         "name": "Cuong Ngo",
         "category": "Masters Student",
         "position": "",
@@ -401,46 +429,47 @@
     },
     {
         "name": "Annie Prasanna Manoharan",
-        "category": "Masters Student",
-        "position": "",
+        "category": "Alumni",
+        "position": "Msc (graduated 2026)",
         "email": "am442@uark.edu",
         "photo": "annie_prasanna.png",
         "years": "Since 2024",
-        "bio": "Annie Prasanna is a Research Assistant at the AICV Lab and started her Master’s in Computer Engineering in Fall 2024.",
+        "bio": "Annie Prasanna was a Research Assistant at the AICV Lab and started her Master’s in Computer Engineering in Fall 2024.",
         "links": [
-            { "label": "LinkedIn", "url": "https://www.linkedin.com/in/https://www.linkedin.com/in/annie-prasanna/"},
+            { "label": "LinkedIn", "url": "https://www.linkedin.com/in/annie-prasanna/"},
             {"label":"Github", "url": "https://github.com/Annie0159"}
         ]
     },
     {
         "name": "Samuel Michael Lin",
-        "category": "Masters Student",
+        "category": "Alumni",
         "position": "",
         "email": "",
         "photo": "no_pic.png",
-        "years": "Since 2024",
+        "years": "MSc",
         "bio": ""
     },
     {
         "name": "Winston Bounsavy",
-        "category": "Undergraduate Student",
+        "category": "Alumni",
         "position": "",
         "email": "bounsavy@uark.edu",
         "photo": "winston_bounsavy.jpg",
-        "years": "Since 2022",
+        "years": "BSc (graduated 2026)",
         "bio": "",
         "links": [
+            {"label": "LinkedIn", "url": "https://www.linkedin.com/in/winston-bounsavy-552105271/"},
             {"label":"Github", "url": "https://github.com/Wolla98"}
         ]
     },
     {
         "name": "Ethan Coffman",
-        "category": "Undergraduate Student",
+        "category": "Alumni",
         "position": "",
         "email": "ejc012@uark.edu",
         "photo": "coffman.jpg",
-        "years": "Since 2024",
-        "bio": "Ethan is an undergraduate research assistant at the AICV lab. He currently assists with research related to computer vision and thermal imaging. Ethan is also a member of the honor’s college at the University of Arkansas and currently is a part of the undergraduate research experience.",
+        "years": "BSc (graduated 2026)",
+        "bio": "Ethan was an undergraduate research assistant at the AICV lab. He assisted with research related to computer vision and thermal imaging. Ethan is also a member of the honor’s college at the University of Arkansas and was a part of the undergraduate research experience.",
         "links": [
             {"label":"Github", "url": "https://github.com/ecoffman1"}
         ]
@@ -513,7 +542,7 @@
         "position": "",
         "email": "",
         "photo": "sang_truong.jpg",
-        "years": "MSc (graduated 2023)",
+        "years": "MSc (graduated 2023) - Epic",
         "bio": ""
         ,
         "links": [
@@ -543,7 +572,7 @@
         "position": "",
         "email": "",
         "photo": "kala_rohit.png",
-        "years": "BSc (graduated 2023)",
+        "years": "BSc (graduated 2023) - Tyson",
         "bio": ""
         ,
         "links": [
@@ -579,7 +608,7 @@
         "position": "",
         "email": "eaduran@uark.edu",
         "photo": "esteban_duran.jpeg",
-        "years": "Masters Graduate May 2025 - capSpite",
+        "years": "MSc (graduated 2025) - capSpirue",
         "bio": "Esteban Duran Marti was a Research Assistant at the AICV Lab. He finished his Master’s in Operations Management on Spring 2025. He obtained Advanced Air Mobility Autonomous Operations MicroCertificate and a certificate in Project Management. He has experience creating mobile application, working on various startup companies and JB Hunt.",
         "links": [
             { "label": "LinkedIn", "url": "https://www.linkedin.com/in/https://www.linkedin.com/in/esteban-duran-marti/"},
@@ -601,10 +630,11 @@
         "position": "",
         "email": "jzbumgar@uark.edu",
         "photo": "frederick_bumgarner.png",
-        "years": "Undergraduate Dec 2025 - NextGen",
+        "years": "BSc (graduated 2025) - Rocket Software",
         "bio": "Frederick Bumgarner was a lab assistant at the AICV Lab. He was working under Khoa Voho on research into 3D object tracking and analysis."
         ,
         "links": [
+            {"label": "LinkedIn", "url": "https://www.linkedin.com/in/frederick-bumgarner/"},
             { "label": "Github", "url": "https://github.com/FrederickThemar"}
         ]
     },
@@ -624,12 +654,12 @@
     },
     {
         "name": "Johnmark Clements",
-        "category": "Undergraduate Student",
+        "category": "Alumni",
         "position": "",
         "email": "jwc025@uark.edu",
         "photo": "johnmark_clements.jpg",
-        "years": "Since 2024",
-        "bio": "Johnmarck is a senior student in the computer science department at the University of Arkansas. For the past two years he has been working as a research assistant with Minh Tran on a virtual try-on project.",
+        "years": "BSc (graduated 2026)",
+        "bio": "Johnmarck was a senior student in the computer science department at the University of Arkansas. He has been working as a research assistant with Minh Tran on a virtual try-on project.",
         "links": [
             {"label":"LinkedIn", "url":"https://www.linkedin.com/in/https://www.linkedin.com/in/johnmark-clements-364045257/"},
             { "label": "Github", "url": "https://github.com/https://github.com/JohnmarkC"}
@@ -638,12 +668,12 @@
     },
     {
         "name": "Bryan Williams",
-        "category": "Undergraduate Student",
+        "category": "Alumni",
         "position": "",
         "email": "bryanw@uark.edu",
         "photo": "bryan_williams.png",
-        "years": "Since 2024",
-        "bio": "Bryan is a senior Computer Science major in the honors college with a strong interest in pursuing a career in machine learning. My research focuses on video-based action recognition using multi-camera data. For my honors thesis, I plan to built an end-to-end deep learning pipeline for long-horizon action recognition and evaluated multiple spatiotemporal model architectures."
+        "years": "BSc (graduated 2026)",
+        "bio": "Bryan was a senior Computer Science major in the honors college with a strong interest in pursuing a career in machine learning. His research focuses on video-based action recognition using multi-camera data. For his honors thesis, he planne to built an end-to-end deep learning pipeline for long-horizon action recognition and evaluated multiple spatiotemporal model architectures."
         ,
         "links": [
             { "label": "LinkedIn", "url": "www.linkedin.com/in/bryan-williams-81a6b5220"}
@@ -723,7 +753,7 @@
     },
     {
         "name": "Sieu Tran",
-        "category": "PhD Student",
+        "category": "Masters Student",
         "position": "",
         "email": "stran5@uark.edu",
         "photo": "sieu_tran.jpg",
@@ -741,49 +771,53 @@
         ]
     },
     {
-        "name": "Minh Duc Nguyen",
+        "name": "Duc Nguyen",
         "category": "Masters Student",
         "position": "",
-        "email": "",
-        "photo": "",
+        "email": "dnguyen3@uark.edu",
+        "photo": "duc_nguyen.png",
         "years": "Since 2026",
-        "bio": ""
+        "bio": "His research focuses on video understanding and object-centric representation learning, aiming to extract meaningful object-level information from videos. His research interests include object-centric representation learning, video understanding, and vision-language models.",
+        "links": [
+            { "label": "LinkedIn", "url": "https://www.linkedin.com/in/ducminhnguyen2602"},
+            {"label":"Google Scholar", "url": "https://scholar.google.com/citations?user=DYwgNBYAAAAJ&hl=en"}
+        ]
     },
     {
         "name": "Vuong Ho",
         "category": "Alumni",
         "position": "",
         "email": "",
-        "photo": "",
-        "years": "Masters May 2023 - October 2024",
-        "bio": ""
+        "photo": "vuong_ho.png",
+        "years": "MSc (graduated 2024) - UTD",
+        "bio": "",
+        "links": [
+            { "label": "LinkedIn", "url": "https://www.linkedin.com/in/vvuonghn/"}
+        ]
     },
     {
         "name": "Tan Bui",
         "category": "Alumni",
         "position": "",
         "email": "",
-        "photo": "",
-        "years": "Masters August 2023 - May 2024",
-        "bio": ""
-    },
-    {
-        "name": "Vuong Ho",
-        "category": "Alumni",
-        "position": "",
-        "email": "",
-        "photo": "",
-        "years": "Masters May 2023 - October 2024",
-        "bio": ""
+        "photo": "tan_bui.png",
+        "years": "MSc (graduated 2024) - CMU",
+        "bio": "",
+        "links": [
+            { "label": "LinkedIn", "url": "https://www.linkedin.com/in/bntannnn/"}
+        ]
     },
     {
         "name": "Duy Le",
         "category": "Alumni",
         "position": "",
         "email": "",
-        "photo": "",
-        "years": "PhD May 2024 - May 2025",
-        "bio": ""
+        "photo": "duy_le.jpeg",
+        "years": "PhD (May 2024 - August 2025) - MBZUAI",
+        "bio": "", 
+        "links": [
+            { "label": "LinkedIn", "url": "https://www.linkedin.com/in/leduy99/"}
+        ]
     },
     {
         "name": "Hoang Kim Tran",
@@ -791,8 +825,11 @@
         "position": "",
         "email": "",
         "photo": "",
-        "years": "Masters May 2024 - December 2025",
-        "bio": ""
+        "years": "MSc (May 2024 - December 2025) - Northeastern University",
+        "bio": "",
+        "links": [
+            { "label": "LinkedIn", "url": "https://www.linkedin.com/in/kim-tran-766363244/"}
+        ]
     },
     {
         "name": "Duc Le",
@@ -800,7 +837,7 @@
         "position": "",
         "email": "",
         "photo": "",
-        "years": "PhD Fall 2021 - January 2023",
+        "years": "PhD (Fall 2021 - January 2023)",
         "bio": ""
     },
     {
@@ -809,7 +846,7 @@
         "position": "",
         "email": "",
         "photo": "an_le.png",
-        "years": "PhD August 2022 - January 2026",
+        "years": "PhD (August 2022 - January 2026)",
         "bio": ""
     },
     {
@@ -818,16 +855,16 @@
         "position": "",
         "email": "",
         "photo": "",
-        "years": "January 2020 - December 2021",
+        "years": "(January 2020 - December 2021)",
         "bio": ""
     },
     {
         "name": "Chiyou Vang",
-        "category": "Masters Student",
+        "category": "Alumni",
         "position": "",
         "email": "cv009@uark.edu",
         "photo": "",
-        "years": "Since 2025",
+        "years": "MSc (graduated 2026)",
         "bio": ""
     }
 

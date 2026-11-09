@@ -79,7 +79,7 @@
     },
     {
         "date": "2026-09-12",
-        "title": "MICAAI: Presenting PolypSteer: Counterfactual Endoscopic Synthesis via Training-Free Activation Steering",
+        "title": "MICCAI: Presenting PolypSteer: Counterfactual Endoscopic Synthesis via Training-Free Activation Steering",
         "summary":"MICCAI spotlight presentation by Trong Thang Pham in Strasbourg, France.",
         "image": "news8.png",
         "link":"https://papers.miccai.org/miccai-2026/0798-Paper4342.html"
@@ -90,6 +90,20 @@
         "summary": "Three papers have been accepted at WACV 2027:<ul><li><strong>Cuong Ngo:</strong> Learning to Adapt and Calibrate: Score Distribution Alignment for Few-Shot Uncertainty Prediction in Medical VLMs</li><li><strong>Hao Vo:</strong> Refer-CityFlow and M3Track: A Benchmark Dataset and Reference Framework for Language-Driven Multi-Target Multi-Camera Tracking</li><li><strong>Thang Pham:</strong> IECG: Weakly-Supervised Interpretability-Enhancing Foundation Model for Electrocardiogram</li></ul>Congratulations to all authors!",
         "image": "news9.jpeg",
         "link": ""
+    },
+    {
+        "date": "2026-10-30",
+        "title": "Successful Doctoral Dissertation Defense",
+        "summary": "Congratulations to Thang Pham on successfully defending his doctoral dissertation, “Human Visual Attention Modeling and Representation Steering in Medical Computer Vision”! He is pictured with his dissertation committee members.",
+        "image": "news10.JPG",
+        "link": ""
+    },
+     {
+        "date": "2026-11-10",
+        "title": "ACM Multimedia 2026: Presenting Dual-State Slot Attention",
+        "summary": "Congratulations to Sieu Tran and coauthors on the acceptance of “Dual-State Slot Attention: Decoupling Appearance and Identity for Video Object-Centric Learning” for presentation at ACM Multimedia 2026! DSSA separates an object’s changing appearance from its persistent identity to maintain consistent object representations across video frames, including during rapid motion and partial occlusion.",
+        "image": "news11.png",
+        "link": "https://uark-aicv.github.io/dssa/"
     }
 
   ],
