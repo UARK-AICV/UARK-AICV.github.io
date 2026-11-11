@@ -104,6 +104,13 @@
         "summary": "Congratulations to Sieu Tran and coauthors on the acceptance of “Dual-State Slot Attention: Decoupling Appearance and Identity for Video Object-Centric Learning” for presentation at ACM Multimedia 2026! DSSA separates an object’s changing appearance from its persistent identity to maintain consistent object representations across video frames, including during rapid motion and partial occlusion.",
         "image": "news11.png",
         "link": "https://uark-aicv.github.io/dssa/"
+    },
+    {
+        "date": "2026-11-11",
+        "title": "REVEAL Accepted in TMLR (Q1 Journal)",
+        "summary":  "Congratulations to Minh Tran and coauthors on the acceptance of “REVEAL: Reconstructing Video Amodal Content via Language and Flow Guidance” for publication in Transactions on Machine Learning Research (TMLR)! REVEAL uses language and flow guidance to reconstruct amodal content in videos.",
+        "image": "news12.png",
+        "link": "https://uark-aicv.github.io/REVEAL/#"
     }
 
   ],

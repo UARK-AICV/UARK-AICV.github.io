@@ -172,34 +172,7 @@
                 ]
             }
         ]
-    },
-    {
-        "name": "Khoa Vo",
-        "category": "Alumni",
-        "position": ["Postdoctoral Researcher"],
-        "photo": "khoa_vo.jpg",
-        "years": "PhD (graduated 2024) - Research Assistant Professor at UTK",
-        "email": "khoavoho@uark.edu", 
-        "bio": "Khoa Vo was a Postdoctoral Researcher at AICV Lab from January 2025 to September 2026. His research research focuses on exploring visual perception and its connection to language, 3D vision, and robotic manipulation.",
-        "links": [
-            { "label": "Google Scholar", "url": "http://scholar.google.com/citations?user=Iyvx8vcAAAAJ"},
-            {"label": "LinkedIn", "url": "https://www.linkedin.com/in/khoa-vo-632a8b189"},
-            {"label":"Github", "url": "https://github.com/vhvkhoa"},
-            { "label": "Personal Website", "url": "https://vhvkhoa.github.io/"}
-        ],
-        "details": [
-            {
-                "heading": "Research Interests",
-                "data": [
-                    "Visual Perception",
-                    "Vision-Language Model",
-                    "3D Vision",
-                    "Robotic Manipulation"
-                ]
-            }
-        ]
-    },
-    {
+    },{
         "name": "Marta Veganzones",
         "category": "Staff",
         "position": ["Associate Researcher", "Alumni"],
@@ -373,7 +346,7 @@
         "category": "Masters Student",
         "position": "",
         "email": "maalexra@uark.edu",
-        "photo": "",
+        "photo": "mark_agnello.jpeg",
         "years": "Since Jan 2025",
         "bio": "Mark is a lab assistant at the AICV Lab, working on machine learning–based weather prediction. His current research focuses on forecasting fog conditions in Northwest Arkansas using data from NWA Airport, with the broader goal of improving model accuracy across multiple weather types.",
         "details": [
@@ -426,219 +399,7 @@
                 ]
             }
         ]
-    },
-    {
-        "name": "Annie Prasanna Manoharan",
-        "category": "Alumni",
-        "position": "Msc (graduated 2026)",
-        "email": "am442@uark.edu",
-        "photo": "annie_prasanna.png",
-        "years": "Since 2024",
-        "bio": "Annie Prasanna was a Research Assistant at the AICV Lab and started her Master’s in Computer Engineering in Fall 2024.",
-        "links": [
-            { "label": "LinkedIn", "url": "https://www.linkedin.com/in/annie-prasanna/"},
-            {"label":"Github", "url": "https://github.com/Annie0159"}
-        ]
-    },
-    {
-        "name": "Samuel Michael Lin",
-        "category": "Alumni",
-        "position": "",
-        "email": "",
-        "photo": "no_pic.png",
-        "years": "MSc",
-        "bio": ""
-    },
-    {
-        "name": "Winston Bounsavy",
-        "category": "Alumni",
-        "position": "",
-        "email": "bounsavy@uark.edu",
-        "photo": "winston_bounsavy.jpg",
-        "years": "BSc (graduated 2026)",
-        "bio": "",
-        "links": [
-            {"label": "LinkedIn", "url": "https://www.linkedin.com/in/winston-bounsavy-552105271/"},
-            {"label":"Github", "url": "https://github.com/Wolla98"}
-        ]
-    },
-    {
-        "name": "Ethan Coffman",
-        "category": "Alumni",
-        "position": "",
-        "email": "ejc012@uark.edu",
-        "photo": "coffman.jpg",
-        "years": "BSc (graduated 2026)",
-        "bio": "Ethan was an undergraduate research assistant at the AICV lab. He assisted with research related to computer vision and thermal imaging. Ethan is also a member of the honor’s college at the University of Arkansas and was a part of the undergraduate research experience.",
-        "links": [
-            {"label":"Github", "url": "https://github.com/ecoffman1"}
-        ]
-    },
-    {
-        "name": "Kevin Joo",
-        "category": "Visiting Scholar",
-        "position": "",
-        "email": "",
-        "photo": "kevin_joo.jpg",
-        "years": "May 2022 - Aug 2022",
-        "bio": "",
-        "links": [
-            { "label": "Google Scholar", "url": "http://scholar.google.com/citations?user=5DxdB_wAAAAJ"},
-            { "label": "LinkedIn", "url": "https://www.linkedin.com/in/kevin-joo"},
-            { "label": "Github", "url": "https://github.com/joos2010kj"}
-        ]
-    },
-    {
-        "name": "Kashu Yamazaki",
-        "category": "Alumni",
-        "position": "",
-        "email": "kyamazak@uark.edu",
-        "photo": "kashu_yamazaki.jpg",
-        "years": "MSc (graduated 2024) - CMU",
-        "bio": "Kashu is currently with the Robotics Institute Carnegie Mellon University (CMU). After obtained his masters, he worked as a Research Associate until August 2024. He received a M.S. degree in computer science from the University of Arkansas, Fayetteville, in 2023. Previously, he received a B.S. degree with summa cum laude in mechanical engineering from the University of Arkansas, Fayetteville, in 2021. His research interests are vision-language models and robotics. He has authored publications appearing in international conferences and journals. He is a member of Tau Beta Pi."
-        ,
-        "links": [
-            { "label": "Google Scholar", "url": "https://scholar.google.com/citations?user=TF2LRvMAAAAJ"},
-            { "label": "LinkedIn", "url": "https://www.linkedin.com/in/kashu-y-51a62b128"},
-            { "label": "Github", "url": "https://github.com/Kashu7100"}
-        ]
-    },
-    {
-        "name": "Gustavo Gracia",
-        "category": "Alumni",
-        "position": "",
-        "email": "",
-        "photo": "gustavo_gracia.png",
-        "years": "BASc (graduated 2022) - Meta",
-        "bio": "",
-        "links": [
-            { "label": "LinkedIn", "url": "https://www.linkedin.com/in/gustavogarcia99"}
-        ]
-    },
-    {
-        "name": "Adrian de Luis",
-        "category": "Alumni",
-        "position": "",
-        "email": "ad084@uark.edu",
-        "photo": "adrian_luis.png",
-        "years": "MSc (graduated 2023) - Dell",
-        "bio": "Adrian de Luis was a Research Assistant at the AICV Lab. He started his Master’s of Science in Computer Science in January 2022 after working at GMV for around 3 years. He was part of the team which developed the Precise Positioning algorithm included in the next generation of vehicles for the BMW group at the time. Before his time at GMV, he graduated from the Bachelor’s of Science at the Universidad Carlos III in Telecommunication Technologies Engineering."
-        ,
-        "links": [
-            { "label": "LinkedIn", "url": "https://www.linkedin.com/in/adrian-de-luis-b113231b5/"}
-        ],
-        "details": [
-            {
-                "heading": "Research Interests",
-                "data": [
-                    "Remote Sensing focused on aerial imagery"
-                ]
-            }
-        ]
-    },
-    {
-        "name": "Sang Truong",
-        "category": "Alumni",
-        "position": "",
-        "email": "",
-        "photo": "sang_truong.jpg",
-        "years": "MSc (graduated 2023) - Epic",
-        "bio": ""
-        ,
-        "links": [
-            { "label": "Google Scholar", "url": "https://scholar.google.com/citations?user=JG2yzhgAAAAJ"}
-        ],
-        "details": [
-            {
-                "heading": "Research Interests",
-                "data": [
-                    "Remote Sensing focused on aerial imagery"
-                ]
-            }
-        ]
-    },
-    {
-        "name": "Noah Core",
-        "category": "Alumni",
-        "position": "",
-        "email": "",
-        "photo": "noah_core.png",
-        "years": "BSc (graduated 2023)",
-        "bio": ""
-    },
-    {
-        "name": "Kala Rohit",
-        "category": "Alumni",
-        "position": "",
-        "email": "",
-        "photo": "kala_rohit.png",
-        "years": "BSc (graduated 2023) - Tyson",
-        "bio": ""
-        ,
-        "links": [
-            { "label": "LinkedIn", "url": "https://www.linkedin.com/in/rohit-kala-1b891a179"}
-        ]
-    },
-    {
-        "name": "Anh Tran",
-        "category": "Alumni",
-        "position": "",
-        "email": "anhtran@uark.edu",
-        "photo": "anh_tran.png",
-        "years": "BSc (graduated 2025) - Tyson",
-        "bio": ""
-    },
-    {
-        "name": "Malachi Massey",
-        "category": "Alumni",
-        "position": "",
-        "email": "mm204@uark.edu",
-        "photo": "malachi_massey.jpg",
-        "years": "BSc (graduated 2025) - Moss & Associates",
-        "bio": "Malachi Massey was a Research Assistant in the AICV lab. He worked on aerial Solar PV image analysis with Esteban Duran Marti. He has internship experience in the solar industry."
-        ,
-        "links": [
-            { "label": "LinkedIn", "url": "https://www.linkedin.com/in/malachi-massey-6005bb199"},
-            { "label": "Github", "url": "https://github.com/MalachiMassey"}
-        ]
-    },
-    {
-        "name": "Esteban Duran Marti",
-        "category": "Alumni",
-        "position": "",
-        "email": "eaduran@uark.edu",
-        "photo": "esteban_duran.jpeg",
-        "years": "MSc (graduated 2025) - capSpirue",
-        "bio": "Esteban Duran Marti was a Research Assistant at the AICV Lab. He finished his Master’s in Operations Management on Spring 2025. He obtained Advanced Air Mobility Autonomous Operations MicroCertificate and a certificate in Project Management. He has experience creating mobile application, working on various startup companies and JB Hunt.",
-        "links": [
-            { "label": "LinkedIn", "url": "https://www.linkedin.com/in/https://www.linkedin.com/in/esteban-duran-marti/"},
-            { "label": "Github", "url": "https://github.com/Estebanadm"}
-        ]
-    },
-    {
-        "name": "Phillip Cannon",
-        "category": "Alumni",
-        "position": "",
-        "email": "",
-        "photo": "phillip_cannon.png",
-        "years": "Masters Graduate Dec 2025 - CTO at LexMed",
-        "bio": ""
-    },
-        {
-        "name": "Frederick Bumgarner",
-        "category": "Alumni",
-        "position": "",
-        "email": "jzbumgar@uark.edu",
-        "photo": "frederick_bumgarner.png",
-        "years": "BSc (graduated 2025) - Rocket Software",
-        "bio": "Frederick Bumgarner was a lab assistant at the AICV Lab. He was working under Khoa Voho on research into 3D object tracking and analysis."
-        ,
-        "links": [
-            {"label": "LinkedIn", "url": "https://www.linkedin.com/in/frederick-bumgarner/"},
-            { "label": "Github", "url": "https://github.com/FrederickThemar"}
-        ]
-    },
-    {
+    },{
         "name": "Yuki Ikebe",
         "category": "Masters Student",
         "position": "",
@@ -651,44 +412,7 @@
             { "label": "Google Scholar", "url": "https://scholar.google.com/citations?hl=en&user=4obQ9wsAAAAJ"},
             {"label": "LinkedIn", "url": "https://www.linkedin.com/in/yuki-ikebe-091118255"}
         ]
-    },
-    {
-        "name": "Johnmark Clements",
-        "category": "Alumni",
-        "position": "",
-        "email": "jwc025@uark.edu",
-        "photo": "johnmark_clements.jpg",
-        "years": "BSc (graduated 2026)",
-        "bio": "Johnmarck was a senior student in the computer science department at the University of Arkansas. He has been working as a research assistant with Minh Tran on a virtual try-on project.",
-        "links": [
-            {"label":"LinkedIn", "url":"https://www.linkedin.com/in/https://www.linkedin.com/in/johnmark-clements-364045257/"},
-            { "label": "Github", "url": "https://github.com/https://github.com/JohnmarkC"}
-        ]
-
-    },
-    {
-        "name": "Bryan Williams",
-        "category": "Alumni",
-        "position": "",
-        "email": "bryanw@uark.edu",
-        "photo": "bryan_williams.png",
-        "years": "BSc (graduated 2026)",
-        "bio": "Bryan was a senior Computer Science major in the honors college with a strong interest in pursuing a career in machine learning. His research focuses on video-based action recognition using multi-camera data. For his honors thesis, he planne to built an end-to-end deep learning pipeline for long-horizon action recognition and evaluated multiple spatiotemporal model architectures."
-        ,
-        "links": [
-            { "label": "LinkedIn", "url": "www.linkedin.com/in/bryan-williams-81a6b5220"}
-        ],
-        "details": [
-            {
-                "heading": "Research Interests",
-                "data": [
-                    "Video-based action recognition",
-                    "Multi-camera systems"
-                ]
-            }
-        ]
-    },
-    {
+    },{
         "name": "Gladys Gawugah",
         "category": "Masters Student",
         "position": "",
@@ -784,6 +508,232 @@
         ]
     },
     {
+        "name": "Khoa Vo",
+        "category": "Alumni",
+        "position": ["Postdoctoral Researcher"],
+        "photo": "khoa_vo.jpg",
+        "years": "PhD (graduated 2024) - Research Assistant Professor at UTK",
+        "email": "khoavoho@uark.edu", 
+        "bio": "Khoa Vo was a Postdoctoral Researcher at AICV Lab from January 2025 to September 2026. His research research focuses on exploring visual perception and its connection to language, 3D vision, and robotic manipulation.",
+        "links": [
+            { "label": "Google Scholar", "url": "http://scholar.google.com/citations?user=Iyvx8vcAAAAJ"},
+            {"label": "LinkedIn", "url": "https://www.linkedin.com/in/khoa-vo-632a8b189"},
+            {"label":"Github", "url": "https://github.com/vhvkhoa"},
+            { "label": "Personal Website", "url": "https://vhvkhoa.github.io/"}
+        ],
+        "details": [
+            {
+                "heading": "Research Interests",
+                "data": [
+                    "Visual Perception",
+                    "Vision-Language Model",
+                    "3D Vision",
+                    "Robotic Manipulation"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Kashu Yamazaki",
+        "category": "Alumni",
+        "position": "",
+        "email": "kyamazak@uark.edu",
+        "photo": "kashu_yamazaki.jpg",
+        "years": "MSc (graduated 2024) - CMU",
+        "bio": "Kashu is currently with the Robotics Institute Carnegie Mellon University (CMU). After obtained his masters, he worked as a Research Associate until August 2024. He received a M.S. degree in computer science from the University of Arkansas, Fayetteville, in 2023. Previously, he received a B.S. degree with summa cum laude in mechanical engineering from the University of Arkansas, Fayetteville, in 2021. His research interests are vision-language models and robotics. He has authored publications appearing in international conferences and journals. He is a member of Tau Beta Pi."
+        ,
+        "links": [
+            { "label": "Google Scholar", "url": "https://scholar.google.com/citations?user=TF2LRvMAAAAJ"},
+            { "label": "LinkedIn", "url": "https://www.linkedin.com/in/kashu-y-51a62b128"},
+            { "label": "Github", "url": "https://github.com/Kashu7100"}
+        ]
+    },
+    {
+        "name": "Gustavo Gracia",
+        "category": "Alumni",
+        "position": "",
+        "email": "",
+        "photo": "gustavo_gracia.png",
+        "years": "BASc (graduated 2022) - Meta",
+        "bio": "",
+        "links": [
+            { "label": "LinkedIn", "url": "https://www.linkedin.com/in/gustavogarcia99"}
+        ]
+    },
+    {
+        "name": "Adrian de Luis",
+        "category": "Alumni",
+        "position": "",
+        "email": "ad084@uark.edu",
+        "photo": "adrian_luis.png",
+        "years": "MSc (graduated 2023) - Dell",
+        "bio": "Adrian de Luis was a Research Assistant at the AICV Lab. He started his Master’s of Science in Computer Science in January 2022 after working at GMV for around 3 years. He was part of the team which developed the Precise Positioning algorithm included in the next generation of vehicles for the BMW group at the time. Before his time at GMV, he graduated from the Bachelor’s of Science at the Universidad Carlos III in Telecommunication Technologies Engineering."
+        ,
+        "links": [
+            { "label": "LinkedIn", "url": "https://www.linkedin.com/in/adrian-de-luis-b113231b5/"}
+        ],
+        "details": [
+            {
+                "heading": "Research Interests",
+                "data": [
+                    "Remote Sensing focused on aerial imagery"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Esteban Duran Marti",
+        "category": "Alumni",
+        "position": "",
+        "email": "eaduran@uark.edu",
+        "photo": "esteban_duran.jpeg",
+        "years": "MSc (graduated 2025) - capSpirue",
+        "bio": "Esteban Duran Marti was a Research Assistant at the AICV Lab. He finished his Master’s in Operations Management on Spring 2025. He obtained Advanced Air Mobility Autonomous Operations MicroCertificate and a certificate in Project Management. He has experience creating mobile application, working on various startup companies and JB Hunt.",
+        "links": [
+            { "label": "LinkedIn", "url": "https://www.linkedin.com/in/https://www.linkedin.com/in/esteban-duran-marti/"},
+            { "label": "Github", "url": "https://github.com/Estebanadm"}
+        ]
+    },
+    {
+        "name": "Sang Truong",
+        "category": "Alumni",
+        "position": "",
+        "email": "",
+        "photo": "sang_truong.jpg",
+        "years": "MSc (graduated 2023) - Epic",
+        "bio": ""
+        ,
+        "links": [
+            { "label": "Google Scholar", "url": "https://scholar.google.com/citations?user=JG2yzhgAAAAJ"}
+        ],
+        "details": [
+            {
+                "heading": "Research Interests",
+                "data": [
+                    "Remote Sensing focused on aerial imagery"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Winston Bounsavy",
+        "category": "Alumni",
+        "position": "",
+        "email": "bounsavy@uark.edu",
+        "photo": "winston_bounsavy.jpg",
+        "years": "BSc (graduated 2026)",
+        "bio": "",
+        "links": [
+            {"label": "LinkedIn", "url": "https://www.linkedin.com/in/winston-bounsavy-552105271/"},
+            {"label":"Github", "url": "https://github.com/Wolla98"}
+        ]
+    },{
+        "name": "Anh Tran",
+        "category": "Alumni",
+        "position": "",
+        "email": "anhtran@uark.edu",
+        "photo": "anh_tran.png",
+        "years": "BSc (graduated 2025) - Tyson",
+        "bio": ""
+    },{
+        "name": "Phillip Cannon",
+        "category": "Alumni",
+        "position": "",
+        "email": "",
+        "photo": "phillip_cannon.png",
+        "years": "Masters Graduate Dec 2025 - CTO at LexMed",
+        "bio": ""
+    },
+        {
+        "name": "Frederick Bumgarner",
+        "category": "Alumni",
+        "position": "",
+        "email": "jzbumgar@uark.edu",
+        "photo": "frederick_bumgarner.png",
+        "years": "BSc (graduated 2025) - Rocket Software",
+        "bio": "Frederick Bumgarner was a lab assistant at the AICV Lab. He was working under Khoa Voho on research into 3D object tracking and analysis."
+        ,
+        "links": [
+            {"label": "LinkedIn", "url": "https://www.linkedin.com/in/frederick-bumgarner/"},
+            { "label": "Github", "url": "https://github.com/FrederickThemar"}
+        ]
+    },
+    {
+        "name": "Annie Prasanna Manoharan",
+        "category": "Alumni",
+        "position": "",
+        "email": "am442@uark.edu",
+        "photo": "annie_prasanna.png",
+        "years": "Msc (graduated 2026)",
+        "bio": "Annie Prasanna was a Research Assistant at the AICV Lab and started her Master’s in Computer Engineering in Fall 2024.",
+        "links": [
+            { "label": "LinkedIn", "url": "https://www.linkedin.com/in/annie-prasanna/"},
+            {"label":"Github", "url": "https://github.com/Annie0159"}
+        ]
+    },
+    {
+        "name": "Ethan Coffman",
+        "category": "Alumni",
+        "position": "",
+        "email": "ejc012@uark.edu",
+        "photo": "coffman.jpg",
+        "years": "BSc (graduated 2026)",
+        "bio": "Ethan was an undergraduate research assistant at the AICV lab. He assisted with research related to computer vision and thermal imaging. Ethan is also a member of the honor’s college at the University of Arkansas and was a part of the undergraduate research experience.",
+        "links": [
+            {"label":"Github", "url": "https://github.com/ecoffman1"}
+        ]
+    },
+    {
+        "name": "Johnmark Clements",
+        "category": "Alumni",
+        "position": "",
+        "email": "jwc025@uark.edu",
+        "photo": "johnmark_clements.jpg",
+        "years": "BSc (graduated 2026)",
+        "bio": "Johnmarck was a senior student in the computer science department at the University of Arkansas. He has been working as a research assistant with Minh Tran on a virtual try-on project.",
+        "links": [
+            {"label":"LinkedIn", "url":"https://www.linkedin.com/in/https://www.linkedin.com/in/johnmark-clements-364045257/"},
+            { "label": "Github", "url": "https://github.com/https://github.com/JohnmarkC"}
+        ]
+
+    },
+    {
+        "name": "Bryan Williams",
+        "category": "Alumni",
+        "position": "",
+        "email": "bryanw@uark.edu",
+        "photo": "bryan_williams.png",
+        "years": "BSc (graduated 2026)",
+        "bio": "Bryan was a senior Computer Science major in the honors college with a strong interest in pursuing a career in machine learning. His research focuses on video-based action recognition using multi-camera data. For his honors thesis, he planne to built an end-to-end deep learning pipeline for long-horizon action recognition and evaluated multiple spatiotemporal model architectures."
+        ,
+        "links": [
+            { "label": "LinkedIn", "url": "www.linkedin.com/in/bryan-williams-81a6b5220"}
+        ],
+        "details": [
+            {
+                "heading": "Research Interests",
+                "data": [
+                    "Video-based action recognition",
+                    "Multi-camera systems"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Malachi Massey",
+        "category": "Alumni",
+        "position": "",
+        "email": "mm204@uark.edu",
+        "photo": "malachi_massey.jpg",
+        "years": "BSc (graduated 2025) - Moss & Associates",
+        "bio": "Malachi Massey was a Research Assistant in the AICV lab. He worked on aerial Solar PV image analysis with Esteban Duran Marti. He has internship experience in the solar industry."
+        ,
+        "links": [
+            { "label": "LinkedIn", "url": "https://www.linkedin.com/in/malachi-massey-6005bb199"},
+            { "label": "Github", "url": "https://github.com/MalachiMassey"}
+        ]
+    },
+    {
         "name": "Vuong Ho",
         "category": "Alumni",
         "position": "",
@@ -866,6 +816,52 @@
         "photo": "",
         "years": "MSc (graduated 2026)",
         "bio": ""
+    },
+    {
+        "name": "Noah Core",
+        "category": "Alumni",
+        "position": "",
+        "email": "",
+        "photo": "noah_core.png",
+        "years": "BSc (graduated 2023)",
+        "bio": ""
+    },
+    {
+        "name": "Kala Rohit",
+        "category": "Alumni",
+        "position": "",
+        "email": "",
+        "photo": "kala_rohit.png",
+        "years": "BSc (graduated 2023) - Tyson",
+        "bio": ""
+        ,
+        "links": [
+            { "label": "LinkedIn", "url": "https://www.linkedin.com/in/rohit-kala-1b891a179"}
+        ]
+    },
+    {
+        "name": "Samuel Michael Lin",
+        "category": "Alumni",
+        "position": "",
+        "email": "",
+        "photo": "no_pic.png",
+        "years": "MSc",
+        "bio": ""
+    },
+    {
+        "name": "Kevin Joo",
+        "category": "Visiting Scholar",
+        "position": "",
+        "email": "",
+        "photo": "kevin_joo.jpg",
+        "years": "May 2022 - Aug 2022",
+        "bio": "",
+        "links": [
+            { "label": "Google Scholar", "url": "http://scholar.google.com/citations?user=5DxdB_wAAAAJ"},
+            { "label": "LinkedIn", "url": "https://www.linkedin.com/in/kevin-joo"},
+            { "label": "Github", "url": "https://github.com/joos2010kj"}
+        ]
     }
+
 
 ]
